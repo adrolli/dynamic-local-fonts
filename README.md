@@ -1,12 +1,12 @@
 # Dynamic Local Fonts
 
-Using free fonts (Google Fonts and others) locally and dynamically. WORK IN PROGRESS.
+Using free fonts (Google Fonts and others) locally and dynamically.
 
 ## Why?
 
-I love fonts. For my own project I wanted to use Google Fonts as well as some icon fonts without using the Google Fonts CDN. There are good plugins and code snippets for WordPress and hosting Google Fonts locally became very popular because of this GDPR / DSGVO thing. But I wanted to be able to use the fonts dynamically. Means per page, post or archive. So I started to develop my own solution selecting one of the 900 available Google Fonts in WordPress and loading only this Font (plus my default font) for this single page.
+I love fonts. For my own project I wanted to use Google Fonts as well as some icon fonts without using the Google Fonts CDN. There are good plugins and code snippets for WordPress and hosting Google Fonts locally became very popular because of this GDPR / DSGVO thing. But I wanted to be able to use the fonts dynamically per page, post or archive. So I started to develop my own solution selecting one of the 900 available Google Fonts in WordPress and loading only this Font (plus my default font) for this single page.
 
-## Unleash Creativity
+## Usage
 
 ### Use my WordPress Child Theme
 
@@ -31,3 +31,16 @@ Need Composer or NPM? Want to add a font or features? No problem. Make an issue 
 ## Licence
 
 This code is Open Source, see LICENSE for more information. Check https://fonts.google.com/attribution to check the licenses of the fonts for special usage.
+
+## Known issues
+
+I hate Internet Explorer. I do not support older browser versions with TTF, SVG and EOT. There are only the WOFF and WOFF2 versions included.
+
+I need only latin fonts. For me there was no reason to add other charsets. But it should be no problem to add cyrillic, greek, vietnamese or other charsets. Fork this repo and add the fonts with additional charsets. Adapt your code to select the fonts. Hey, it would be nice, if you create a PR for me to add this feature here.
+
+## Todo
+
+- Complete the list of fonts
+- Make the child-theme available
+- Write a blogpost about it
+- See what I can do with icon fonts
