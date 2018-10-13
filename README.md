@@ -8,8 +8,26 @@ I love fonts. For my own project I wanted to use Google Fonts as well as some ic
 
 ## Unleash Creativity
 
-You may use my child theme as starting point or develop your own thing. More coming soon.
+### Use my WordPress Child Theme
+
+You may use my child theme (coming soon) as starting point or develop your own thing. WORK IN PROGRESS.
+
+### With a WordPress Plugin, Starter Theme or other Websoftware
+
+Use it in your WordPress Plugin, Dyna or any other Starter Theme or in other CMS or Frameworks.
+
+#### Get started
+
+1) Use the font-list copy to build your font-selector dropdown. I copied that in an ACF-Field that is used in Posts, Pages, Categories and other Taxonomies. That is extremely easy to do and to manage.
+
+2) Copy the code from functions.php into your functions.php (only WordPress of course).
+
+3) Copy the fonts-folder into your theme. You can clone it from Github.
+
+## Ideas, Contributions
+
+Need Composer or NPM? Want to add a font or features? No problem. Make an issue or PR.
 
 ## Licence
 
-This code is Open Source, see LICENSE.TXT. The fonts included are licensed ... https://fonts.google.com/attribution.
+This code is Open Source, see LICENSE for more information. Check https://fonts.google.com/attribution to check the licenses of the fonts for special usage.
