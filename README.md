@@ -30,26 +30,40 @@ Need Composer or NPM? Want to add a font or features? No problem. Make an issue 
 
 ## Licence
 
-This code is Open Source, see LICENSE for more information. Check https://fonts.google.com/attribution to check the licenses of the fonts for special usage.
+This code is Open Source, licensed with [GNU General Public License v3.0](LICENSE). All used and included fonts are using following free licenses:
+
+- [SIL Open Fonts License 1.1](https://opensource.org/licenses/OFL-1.1)
+- [Apache License V2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- [Ubuntu Font License 1.0](https://www.ubuntu.com/legal/terms-and-policies/font-licence)
+
+Check [the full list of used fonts](all-fonts.csv) to see which license a font uses.
 
 ## Known issues
 
 I hate Internet Explorer. I do not support older browser versions with TTF, SVG and EOT. There are only the WOFF and WOFF2 versions included.
 
-I need only latin fonts. For me there was no reason to add other charsets. But it should be no problem to add cyrillic, greek, vietnamese or other charsets. Fork this repo and add the fonts with additional charsets. Adapt your code to select the fonts. Hey, it would be nice, if you create a PR for me to add this feature here.
+I need only latin fonts. For me there was no reason to add other charsets. I added some of them for completeness of language support and as a demo. See the [list of special subsets](SUBSETS.md) for details. It is no problem to add cyrillic, greek, vietnamese or other charsets. Fork this repo and add the fonts with additional charsets. It would be nice, if you create a PR for me to add the fonts, too.
 
 ## Thanks
 
-Thanks a million to any font creator sharing his unique font. It is a pleasure to use so many different fonts to create cool blog articles and stunning travel stories. Thanks to Google and Font Library for the free collections of beautiful fonts. Thanks Majodev for the great Google Webfonts Helper API. Thanks mum and dad for letting me learn this computer thing 30 years ago. Thanks Jana for letting me click click click while you sleep with Oropax.
+Thanks a million to any font creator sharing his unique font. It is a pleasure to use so many different fonts to create cool blog articles and stunning travel stories. Thanks to [Google Fonts](https://fonts.google.com) and [Font Library](https://fontlibrary.org) for the free collections of beautiful fonts. Thanks Majodev for the helpful [Google Webfonts Helper API](https://github.com/majodev/google-webfonts-helper/). Thanks mum and dad for letting me learn this computer thing 30 years ago. Thanks Jana for letting me click click click while you sleep with Oropax.
 
 ## Todo
 
+<<<<<<< HEAD
 - Add Font Library
 - Add Font List CSV as working copy 
 - Create the CSS code
 - Test (incl. font-weights)
+=======
+- Add the subset fonts
+- Add Static CSS
+- Add Font Library
+- Create dynamic CSS code (inline)
+- Create dynamic external CSS (optional)
+- Test (incl. font-weights + subsets)
+>>>>>>> 0c5757e1329c00d02790b767c04bb471afd1d6fa
 - What about CDN support?
-- Complete the fonts (900+++)
 - Make the dyna child-theme available
 - Write a blogpost about it
 - See what I can do with icon fonts
