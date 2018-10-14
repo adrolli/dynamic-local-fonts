@@ -30,7 +30,7 @@ Need Composer or NPM? Want to add a font or features? No problem. Make an issue 
 
 ## Licence
 
-This code is Open Source, see the LICENSE for more information. All used and included fonts are using following free licenses.
+This code is Open Source, licensed with [GNU General Public License v3.0](LICENSE). All used and included fonts are using following free licenses:
 
 - [SIL Open Fonts License 1.1](https://opensource.org/licenses/OFL-1.1)
 - [Apache License V2.0](https://www.apache.org/licenses/LICENSE-2.0)
