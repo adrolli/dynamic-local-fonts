@@ -100,12 +100,16 @@ All fonts are available as Latin. For complete support of all available charsets
 - latin/latin-ext/oriya/vietnamese
 - latin
 
-## Padauk
+## Baloo Chettan
+- latin/latin-ext/malayalam/vietnamese
+- latin
+
+## Baloo Tamma
 - kannada/latin/latin-ext/vietnamese
 - latin
 
-## Baloo Chettan
-- latin/latin-ext/malayalam/vietnamese
+## Padauk
+- kannada/latin/latin-ext/vietnamese
 - latin
 
 ## Nanum Gothic
@@ -118,10 +122,6 @@ All fonts are available as Latin. For complete support of all available charsets
 
 ## Hi Melody
 - korean/latin
-- latin
-
-## Baloo Tamma
-- kannada/latin/latin-ext/vietnamese
 - latin
 
 ## Alef
