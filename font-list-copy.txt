@@ -1,13 +1,2780 @@
 Please choose font
-ABeeZee : abeezee
-Abel : abel
-Abhaya Libre : abhaya-libre
-Abhaya Libre (500) : abhaya-libre_500
-Abhaya Libre (600) : abhaya-libre_600
-Abhaya Libre (700) : abhaya-libre_700
-Abhaya Libre (800) : abhaya-libre_800
-Abril Fatface : abril-fatface
-Aclonica : aclonica
-Acme : acme
-Actor : actor
-Adamina : adamina
+Roboto Thin (Sans-Serif, Latin) : roboto-latin-100
+Roboto Thin (Sans-Serif, Vietnamese) : roboto-vietnamese-100
+Roboto Thin (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-100
+Roboto Thin (Sans-Serif, Latin Ext) : roboto-latin-ext-100
+Roboto Thin (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-100
+Roboto Light (Sans-Serif, Latin) : roboto-latin-300
+Roboto Light (Sans-Serif, Vietnamese) : roboto-vietnamese-300
+Roboto Light (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-300
+Roboto Light (Sans-Serif, Latin Ext) : roboto-latin-ext-300
+Roboto Light (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-300
+Alegreya Sans Medium (Sans-Serif, Latin) : alegreya-sans-latin-500
+Alegreya Sans SC Medium (Sans-Serif, Latin) : alegreya-sans-sc-latin-500
+Barlow Medium (Sans-Serif, Latin) : barlow-latin-500
+Barlow Condensed Medium (Sans-Serif, Latin) : barlow-condensed-latin-500
+Barlow Condensed Medium (Serif, Latin) : barlow-condensed-latin-500
+Barlow Semi Condensed Medium (Sans-Serif, Latin) : barlow-semi-condensed-latin-500
+Exo Medium (Sans-Serif, Latin) : exo-latin-500
+Exo 2 Medium (Sans-Serif, Latin) : exo-2-latin-500
+Fira Sans Medium (Sans-Serif, Latin) : fira-sans-latin-500
+Fira Sans Condensed Medium (Sans-Serif, Latin) : fira-sans-condensed-latin-500
+Fira Sans Extra Condensed Medium (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-500
+IBM Plex Mono Medium (Monospace, Latin) : ibm-plex-mono-latin-500
+IBM Plex Sans Medium (Sans-Serif, Latin) : ibm-plex-sans-latin-500
+IBM Plex Sans Condensed Medium (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-500
+IBM Plex Serif Medium (Serif, Latin) : ibm-plex-serif-latin-500
+K2D Medium (Sans-Serif, Latin) : k2d-latin-500
+Kanit Medium (Sans-Serif, Latin) : kanit-latin-500
+Kanit Medium (Sans-Serif, Thai) : kanit-thai-500
+Kanit Medium (Sans-Serif, Thai Latin) : kanit-thai_latin-500
+Kanit Medium (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-500
+Libre Franklin Medium (Sans-Serif, Latin) : libre-franklin-latin-500
+Montserrat Medium (Sans-Serif, Latin) : montserrat-latin-500
+Montserrat Alternates Medium (Sans-Serif, Latin) : montserrat-alternates-latin-500
+Poppins Medium (Sans-Serif, Latin) : poppins-latin-500
+Prompt Medium (Sans-Serif, Latin) : prompt-latin-500
+Raleway Medium (Sans-Serif, Latin) : raleway-latin-500
+Roboto Medium (Sans-Serif, Latin) : roboto-latin-500
+Roboto Medium (Sans-Serif, Vietnamese) : roboto-vietnamese-500
+Roboto Medium (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-500
+Roboto Medium (Sans-Serif, Latin Ext) : roboto-latin-ext-500
+Roboto Medium (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-500
+Spectral Medium (Serif, Latin) : spectral-latin-500
+Spectral SC Medium (Serif, Latin) : spectral-sc-latin-500
+Trirong Medium (Serif, Latin) : trirong-latin-500
+Assistant Semi Bold (Sans-Serif, Latin) : assistant-latin-600
+Bai Jamjuree Semi Bold (Sans-Serif, Latin) : bai-jamjuree-latin-600
+Barlow Semi Bold (Sans-Serif, Latin) : barlow-latin-600
+Barlow Condensed Semi Bold (Sans-Serif, Latin) : barlow-condensed-latin-600
+Barlow Condensed Semi Bold (Serif, Latin) : barlow-condensed-latin-600
+Barlow Semi Condensed Semi Bold (Sans-Serif, Latin) : barlow-semi-condensed-latin-600
+Cairo Semi Bold (Sans-Serif, Latin) : cairo-latin-600
+Exo Semi Bold (Sans-Serif, Latin) : exo-latin-600
+Exo 2 Semi Bold (Sans-Serif, Latin) : exo-2-latin-600
+Fahkwang Semi Bold (Sans-Serif, Latin) : fahkwang-latin-600
+Fira Sans Semi Bold (Sans-Serif, Latin) : fira-sans-latin-600
+Fira Sans Condensed Semi Bold (Sans-Serif, Latin) : fira-sans-condensed-latin-600
+Fira Sans Extra Condensed Semi Bold (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-600
+IBM Plex Mono Semi Bold (Monospace, Latin) : ibm-plex-mono-latin-600
+IBM Plex Sans Semi Bold (Sans-Serif, Latin) : ibm-plex-sans-latin-600
+IBM Plex Sans Condensed Semi Bold (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-600
+IBM Plex Serif Semi Bold (Serif, Latin) : ibm-plex-serif-latin-600
+K2D Semi Bold (Sans-Serif, Latin) : k2d-latin-600
+Kanit Semi Bold (Sans-Serif, Latin) : kanit-latin-600
+Kanit Semi Bold (Sans-Serif, Thai) : kanit-thai-600
+Kanit Semi Bold (Sans-Serif, Thai Latin) : kanit-thai_latin-600
+Kanit Semi Bold (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-600
+Kodchasan Semi Bold (Sans-Serif, Latin) : kodchasan-latin-600
+KoHo Semi Bold (Sans-Serif, Latin) : koho-latin-600
+Krub Semi Bold (Sans-Serif, Latin) : krub-latin-600
+Libre Franklin Semi Bold (Sans-Serif, Latin) : libre-franklin-latin-600
+Mali Semi Bold (Handwriting, Latin) : mali-latin-600
+Montserrat Semi Bold (Sans-Serif, Latin) : montserrat-latin-600
+Montserrat Alternates Semi Bold (Sans-Serif, Latin) : montserrat-alternates-latin-600
+Niramit Semi Bold (Sans-Serif, Latin) : niramit-latin-600
+Overpass Semi Bold (Sans-Serif, Latin) : overpass-latin-600
+Poppins Semi Bold (Sans-Serif, Latin) : poppins-latin-600
+Prompt Semi Bold (Sans-Serif, Latin) : prompt-latin-600
+Raleway Semi Bold (Sans-Serif, Latin) : raleway-latin-600
+Spectral Semi Bold (Serif, Latin) : spectral-latin-600
+Spectral SC Semi Bold (Serif, Latin) : spectral-sc-latin-600
+Trirong Semi Bold (Serif, Latin) : trirong-latin-600
+Alegreya Sans Bold (Sans-Serif, Latin) : alegreya-sans-latin-700
+Alegreya Sans SC Bold (Sans-Serif, Latin) : alegreya-sans-sc-latin-700
+Bai Jamjuree Bold (Sans-Serif, Latin) : bai-jamjuree-latin-700
+Barlow Bold (Sans-Serif, Latin) : barlow-latin-700
+Barlow Condensed Bold (Sans-Serif, Latin) : barlow-condensed-latin-700
+Barlow Condensed Bold (Serif, Latin) : barlow-condensed-latin-700
+Barlow Semi Condensed Bold (Sans-Serif, Latin) : barlow-semi-condensed-latin-700
+Chakra Petch Bold (Sans-Serif, Latin) : chakra-petch-latin-700
+Cormorant Bold (Serif, Latin) : cormorant-latin-700
+Cormorant Garamond Bold (Serif, Latin) : cormorant-garamond-latin-700
+Cormorant Infant Bold (Serif, Latin) : cormorant-infant-latin-700
+Exo Bold (Sans-Serif, Latin) : exo-latin-700
+Exo 2 Bold (Sans-Serif, Latin) : exo-2-latin-700
+Fahkwang Bold (Sans-Serif, Latin) : fahkwang-latin-700
+Fira Sans Bold (Sans-Serif, Latin) : fira-sans-latin-700
+Fira Sans Condensed Bold (Sans-Serif, Latin) : fira-sans-condensed-latin-700
+Fira Sans Extra Condensed Bold (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-700
+IBM Plex Mono Bold (Monospace, Latin) : ibm-plex-mono-latin-700
+IBM Plex Sans Bold (Sans-Serif, Latin) : ibm-plex-sans-latin-700
+IBM Plex Sans Condensed Bold (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-700
+IBM Plex Serif Bold (Serif, Latin) : ibm-plex-serif-latin-700
+Josefin Sans Bold (Sans-Serif, Latin) : josefin-sans-latin-700
+Josefin Slab Bold (Serif, Latin) : josefin-slab-latin-700
+K2D Bold (Sans-Serif, Latin) : k2d-latin-700
+Kanit Bold (Sans-Serif, Latin) : kanit-latin-700
+Kanit Bold (Sans-Serif, Thai) : kanit-thai-700
+Kanit Bold (Sans-Serif, Thai Latin) : kanit-thai_latin-700
+Kanit Bold (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-700
+Kodchasan Bold (Sans-Serif, Latin) : kodchasan-latin-700
+KoHo Bold (Sans-Serif, Latin) : koho-latin-700
+Krub Bold (Sans-Serif, Latin) : krub-latin-700
+Libre Franklin Bold (Sans-Serif, Latin) : libre-franklin-latin-700
+Mali Bold (Handwriting, Latin) : mali-latin-700
+Montserrat Bold (Sans-Serif, Latin) : montserrat-latin-700
+Montserrat Alternates Bold (Sans-Serif, Latin) : montserrat-alternates-latin-700
+Muli Bold (Sans-Serif, Latin) : muli-latin-700
+Niramit Bold (Sans-Serif, Latin) : niramit-latin-700
+Nunito Bold (Sans-Serif, Latin) : nunito-latin-700
+Nunito Sans Bold (Sans-Serif, Latin) : nunito-sans-latin-700
+Overpass Bold (Sans-Serif, Latin) : overpass-latin-700
+Poppins Bold (Sans-Serif, Latin) : poppins-latin-700
+Prompt Bold (Sans-Serif, Latin) : prompt-latin-700
+Raleway Bold (Sans-Serif, Latin) : raleway-latin-700
+Roboto Bold (Sans-Serif, Latin) : roboto-latin-700
+Roboto Bold (Sans-Serif, Vietnamese) : roboto-vietnamese-700
+Roboto Bold (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-700
+Roboto Bold (Sans-Serif, Latin Ext) : roboto-latin-ext-700
+Roboto Bold (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-700
+Roboto Mono Bold (Monospace, Latin) : roboto-mono-latin-700
+Source Sans Pro Bold (Sans-Serif, Latin) : source-sans-pro-latin-700
+Spectral Bold (Serif, Latin) : spectral-latin-700
+Spectral SC Bold (Serif, Latin) : spectral-sc-latin-700
+Titillium Web Bold (Sans-Serif, Latin) : titillium-web-latin-700
+Trirong Bold (Serif, Latin) : trirong-latin-700
+Zilla Slab Bold (Serif, Latin) : zilla-slab-latin-700
+Alegreya Sans Extra Bold (Sans-Serif, Latin) : alegreya-sans-latin-800
+Alegreya Sans SC Extra Bold (Sans-Serif, Latin) : alegreya-sans-sc-latin-800
+Assistant Extra Bold (Sans-Serif, Latin) : assistant-latin-800
+Barlow Extra Bold (Sans-Serif, Latin) : barlow-latin-800
+Barlow Condensed Extra Bold (Sans-Serif, Latin) : barlow-condensed-latin-800
+Barlow Condensed Extra Bold (Serif, Latin) : barlow-condensed-latin-800
+Barlow Semi Condensed Extra Bold (Sans-Serif, Latin) : barlow-semi-condensed-latin-800
+EB Garamond Extra Bold (Serif, Latin) : eb-garamond-latin-800
+Exo Extra Bold (Sans-Serif, Latin) : exo-latin-800
+Exo 2 Extra Bold (Sans-Serif, Latin) : exo-2-latin-800
+Fira Sans Extra Bold (Sans-Serif, Latin) : fira-sans-latin-800
+Fira Sans Condensed Extra Bold (Sans-Serif, Latin) : fira-sans-condensed-latin-800
+Fira Sans Extra Condensed Extra Bold (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-800
+K2D Extra Bold (Sans-Serif, Latin) : k2d-latin-800
+Kanit Extra Bold (Sans-Serif, Latin) : kanit-latin-800
+Kanit Extra Bold (Sans-Serif, Thai) : kanit-thai-800
+Kanit Extra Bold (Sans-Serif, Thai Latin) : kanit-thai_latin-800
+Kanit Extra Bold (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-800
+Libre Franklin Extra Bold (Sans-Serif, Latin) : libre-franklin-latin-800
+Montserrat Extra Bold (Sans-Serif, Latin) : montserrat-latin-800
+Montserrat Alternates Extra Bold (Sans-Serif, Latin) : montserrat-alternates-latin-800
+Muli Extra Bold (Sans-Serif, Latin) : muli-latin-800
+Nunito Extra Bold (Sans-Serif, Latin) : nunito-latin-800
+Nunito Sans Extra Bold (Sans-Serif, Latin) : nunito-sans-latin-800
+Open Sans Extra Bold (Sans-Serif, Latin) : open-sans-latin-800
+Open Sans Extra Bold (Sans-Serif, Greek Ext) : open-sans-greek-ext-800
+Open Sans Extra Bold (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-800
+Open Sans Extra Bold (Sans-Serif, Latin Ext) : open-sans-latin-ext-800
+Open Sans Extra Bold (Sans-Serif, Vietnamese) : open-sans-vietamese-800
+Overpass Extra Bold (Sans-Serif, Latin) : overpass-latin-800
+Poppins Extra Bold (Sans-Serif, Latin) : poppins-latin-800
+Prompt Extra Bold (Sans-Serif, Latin) : prompt-latin-800
+Proza Libre Extra Bold (Sans-Serif, Latin) : proza-libre-latin-800
+Raleway Extra Bold (Sans-Serif, Latin) : raleway-latin-800
+Spectral Extra Bold (Serif, Latin) : spectral-latin-800
+Spectral SC Extra Bold (Serif, Latin) : spectral-sc-latin-800
+Trirong Extra Bold (Serif, Latin) : trirong-latin-800
+Alegreya Black (Serif, Latin) : alegreya-latin-900
+Alegreya Sans Black (Sans-Serif, Latin) : alegreya-sans-latin-900
+Alegreya Sans SC Black (Sans-Serif, Latin) : alegreya-sans-sc-latin-900
+Alegreya SC Black (Serif, Latin) : alegreya-sc-latin-900
+Barlow Black (Sans-Serif, Latin) : barlow-latin-900
+Barlow Condensed Black (Sans-Serif, Latin) : barlow-condensed-latin-900
+Barlow Condensed Black (Serif, Latin) : barlow-condensed-latin-900
+Barlow Semi Condensed Black (Sans-Serif, Latin) : barlow-semi-condensed-latin-900
+Catamaran Black (Sans-Serif, Latin) : catamaran-latin-900
+Encode Sans Black (Sans-Serif, Latin) : encode-sans-latin-900
+Encode Sans Condensed Black (Sans-Serif, Latin) : encode-sans-condensed-latin-900
+Encode Sans Expanded Black (Sans-Serif, Latin) : encode-sans-expanded-latin-900
+Encode Sans Semi Condensed Black (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-900
+Encode Sans Semi Expanded Black (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-900
+Exo Black (Sans-Serif, Latin) : exo-latin-900
+Exo 2 Black (Sans-Serif, Latin) : exo-2-latin-900
+Fira Sans Black (Sans-Serif, Latin) : fira-sans-latin-900
+Fira Sans Condensed Black (Sans-Serif, Latin) : fira-sans-condensed-latin-900
+Fira Sans Extra Condensed Black (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-900
+Gothic A9 Black (Sans-Serif, Latin) : gothic-a9-latin-900
+Kanit Black (Sans-Serif, Latin) : kanit-latin-900
+Kanit Black (Sans-Serif, Thai) : kanit-thai-900
+Kanit Black (Sans-Serif, Thai Latin) : kanit-thai_latin-900
+Kanit Black (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-900
+Lato Black (Sans-Serif, Latin) : lato-latin-900
+Libre Franklin Black (Sans-Serif, Latin) : libre-franklin-latin-900
+Montserrat Black (Sans-Serif, Latin) : montserrat-latin-900
+Montserrat Alternates Black (Sans-Serif, Latin) : montserrat-alternates-latin-900
+Muli Black (Sans-Serif, Latin) : muli-latin-900
+Nunito Black (Sans-Serif, Latin) : nunito-latin-900
+Nunito Sans Black (Sans-Serif, Latin) : nunito-sans-latin-900
+Overpass Black (Sans-Serif, Latin) : overpass-latin-900
+Poppins Black (Sans-Serif, Latin) : poppins-latin-900
+Prompt Black (Sans-Serif, Latin) : prompt-latin-900
+Raleway Black (Sans-Serif, Latin) : raleway-latin-900
+Roboto Black (Sans-Serif, Latin) : roboto-latin-900
+Roboto Black (Sans-Serif, Vietnamese) : roboto-vietnamese-900
+Roboto Black (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-900
+Roboto Black (Sans-Serif, Latin Ext) : roboto-latin-ext-900
+Roboto Black (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-900
+Rokkitt Black (Serif, Latin) : rokkitt-latin-900
+Rubik Black (Sans-Serif, Latin) : rubik-latin-900
+Saira Black (Sans-Serif, Latin) : saira-latin-900
+Saira Condensed Black (Sans-Serif, Latin) : saira-condensed-latin-900
+Saira Extra Condensed Black (Sans-Serif, Latin) : saira-extra-condensed-latin-900
+Saira Semi Condensed Black (Sans-Serif, Latin) : saira-semi-condensed-latin-900
+Source Sans Pro Black (Sans-Serif, Latin) : source-sans-pro-latin-900
+Titillium Web Black (Sans-Serif, Latin) : titillium-web-latin-900
+Trirong Black (Serif, Latin) : trirong-latin-900
+Work Sans Black (Sans-Serif, Latin) : work-sans-latin-900
+Advent Pro Thin (Sans-Serif, Latin) : advent-pro-latin-100
+Alegreya Sans Thin (Sans-Serif, Latin) : alegreya-sans-latin-100
+Alegreya Sans SC Thin (Sans-Serif, Latin) : alegreya-sans-sc-latin-100
+Arima Madurai Thin (Display, Latin) : arima-madurai-latin-100
+Barlow Thin (Sans-Serif, Latin) : barlow-latin-100
+Barlow Condensed Thin (Sans-Serif, Latin) : barlow-condensed-latin-100
+Barlow Condensed Thin (Serif, Latin) : barlow-condensed-latin-100
+Barlow Semi Condensed Thin (Sans-Serif, Latin) : barlow-semi-condensed-latin-100
+Catamaran Thin (Sans-Serif, Latin) : catamaran-latin-100
+Chathura Thin (Sans-Serif, Latin) : chathura-latin-100
+Encode Sans Thin (Sans-Serif, Latin) : encode-sans-latin-100
+Encode Sans Condensed Thin (Sans-Serif, Latin) : encode-sans-condensed-latin-100
+Encode Sans Expanded Thin (Sans-Serif, Latin) : encode-sans-expanded-latin-100
+Encode Sans Semi Condensed Thin (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-100
+Encode Sans Semi Expanded Thin (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-100
+Exo Thin (Sans-Serif, Latin) : exo-latin-100
+Exo 2 Thin (Sans-Serif, Latin) : exo-2-latin-100
+Fira Sans Thin (Sans-Serif, Latin) : fira-sans-latin-100
+Fira Sans Condensed Thin (Sans-Serif, Latin) : fira-sans-condensed-latin-100
+Fira Sans Extra Condensed Thin (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-100
+Gothic A1 Thin (Sans-Serif, Latin) : gothic-a1-latin-100
+Heebo Thin (Sans-Serif, Latin) : heebo-latin-100
+IBM Plex Mono Thin (Monospace, Latin) : ibm-plex-mono-latin-100
+IBM Plex Sans Thin (Sans-Serif, Latin) : ibm-plex-sans-latin-100
+IBM Plex Sans Condensed Thin (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-100
+IBM Plex Serif Thin (Serif, Latin) : ibm-plex-serif-latin-100
+Josefin Sans Thin (Sans-Serif, Latin) : josefin-sans-latin-100
+Josefin Slab Thin (Serif, Latin) : josefin-slab-latin-100
+K2D Thin (Sans-Serif, Latin) : k2d-latin-100
+Kanit Thin (Sans-Serif, Latin) : kanit-latin-100
+Kanit Thin (Sans-Serif, Thai) : kanit-thai-100
+Kanit Thin (Sans-Serif, Thai Latin) : kanit-thai_latin-100
+Kanit Thin (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-100
+Lato Thin (Sans-Serif, Latin) : lato-latin-100
+Libre Franklin Thin (Sans-Serif, Latin) : libre-franklin-latin-100
+Londrina Solid Thin (Display, Latin) : londrina-solid-latin-100
+M PLUS 1p Thin (Sans-Serif, Latin) : m-plus-1p-latin-100
+M PLUS 1p Thin (Sans-Serif, Latin) : m-plus-1p-latin-100
+M PLUS Rounded 1c Thin (Sans-Serif, Latin) : m-plus-rounded-1c-latin-100
+Montserrat Thin (Sans-Serif, Latin) : montserrat-latin-100
+Montserrat Alternates Thin (Sans-Serif, Latin) : montserrat-alternates-latin-100
+Noto Sans JP Thin (Sans-Serif, Japanese) : noto-sans-jp-japanese_latin-100
+Noto Sans KR Thin (Sans-Serif, Korean) : noto-sans-kr-latin_korean-100
+Overpass Thin (Sans-Serif, Latin) : overpass-latin-100
+Palanquin Thin (Sans-Serif, Latin) : palanquin-latin-100
+Poppins Thin (Sans-Serif, Latin) : poppins-latin-100
+Prompt Thin (Sans-Serif, Latin) : prompt-latin-100
+Raleway Thin (Sans-Serif, Latin) : raleway-latin-100
+Roboto Mono Thin (Monospace, Latin) : roboto-mono-latin-100
+Roboto Slab Thin (Serif, Latin) : roboto-slab-latin-100
+Rokkitt Thin (Serif, Latin) : rokkitt-latin-100
+Saira Thin (Sans-Serif, Latin) : saira-latin-100
+Saira Condensed Thin (Sans-Serif, Latin) : saira-condensed-latin-100
+Saira Extra Condensed Thin (Sans-Serif, Latin) : saira-extra-condensed-latin-100
+Saira Semi Condensed Thin (Sans-Serif, Latin) : saira-semi-condensed-latin-100
+Trirong Thin (Serif, Latin) : trirong-latin-100
+Work Sans Thin (Sans-Serif, Latin) : work-sans-latin-100
+Yantramanav Thin (Sans-Serif, Latin) : yantramanav-latin-100
+Alegreya Sans Thin Italic (Sans-Serif, Latin) : alegreya-sans-latin-100italic
+Alegreya Sans SC Thin Italic (Sans-Serif, Latin) : alegreya-sans-sc-latin-100italic
+Barlow Thin Italic (Sans-Serif, Latin) : barlow-latin-100italic
+Barlow Condensed Thin Italic (Sans-Serif, Latin) : barlow-condensed-latin-100italic
+Barlow Condensed Thin Italic (Serif, Latin) : barlow-condensed-latin-100italic
+Barlow Semi Condensed Thin Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-100italic
+Exo Thin Italic (Sans-Serif, Latin) : exo-latin-100italic
+Exo 2 Thin Italic (Sans-Serif, Latin) : exo-2-latin-100italic
+Fira Sans Thin Italic (Sans-Serif, Latin) : fira-sans-latin-100italic
+Fira Sans Condensed Thin Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-100italic
+Fira Sans Extra Condensed Thin Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-100italic
+IBM Plex Mono Thin Italic (Monospace, Latin) : ibm-plex-mono-latin-100italic
+IBM Plex Sans Thin Italic (Sans-Serif, Latin) : ibm-plex-sans-latin-100italic
+IBM Plex Sans Condensed Thin Italic (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-100italic
+IBM Plex Serif Thin Italic (Serif, Latin) : ibm-plex-serif-latin-100italic
+Josefin Sans Thin Italic (Sans-Serif, Latin) : josefin-sans-latin-100italic
+Josefin Slab Thin Italic (Serif, Latin) : josefin-slab-latin-100italic
+K2D Thin Italic (Sans-Serif, Latin) : k2d-latin-100italic
+Kanit Thin Italic (Sans-Serif, Latin) : kanit-latin-100italic
+Kanit Thin Italic (Sans-Serif, Thai) : kanit-thai-100italic
+Kanit Thin Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-100italic
+Kanit Thin Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-100italic
+Lato Thin Italic (Sans-Serif, Latin) : lato-latin-100italic
+Libre Franklin Thin Italic (Sans-Serif, Latin) : libre-franklin-latin-100italic
+Montserrat Thin Italic (Sans-Serif, Latin) : montserrat-latin-100italic
+Montserrat Alternates Thin Italic (Sans-Serif, Latin) : montserrat-alternates-latin-100italic
+Overpass Thin Italic (Sans-Serif, Latin) : overpass-latin-100italic
+Poppins Thin Italic (Sans-Serif, Latin) : poppins-latin-100italic
+Prompt Thin Italic (Sans-Serif, Latin) : prompt-latin-100italic
+Raleway Thin Italic (Sans-Serif, Latin) : raleway-latin-100italic
+Roboto Thin Italic (Sans-Serif, Latin) : roboto-latin-100italic
+Roboto Thin Italic (Sans-Serif, Vietnamese) : roboto-vietnamese-100italic
+Roboto Thin Italic (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-100italic
+Roboto Thin Italic (Sans-Serif, Latin Ext) : roboto-latin-ext-100italic
+Roboto Thin Italic (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-100italic
+Roboto Mono Thin Italic (Monospace, Latin) : roboto-mono-latin-100italic
+Trirong Thin Italic (Serif, Latin) : trirong-latin-100italic
+Advent Pro Ultra Light (Sans-Serif, Latin) : advent-pro-latin-200
+Arima Madurai Ultra Light (Display, Latin) : arima-madurai-latin-200
+Assistant Ultra Light (Sans-Serif, Latin) : assistant-latin-200
+Athiti Ultra Light (Sans-Serif, Latin) : athiti-latin-200
+Bai Jamjuree Ultra Light (Sans-Serif, Latin) : bai-jamjuree-latin-200
+Barlow Ultra Light (Sans-Serif, Latin) : barlow-latin-200
+Barlow Condensed Ultra Light (Sans-Serif, Latin) : barlow-condensed-latin-200
+Barlow Condensed Ultra Light (Serif, Latin) : barlow-condensed-latin-200
+Barlow Semi Condensed Ultra Light (Sans-Serif, Latin) : barlow-semi-condensed-latin-200
+BioRhyme Ultra Light (Serif, Latin) : biorhyme-latin-200
+BioRhyme Expanded Ultra Light (Serif, Latin) : biorhyme-expanded-latin-200
+Biryani Ultra Light (Sans-Serif, Latin) : biryani-latin-200
+Cairo Ultra Light (Sans-Serif, Latin) : cairo-latin-200
+Catamaran Ultra Light (Sans-Serif, Latin) : catamaran-latin-200
+Changa Ultra Light (Sans-Serif, Latin) : changa-latin-200
+Dosis Ultra Light (Sans-Serif, Latin) : dosis-latin-200
+Encode Sans Ultra Light (Sans-Serif, Latin) : encode-sans-latin-200
+Encode Sans Condensed Ultra Light (Sans-Serif, Latin) : encode-sans-condensed-latin-200
+Encode Sans Expanded Ultra Light (Sans-Serif, Latin) : encode-sans-expanded-latin-200
+Encode Sans Semi Condensed Ultra Light (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-200
+Encode Sans Semi Expanded Ultra Light (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-200
+Exo Ultra Light (Sans-Serif, Latin) : exo-latin-200
+Exo 2 Ultra Light (Sans-Serif, Latin) : exo-2-latin-200
+Fahkwang Ultra Light (Sans-Serif, Latin) : fahkwang-latin-200
+Fira Sans Ultra Light (Sans-Serif, Latin) : fira-sans-latin-200
+Fira Sans Condensed Ultra Light (Sans-Serif, Latin) : fira-sans-condensed-latin-200
+Fira Sans Extra Condensed Ultra Light (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-200
+Gothic A2 Ultra Light (Sans-Serif, Latin) : gothic-a2-latin-200
+IBM Plex Mono Ultra Light (Monospace, Latin) : ibm-plex-mono-latin-200
+IBM Plex Sans Ultra Light (Sans-Serif, Latin) : ibm-plex-sans-latin-200
+IBM Plex Sans Condensed Ultra Light (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-200
+IBM Plex Serif Ultra Light (Serif, Latin) : ibm-plex-serif-latin-200
+K2D Ultra Light (Sans-Serif, Latin) : k2d-latin-200
+Kanit Ultra Light (Sans-Serif, Latin) : kanit-latin-200
+Kanit Ultra Light (Sans-Serif, Thai) : kanit-thai-200
+Kanit Ultra Light (Sans-Serif, Thai Latin) : kanit-thai_latin-200
+Kanit Ultra Light (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-200
+Kodchasan Ultra Light (Sans-Serif, Latin) : kodchasan-latin-200
+KoHo Ultra Light (Sans-Serif, Latin) : koho-latin-200
+Krub Ultra Light (Sans-Serif, Latin) : krub-latin-200
+Libre Franklin Ultra Light (Sans-Serif, Latin) : libre-franklin-latin-200
+Mada Ultra Light (Sans-Serif, Latin) : mada-latin-200
+Maitree Ultra Light (Serif, Latin) : maitree-latin-200
+Mali Ultra Light (Handwriting, Latin) : mali-latin-200
+Martel Sans Ultra Light (Sans-Serif, Latin) : martel-sans-latin-200
+Mitr Ultra Light (Sans-Serif, Latin) : mitr-latin-200
+Montserrat Ultra Light (Sans-Serif, Latin) : montserrat-latin-200
+Montserrat Alternates Ultra Light (Sans-Serif, Latin) : montserrat-alternates-latin-200
+Mukta Ultra Light (Sans-Serif, Devanagari Latin Ext) : mukta-latin-ext_latin_devanagari-200
+Mukta Mahee Ultra Light (Sans-Serif, Gurmukhi Latin Ext) : mukta-mahee-gurmukhi_latin-ext_latin-200
+Mukta Malar Ultra Light (Sans-Serif, Tamil Latin Ext) : mukta-malar-latin-ext_tamil_latin-200
+Mukta Vaani Ultra Light (Sans-Serif, Gujarati Latin Ext) : mukta-vaani-latin-ext_latin_gujarati-200
+Mukta Ultra Light (Sans-Serif, Latin) : mukta-latin-200
+Mukta Mahee Ultra Light (Sans-Serif, Latin) : mukta-mahee-latin-200
+Mukta Malar Ultra Light (Sans-Serif, Latin) : mukta-malar-latin-200
+Mukta Vaani Ultra Light (Sans-Serif, Latin) : mukta-vaani-latin-200
+Muli Ultra Light (Sans-Serif, Latin) : muli-latin-200
+Neuton Ultra Light (Serif, Latin) : neuton-latin-200
+Niramit Ultra Light (Sans-Serif, Latin) : niramit-latin-200
+Noto Serif JP Ultra Light (Sans-Serif, Japanese) : noto-serif-jp-japanese_latin-200
+Noto Serif KR Ultra Light (Sans-Serif, Korean) : noto-serif-kr-latin_korean-200
+Nunito Ultra Light (Sans-Serif, Latin) : nunito-latin-200
+Nunito Sans Ultra Light (Sans-Serif, Latin) : nunito-sans-latin-200
+Oswald Ultra Light (Sans-Serif, Latin) : oswald-latin-200
+Overpass Ultra Light (Sans-Serif, Latin) : overpass-latin-200
+Palanquin Ultra Light (Sans-Serif, Latin) : palanquin-latin-200
+Poppins Ultra Light (Sans-Serif, Latin) : poppins-latin-200
+Pridi Ultra Light (Serif, Latin) : pridi-latin-200
+Prompt Ultra Light (Sans-Serif, Latin) : prompt-latin-200
+Raleway Ultra Light (Sans-Serif, Latin) : raleway-latin-200
+Rokkitt Ultra Light (Serif, Latin) : rokkitt-latin-200
+Saira Ultra Light (Sans-Serif, Latin) : saira-latin-200
+Saira Condensed Ultra Light (Sans-Serif, Latin) : saira-condensed-latin-200
+Saira Extra Condensed Ultra Light (Sans-Serif, Latin) : saira-extra-condensed-latin-200
+Saira Semi Condensed Ultra Light (Sans-Serif, Latin) : saira-semi-condensed-latin-200
+Source Code Pro Ultra Light (Monospace, Latin) : source-code-pro-latin-200
+Source Sans Pro Ultra Light (Sans-Serif, Latin) : source-sans-pro-latin-200
+Spectral Ultra Light (Serif, Latin) : spectral-latin-200
+Spectral SC Ultra Light (Serif, Latin) : spectral-sc-latin-200
+Tajawal Ultra Light (Sans-Serif, Arabic Latin) : tajawal-arabic_latin-200
+Tajawal Ultra Light (Sans-Serif, Latin) : tajawal-latin-200
+Titillium Web Ultra Light (Sans-Serif, Latin) : titillium-web-latin-200
+Trirong Ultra Light (Serif, Latin) : trirong-latin-200
+Work Sans Ultra Light (Sans-Serif, Latin) : work-sans-latin-200
+Yanone Kaffeesatz Ultra Light (Sans-Serif, Latin) : yanone-kaffeesatz-latin-200
+Bai Jamjuree Ultra Light Italic (Sans-Serif, Latin) : bai-jamjuree-latin-200italic
+Barlow Ultra Light Italic (Sans-Serif, Latin) : barlow-latin-200italic
+Barlow Condensed Ultra Light Italic (Sans-Serif, Latin) : barlow-condensed-latin-200italic
+Barlow Condensed Ultra Light Italic (Serif, Latin) : barlow-condensed-latin-200italic
+Barlow Semi Condensed Ultra Light Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-200italic
+Exo Ultra Light Italic (Sans-Serif, Latin) : exo-latin-200italic
+Exo 2 Ultra Light Italic (Sans-Serif, Latin) : exo-2-latin-200italic
+Fahkwang Ultra Light Italic (Sans-Serif, Latin) : fahkwang-latin-200italic
+Fira Sans Ultra Light Italic (Sans-Serif, Latin) : fira-sans-latin-200italic
+Fira Sans Condensed Ultra Light Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-200italic
+Fira Sans Extra Condensed Ultra Light Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-200italic
+IBM Plex Mono Ultra Light Italic (Monospace, Latin) : ibm-plex-mono-latin-200italic
+IBM Plex Sans Ultra Light Italic (Sans-Serif, Latin) : ibm-plex-sans-latin-200italic
+IBM Plex Sans Condensed Ultra Light Italic (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-200italic
+IBM Plex Serif Ultra Light Italic (Serif, Latin) : ibm-plex-serif-latin-200italic
+K2D Ultra Light Italic (Sans-Serif, Latin) : k2d-latin-200italic
+Kanit Ultra Light Italic (Sans-Serif, Latin) : kanit-latin-200italic
+Kanit Ultra Light Italic (Sans-Serif, Thai) : kanit-thai-200italic
+Kanit Ultra Light Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-200italic
+Kanit Ultra Light Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-200italic
+Kodchasan Ultra Light Italic (Sans-Serif, Latin) : kodchasan-latin-200italic
+KoHo Ultra Light Italic (Sans-Serif, Latin) : koho-latin-200italic
+Krub Ultra Light Italic (Sans-Serif, Latin) : krub-latin-200italic
+Libre Franklin Ultra Light Italic (Sans-Serif, Latin) : libre-franklin-latin-200italic
+Mali Ultra Light Italic (Handwriting, Latin) : mali-latin-200italic
+Montserrat Ultra Light Italic (Sans-Serif, Latin) : montserrat-latin-200italic
+Montserrat Alternates Ultra Light Italic (Sans-Serif, Latin) : montserrat-alternates-latin-200italic
+Muli Ultra Light Italic (Sans-Serif, Latin) : muli-latin-200italic
+Niramit Ultra Light Italic (Sans-Serif, Latin) : niramit-latin-200italic
+Nunito Ultra Light Italic (Sans-Serif, Latin) : nunito-latin-200italic
+Nunito Sans Ultra Light Italic (Sans-Serif, Latin) : nunito-sans-latin-200italic
+Overpass Ultra Light Italic (Sans-Serif, Latin) : overpass-latin-200italic
+Poppins Ultra Light Italic (Sans-Serif, Latin) : poppins-latin-200italic
+Prompt Ultra Light Italic (Sans-Serif, Latin) : prompt-latin-200italic
+Raleway Ultra Light Italic (Sans-Serif, Latin) : raleway-latin-200italic
+Source Sans Pro Ultra Light Italic (Sans-Serif, Latin) : source-sans-pro-latin-200italic
+Spectral Ultra Light Italic (Serif, Latin) : spectral-latin-200italic
+Spectral SC Ultra Light Italic (Serif, Latin) : spectral-sc-latin-200italic
+Titillium Web Ultra Light Italic (Sans-Serif, Latin) : titillium-web-latin-200italic
+Trirong Ultra Light Italic (Serif, Latin) : trirong-latin-200italic
+Advent Pro Light (Sans-Serif, Latin) : advent-pro-latin-300
+Alegreya Sans Light (Sans-Serif, Latin) : alegreya-sans-latin-300
+Alegreya Sans SC Light (Sans-Serif, Latin) : alegreya-sans-sc-latin-300
+Arima Madurai Light (Display, Latin) : arima-madurai-latin-300
+Assistant Light (Sans-Serif, Latin) : assistant-latin-300
+Athiti Light (Sans-Serif, Latin) : athiti-latin-300
+Atma Light (Display, Bengali Latin Ext) : atma-latin-ext_latin_bengali-300
+Atma Light (Display, Latin) : atma-latin-300
+Averia Libre Light (Display, Latin) : averia-libre-latin-300
+Averia Sans Libre Light (Display, Latin) : averia-sans-libre-latin-300
+Averia Serif Libre Light (Display, Latin) : averia-serif-libre-latin-300
+Bai Jamjuree Light (Sans-Serif, Latin) : bai-jamjuree-latin-300
+Barlow Light (Sans-Serif, Latin) : barlow-latin-300
+Barlow Condensed Light (Sans-Serif, Latin) : barlow-condensed-latin-300
+Barlow Condensed Light (Serif, Latin) : barlow-condensed-latin-300
+Barlow Semi Condensed Light (Sans-Serif, Latin) : barlow-semi-condensed-latin-300
+BenchNine Light (Sans-Serif, Latin) : benchnine-latin-300
+BioRhyme Light (Serif, Latin) : biorhyme-latin-300
+BioRhyme Expanded Light (Serif, Latin) : biorhyme-expanded-latin-300
+Biryani Light (Sans-Serif, Latin) : biryani-latin-300
+Buda Light (Display, Latin) : buda-latin-300
+Cairo Light (Sans-Serif, Latin) : cairo-latin-300
+Catamaran Light (Sans-Serif, Latin) : catamaran-latin-300
+Chakra Petch Light (Sans-Serif, Latin) : chakra-petch-latin-300
+Changa Light (Sans-Serif, Latin) : changa-latin-300
+Chathura Light (Sans-Serif, Latin) : chathura-latin-300
+Chivo Light (Sans-Serif, Latin) : chivo-latin-300
+Codystar Light (Display, Latin) : codystar-latin-300
+Comfortaa Light (Display, Latin) : comfortaa-latin-300
+Cormorant Light (Serif, Latin) : cormorant-latin-300
+Cormorant Garamond Light (Serif, Latin) : cormorant-garamond-latin-300
+Cormorant Infant Light (Serif, Latin) : cormorant-infant-latin-300
+Cormorant SC Light (Serif, Latin) : cormorant-sc-latin-300
+Cormorant Unicase Light (Serif, Latin) : cormorant-unicase-latin-300
+Cormorant Upright Light (Serif, Latin) : cormorant-upright-latin-300
+Dosis Light (Sans-Serif, Latin) : dosis-latin-300
+Encode Sans Light (Sans-Serif, Latin) : encode-sans-latin-300
+Encode Sans Condensed Light (Sans-Serif, Latin) : encode-sans-condensed-latin-300
+Encode Sans Expanded Light (Sans-Serif, Latin) : encode-sans-expanded-latin-300
+Encode Sans Semi Condensed Light (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-300
+Encode Sans Semi Expanded Light (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-300
+Exo Light (Sans-Serif, Latin) : exo-latin-300
+Exo 2 Light (Sans-Serif, Latin) : exo-2-latin-300
+Fahkwang Light (Sans-Serif, Latin) : fahkwang-latin-300
+Fira Sans Light (Sans-Serif, Latin) : fira-sans-latin-300
+Fira Sans Condensed Light (Sans-Serif, Latin) : fira-sans-condensed-latin-300
+Fira Sans Extra Condensed Light (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-300
+Flamenco Light (Display, Latin) : flamenco-latin-300
+Frank Ruhl Libre Light (Serif, Latin) : frank-ruhl-libre-latin-300
+Gaegu Light (Handwriting, Latin) : gaegu-latin-300
+Gothic A3 Light (Sans-Serif, Latin) : gothic-a3-latin-300
+Halant Light (Serif, Devanagari Latin) : halant-latin-ext_latin_devanagari-300
+Halant Light (Serif, Latin) : halant-latin-300
+Heebo Light (Sans-Serif, Latin) : heebo-latin-300
+Hind Light (Sans-Serif, Devanagari Latin Ext) : hind-latin-ext_latin_devanagari-300
+Hind Guntur Light (Sans-Serif, Telugu Latin Ext) : hind-guntur-latin-ext_telugu_latin-300
+Hind Madurai Light (Sans-Serif, Tamil Latin Ext) : hind-madurai-latin-ext_tamil_latin-300
+Hind Siliguri Light (Sans-Serif, Bengali Latin) : hind-siliguri-latin_bengali-300
+Hind Vadodara Light (Sans-Serif, Gujarati Latin Ext) : hind-vadodara-latin-ext_latin_gujarati-300
+Hind Light (Sans-Serif, Latin) : hind-latin-300
+Hind Guntur Light (Sans-Serif, Latin) : hind-guntur-latin-300
+Hind Madurai Light (Sans-Serif, Latin) : hind-madurai-latin-300
+Hind Siliguri Light (Sans-Serif, Latin) : hind-siliguri-latin-300
+Hind Vadodara Light (Sans-Serif, Latin) : hind-vadodara-latin-300
+IBM Plex Mono Light (Monospace, Latin) : ibm-plex-mono-latin-300
+IBM Plex Sans Light (Sans-Serif, Latin) : ibm-plex-sans-latin-300
+IBM Plex Sans Condensed Light (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-300
+IBM Plex Serif Light (Serif, Latin) : ibm-plex-serif-latin-300
+Inknut Antiqua Light (Serif, Latin) : inknut-antiqua-latin-300
+Josefin Sans Light (Sans-Serif, Latin) : josefin-sans-latin-300
+Josefin Slab Light (Serif, Latin) : josefin-slab-latin-300
+Jura Light (Sans-Serif, Latin) : jura-latin-300
+K2D Light (Sans-Serif, Latin) : k2d-latin-300
+Kalam Light (Handwriting, Latin) : kalam-latin-300
+Kanit Light (Sans-Serif, Latin) : kanit-latin-300
+Kanit Light (Sans-Serif, Thai) : kanit-thai-300
+Kanit Light (Sans-Serif, Thai Latin) : kanit-thai_latin-300
+Kanit Light (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-300
+Kantumruy Light (Sans-Serif, Khmer) : kantumruy-khmer-300
+Karma Light (Serif, Latin) : karma-latin-300
+Khand Light (Sans-Serif, Latin) : khand-latin-300
+Khula Light (Sans-Serif, Latin) : khula-latin-300
+Kodchasan Light (Sans-Serif, Latin) : kodchasan-latin-300
+KoHo Light (Sans-Serif, Latin) : koho-latin-300
+Kreon Light (Serif, Latin) : kreon-latin-300
+Krub Light (Sans-Serif, Latin) : krub-latin-300
+Laila Light (Serif, Latin) : laila-latin-300
+Lato Light (Sans-Serif, Latin) : lato-latin-300
+Lemonada Light (Display, Latin) : lemonada-latin-300
+Libre Franklin Light (Sans-Serif, Latin) : libre-franklin-latin-300
+Londrina Solid Light (Display, Latin) : londrina-solid-latin-300
+M PLUS 1p Light (Sans-Serif, Latin) : m-plus-1p-latin-300
+M PLUS Rounded 1c Light (Sans-Serif, Latin) : m-plus-rounded-1c-latin-300
+Mada Light (Sans-Serif, Latin) : mada-latin-300
+Maitree Light (Serif, Latin) : maitree-latin-300
+Mali Light (Handwriting, Latin) : mali-latin-300
+Martel Light (Serif, Latin) : martel-latin-300
+Martel Sans Light (Sans-Serif, Latin) : martel-sans-latin-300
+Merriweather Light (Serif, Latin) : merriweather-latin-300
+Merriweather Sans Light (Sans-Serif, Latin) : merriweather-sans-latin-300
+Mitr Light (Sans-Serif, Latin) : mitr-latin-300
+Montserrat Light (Sans-Serif, Latin) : montserrat-latin-300
+Montserrat Alternates Light (Sans-Serif, Latin) : montserrat-alternates-latin-300
+Mukta Light (Sans-Serif, Devanagari Latin Ext) : mukta-latin-ext_latin_devanagari-300
+Mukta Mahee Light (Sans-Serif, Gurmukhi Latin Ext) : mukta-mahee-gurmukhi_latin-ext_latin-300
+Mukta Malar Light (Sans-Serif, Tamil Latin Ext) : mukta-malar-latin-ext_tamil_latin-300
+Mukta Vaani Light (Sans-Serif, Gujarati Latin Ext) : mukta-vaani-latin-ext_latin_gujarati-300
+Mukta Light (Sans-Serif, Latin) : mukta-latin-300
+Mukta Mahee Light (Sans-Serif, Latin) : mukta-mahee-latin-300
+Mukta Malar Light (Sans-Serif, Latin) : mukta-malar-latin-300
+Mukta Vaani Light (Sans-Serif, Latin) : mukta-vaani-latin-300
+Muli Light (Sans-Serif, Latin) : muli-latin-300
+Neuton Light (Serif, Latin) : neuton-latin-300
+Niramit Light (Sans-Serif, Latin) : niramit-latin-300
+Noto Sans JP Light (Sans-Serif, Japanese) : noto-sans-jp-japanese_latin-300
+Noto Sans KR Light (Sans-Serif, Korean) : noto-sans-kr-latin_korean-300
+Noto Serif JP Light (Sans-Serif, Japanese) : noto-serif-jp-japanese_latin-300
+Noto Serif KR Light (Sans-Serif, Korean) : noto-serif-kr-latin_korean-300
+Nunito Light (Sans-Serif, Latin) : nunito-latin-300
+Nunito Sans Light (Sans-Serif, Latin) : nunito-sans-latin-300
+Open Sans Light (Sans-Serif, Latin) : open-sans-latin-300
+Open Sans Light (Sans-Serif, Greek Ext) : open-sans-greek-ext-300
+Open Sans Light (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-300
+Open Sans Light (Sans-Serif, Latin Ext) : open-sans-latin-ext-300
+Open Sans Light (Sans-Serif, Vietnamese) : open-sans-vietamese-300
+Open Sans Condensed Light (Sans-Serif, Latin) : open-sans-condensed-latin-300
+Oswald Light (Sans-Serif, Latin) : oswald-latin-300
+Overpass Light (Sans-Serif, Latin) : overpass-latin-300
+Overpass Mono Light (Monospace, Latin) : overpass-mono-latin-300
+Oxygen Light (Sans-Serif, Latin) : oxygen-latin-300
+Palanquin Light (Sans-Serif, Latin) : palanquin-latin-300
+Poppins Light (Sans-Serif, Latin) : poppins-latin-300
+Pridi Light (Serif, Latin) : pridi-latin-300
+Prompt Light (Sans-Serif, Latin) : prompt-latin-300
+Quicksand Light (Sans-Serif, Latin) : quicksand-latin-300
+Rajdhani Light (Sans-Serif, Latin) : rajdhani-latin-300
+Raleway Light (Sans-Serif, Latin) : raleway-latin-300
+Rasa Light (Serif, Latin) : rasa-latin-300
+Roboto Condensed Light (Sans-Serif, Latin) : roboto-condensed-latin-300
+Roboto Mono Light (Monospace, Latin) : roboto-mono-latin-300
+Roboto Slab Light (Serif, Latin) : roboto-slab-latin-300
+Rokkitt Light (Serif, Latin) : rokkitt-latin-300
+Rubik Light (Sans-Serif, Latin) : rubik-latin-300
+Saira Light (Sans-Serif, Latin) : saira-latin-300
+Saira Condensed Light (Sans-Serif, Latin) : saira-condensed-latin-300
+Saira Extra Condensed Light (Sans-Serif, Latin) : saira-extra-condensed-latin-300
+Saira Semi Condensed Light (Sans-Serif, Latin) : saira-semi-condensed-latin-300
+Signika Light (Sans-Serif, Latin) : signika-latin-300
+Signika Negative Light (Sans-Serif, Latin) : signika-negative-latin-300
+Source Code Pro Light (Monospace, Latin) : source-code-pro-latin-300
+Source Sans Pro Light (Sans-Serif, Latin) : source-sans-pro-latin-300
+Spectral Light (Serif, Latin) : spectral-latin-300
+Spectral SC Light (Serif, Latin) : spectral-sc-latin-300
+Stoke Light (Serif, Latin) : stoke-latin-300
+Sunflower Light (Sans-Serif, Latin) : sunflower-latin-300
+Tajawal Light (Sans-Serif, Arabic Latin) : tajawal-arabic_latin-300
+Tajawal Light (Sans-Serif, Latin) : tajawal-latin-300
+Teko Light (Sans-Serif, Latin) : teko-latin-300
+Titillium Web Light (Sans-Serif, Latin) : titillium-web-latin-300
+Trirong Light (Serif, Latin) : trirong-latin-300
+Ubuntu Light (Sans-Serif, Latin) : ubuntu-latin-300
+Work Sans Light (Sans-Serif, Latin) : work-sans-latin-300
+Yanone Kaffeesatz Light (Sans-Serif, Latin) : yanone-kaffeesatz-latin-300
+Yantramanav Light (Sans-Serif, Latin) : yantramanav-latin-300
+Yrsa Light (Serif, Latin) : yrsa-latin-300
+Zilla Slab Light (Serif, Latin) : zilla-slab-latin-300
+Alegreya Sans Light Italic (Sans-Serif, Latin) : alegreya-sans-latin-300italic
+Alegreya Sans SC Light Italic (Sans-Serif, Latin) : alegreya-sans-sc-latin-300italic
+Averia Libre Light Italic (Display, Latin) : averia-libre-latin-300italic
+Averia Sans Libre Light Italic (Display, Latin) : averia-sans-libre-latin-300italic
+Averia Serif Libre Light Italic (Display, Latin) : averia-serif-libre-latin-300italic
+Bai Jamjuree Light Italic (Sans-Serif, Latin) : bai-jamjuree-latin-300italic
+Barlow Light Italic (Sans-Serif, Latin) : barlow-latin-300italic
+Barlow Condensed Light Italic (Sans-Serif, Latin) : barlow-condensed-latin-300italic
+Barlow Condensed Light Italic (Serif, Latin) : barlow-condensed-latin-300italic
+Barlow Semi Condensed Light Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-300italic
+Chakra Petch Light Italic (Sans-Serif, Latin) : chakra-petch-latin-300italic
+Chivo Light Italic (Sans-Serif, Latin) : chivo-latin-300italic
+Cormorant Light Italic (Serif, Latin) : cormorant-latin-300italic
+Cormorant Garamond Light Italic (Serif, Latin) : cormorant-garamond-latin-300italic
+Cormorant Infant Light Italic (Serif, Latin) : cormorant-infant-latin-300italic
+Exo Light Italic (Sans-Serif, Latin) : exo-latin-300italic
+Exo 2 Light Italic (Sans-Serif, Latin) : exo-2-latin-300italic
+Fahkwang Light Italic (Sans-Serif, Latin) : fahkwang-latin-300italic
+Fira Sans Light Italic (Sans-Serif, Latin) : fira-sans-latin-300italic
+Fira Sans Condensed Light Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-300italic
+Fira Sans Extra Condensed Light Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-300italic
+IBM Plex Mono Light Italic (Monospace, Latin) : ibm-plex-mono-latin-300italic
+IBM Plex Sans Light Italic (Sans-Serif, Latin) : ibm-plex-sans-latin-300italic
+IBM Plex Sans Condensed Light Italic (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-300italic
+IBM Plex Serif Light Italic (Serif, Latin) : ibm-plex-serif-latin-300italic
+Josefin Sans Light Italic (Sans-Serif, Latin) : josefin-sans-latin-300italic
+Josefin Slab Light Italic (Serif, Latin) : josefin-slab-latin-300italic
+K2D Light Italic (Sans-Serif, Latin) : k2d-latin-300italic
+Kanit Light Italic (Sans-Serif, Latin) : kanit-latin-300italic
+Kanit Light Italic (Sans-Serif, Thai) : kanit-thai-300italic
+Kanit Light Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-300italic
+Kanit Light Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-300italic
+Kodchasan Light Italic (Sans-Serif, Latin) : kodchasan-latin-300italic
+KoHo Light Italic (Sans-Serif, Latin) : koho-latin-300italic
+Krub Light Italic (Sans-Serif, Latin) : krub-latin-300italic
+Lato Light Italic (Sans-Serif, Latin) : lato-latin-300italic
+Libre Franklin Light Italic (Sans-Serif, Latin) : libre-franklin-latin-300italic
+Mali Light Italic (Handwriting, Latin) : mali-latin-300italic
+Merriweather Light Italic (Serif, Latin) : merriweather-latin-300italic
+Merriweather Sans Light Italic (Sans-Serif, Latin) : merriweather-sans-latin-300italic
+Montserrat Light Italic (Sans-Serif, Latin) : montserrat-latin-300italic
+Montserrat Alternates Light Italic (Sans-Serif, Latin) : montserrat-alternates-latin-300italic
+Muli Light Italic (Sans-Serif, Latin) : muli-latin-300italic
+Niramit Light Italic (Sans-Serif, Latin) : niramit-latin-300italic
+Nunito Light Italic (Sans-Serif, Latin) : nunito-latin-300italic
+Nunito Sans Light Italic (Sans-Serif, Latin) : nunito-sans-latin-300italic
+Open Sans Light Italic (Sans-Serif, Latin) : open-sans-latin-300italic
+Open Sans Light Italic (Sans-Serif, Greek Ext) : open-sans-greek-ext-300italic
+Open Sans Light Italic (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-300italic
+Open Sans Light Italic (Sans-Serif, Latin Ext) : open-sans-latin-ext-300italic
+Open Sans Light Italic (Sans-Serif, Vietnamese) : open-sans-vietamese-300italic
+Open Sans Condensed Light Italic (Sans-Serif, Latin) : open-sans-condensed-latin-300italic
+Overpass Light Italic (Sans-Serif, Latin) : overpass-latin-300italic
+Poppins Light Italic (Sans-Serif, Latin) : poppins-latin-300italic
+Prompt Light Italic (Sans-Serif, Latin) : prompt-latin-300italic
+Raleway Light Italic (Sans-Serif, Latin) : raleway-latin-300italic
+Roboto Light Italic (Sans-Serif, Latin) : roboto-latin-300italic
+Roboto Light Italic (Sans-Serif, Vietnamese) : roboto-vietnamese-300italic
+Roboto Light Italic (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-300italic
+Roboto Light Italic (Sans-Serif, Latin Ext) : roboto-latin-ext-300italic
+Roboto Light Italic (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-300italic
+Roboto Condensed Light Italic (Sans-Serif, Latin) : roboto-condensed-latin-300italic
+Roboto Mono Light Italic (Monospace, Latin) : roboto-mono-latin-300italic
+Rubik Light Italic (Sans-Serif, Latin) : rubik-latin-300italic
+Source Sans Pro Light Italic (Sans-Serif, Latin) : source-sans-pro-latin-300italic
+Spectral Light Italic (Serif, Latin) : spectral-latin-300italic
+Spectral SC Light Italic (Serif, Latin) : spectral-sc-latin-300italic
+Titillium Web Light Italic (Sans-Serif, Latin) : titillium-web-latin-300italic
+Trirong Light Italic (Serif, Latin) : trirong-latin-300italic
+Ubuntu Light Italic (Sans-Serif, Latin) : ubuntu-latin-300italic
+Zilla Slab Light Italic (Serif, Latin) : zilla-slab-latin-300italic
+Abhaya Libre Medium (Serif, Sinhala Latin Ext) : abhaya-libre-latin-ext_sinhala_latin-500
+Abhaya Libre Medium (Serif, Latin) : abhaya-libre-latin-500
+Advent Pro Medium (Sans-Serif, Latin) : advent-pro-latin-500
+Alegreya Medium (Serif, Latin) : alegreya-latin-500
+Alegreya SC Medium (Serif, Latin) : alegreya-sc-latin-500
+Archivo Medium (Sans-Serif, Latin) : archivo-latin-500
+Archivo Narrow Medium (Sans-Serif, Latin) : archivo-narrow-latin-500
+Arima Madurai Medium (Display, Latin) : arima-madurai-latin-500
+Asap Medium (Sans-Serif, Latin) : asap-latin-500
+Asap Condensed Medium (Sans-Serif, Latin) : asap-condensed-latin-500
+Athiti Medium (Sans-Serif, Latin) : athiti-latin-500
+Atma Medium (Display, Bengali Latin Ext) : atma-latin-ext_latin_bengali-500
+Atma Medium (Display, Latin) : atma-latin-500
+Bai Jamjuree Medium (Sans-Serif, Latin) : bai-jamjuree-latin-500
+Cabin Medium (Sans-Serif, Latin) : cabin-latin-500
+Cabin Condensed Medium (Sans-Serif, Latin) : cabin-condensed-latin-500
+Catamaran Medium (Sans-Serif, Latin) : catamaran-latin-500
+Chakra Petch Medium (Sans-Serif, Latin) : chakra-petch-latin-500
+Changa Medium (Sans-Serif, Latin) : changa-latin-500
+Cormorant Medium (Serif, Latin) : cormorant-latin-500
+Cormorant Garamond Medium (Serif, Latin) : cormorant-garamond-latin-500
+Cormorant Infant Medium (Serif, Latin) : cormorant-infant-latin-500
+Cormorant SC Medium (Serif, Latin) : cormorant-sc-latin-500
+Cormorant Unicase Medium (Serif, Latin) : cormorant-unicase-latin-500
+Cormorant Upright Medium (Serif, Latin) : cormorant-upright-latin-500
+David Libre Medium (Serif, Latin) : david-libre-latin-500
+Dosis Medium (Sans-Serif, Latin) : dosis-latin-500
+EB Garamond Medium (Serif, Latin) : eb-garamond-latin-500
+Eczar Medium (Serif, Latin) : eczar-latin-500
+El Messiri Medium (Sans-Serif, Latin) : el-messiri-latin-500
+Encode Sans Medium (Sans-Serif, Latin) : encode-sans-latin-500
+Encode Sans Condensed Medium (Sans-Serif, Latin) : encode-sans-condensed-latin-500
+Encode Sans Expanded Medium (Sans-Serif, Latin) : encode-sans-expanded-latin-500
+Encode Sans Semi Condensed Medium (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-500
+Encode Sans Semi Expanded Medium (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-500
+Expletus Sans Medium (Display, Latin) : expletus-sans-latin-500
+Fahkwang Medium (Sans-Serif, Latin) : fahkwang-latin-500
+Faustina Medium (Serif, Latin) : faustina-latin-500
+Fira Mono Medium (Monospace, Latin) : fira-mono-latin-500
+Frank Ruhl Libre Medium (Serif, Latin) : frank-ruhl-libre-latin-500
+Gothic A5 Medium (Sans-Serif, Latin) : gothic-a5-latin-500
+Halant Medium (Serif, Devanagari Latin) : halant-latin-ext_latin_devanagari-500
+Halant Medium (Serif, Latin) : halant-latin-500
+Heebo Medium (Sans-Serif, Latin) : heebo-latin-500
+Hind Medium (Sans-Serif, Devanagari Latin Ext) : hind-latin-ext_latin_devanagari-500
+Hind Guntur Medium (Sans-Serif, Telugu Latin Ext) : hind-guntur-latin-ext_telugu_latin-500
+Hind Madurai Medium (Sans-Serif, Tamil Latin Ext) : hind-madurai-latin-ext_tamil_latin-500
+Hind Siliguri Medium (Sans-Serif, Bengali Latin) : hind-siliguri-latin_bengali-500
+Hind Vadodara Medium (Sans-Serif, Gujarati Latin Ext) : hind-vadodara-latin-ext_latin_gujarati-500
+Hind Medium (Sans-Serif, Latin) : hind-latin-500
+Hind Guntur Medium (Sans-Serif, Latin) : hind-guntur-latin-500
+Hind Madurai Medium (Sans-Serif, Latin) : hind-madurai-latin-500
+Hind Siliguri Medium (Sans-Serif, Latin) : hind-siliguri-latin-500
+Hind Vadodara Medium (Sans-Serif, Latin) : hind-vadodara-latin-500
+Inknut Antiqua Medium (Serif, Latin) : inknut-antiqua-latin-500
+Jura Medium (Sans-Serif, Latin) : jura-latin-500
+Karma Medium (Serif, Latin) : karma-latin-500
+Khand Medium (Sans-Serif, Latin) : khand-latin-500
+Kodchasan Medium (Sans-Serif, Latin) : kodchasan-latin-500
+KoHo Medium (Sans-Serif, Latin) : koho-latin-500
+Krub Medium (Sans-Serif, Latin) : krub-latin-500
+Laila Medium (Serif, Latin) : laila-latin-500
+M PLUS 1p Medium (Sans-Serif, Latin) : m-plus-1p-latin-500
+Mada Medium (Sans-Serif, Latin) : mada-latin-500
+Maitree Medium (Serif, Latin) : maitree-latin-500
+Mali Medium (Handwriting, Latin) : mali-latin-500
+Manuale Medium (Serif, Latin) : manuale-latin-500
+Markazi Text Medium (Serif, Latin) : markazi-text-latin-500
+Maven Pro Medium (Sans-Serif, Latin) : maven-pro-latin-500
+Mirza Medium (Display, Latin) : mirza-latin-500
+Mitr Medium (Sans-Serif, Latin) : mitr-latin-500
+Mukta Medium (Sans-Serif, Devanagari Latin Ext) : mukta-latin-ext_latin_devanagari-500
+Mukta Mahee Medium (Sans-Serif, Gurmukhi Latin Ext) : mukta-mahee-gurmukhi_latin-ext_latin-500
+Mukta Malar Medium (Sans-Serif, Tamil Latin Ext) : mukta-malar-latin-ext_tamil_latin-500
+Mukta Vaani Medium (Sans-Serif, Gujarati Latin Ext) : mukta-vaani-latin-ext_latin_gujarati-500
+Mukta Medium (Sans-Serif, Latin) : mukta-latin-500
+Mukta Mahee Medium (Sans-Serif, Latin) : mukta-mahee-latin-500
+Mukta Malar Medium (Sans-Serif, Latin) : mukta-malar-latin-500
+Mukta Vaani Medium (Sans-Serif, Latin) : mukta-vaani-latin-500
+Niramit Medium (Sans-Serif, Latin) : niramit-latin-500
+Nobile Medium (Sans-Serif, Latin) : nobile-latin-500
+Noto Sans JP Medium (Sans-Serif, Japanese) : noto-sans-jp-japanese_latin-500
+Noto Sans KR Medium (Sans-Serif, Korean) : noto-sans-kr-latin_korean-500
+Noto Serif JP Medium (Sans-Serif, Japanese) : noto-serif-jp-japanese_latin-500
+Noto Serif KR Medium (Sans-Serif, Korean) : noto-serif-kr-latin_korean-500
+Orbitron Medium (Sans-Serif, Latin) : orbitron-latin-500
+Oswald Medium (Sans-Serif, Latin) : oswald-latin-500
+Palanquin Medium (Sans-Serif, Latin) : palanquin-latin-500
+Palanquin Dark Medium (Sans-Serif, Latin) : palanquin-dark-latin-500
+Podkova Medium (Serif, Latin) : podkova-latin-500
+Pridi Medium (Serif, Latin) : pridi-latin-500
+Proza Libre Medium (Sans-Serif, Latin) : proza-libre-latin-500
+Quicksand Medium (Sans-Serif, Latin) : quicksand-latin-500
+Rajdhani Medium (Sans-Serif, Latin) : rajdhani-latin-500
+Rasa Medium (Serif, Latin) : rasa-latin-500
+Roboto Mono Medium (Monospace, Latin) : roboto-mono-latin-500
+Rokkitt Medium (Serif, Latin) : rokkitt-latin-500
+Rubik Medium (Sans-Serif, Latin) : rubik-latin-500
+Saira Medium (Sans-Serif, Latin) : saira-latin-500
+Saira Condensed Medium (Sans-Serif, Latin) : saira-condensed-latin-500
+Saira Extra Condensed Medium (Sans-Serif, Latin) : saira-extra-condensed-latin-500
+Saira Semi Condensed Medium (Sans-Serif, Latin) : saira-semi-condensed-latin-500
+Sarpanch Medium (Sans-Serif, Latin) : sarpanch-latin-500
+Source Code Pro Medium (Monospace, Latin) : source-code-pro-latin-500
+Sunflower Medium (Sans-Serif, Latin) : sunflower-latin-500
+Tajawal Medium (Sans-Serif, Arabic Latin) : tajawal-arabic_latin-500
+Tajawal Medium (Sans-Serif, Latin) : tajawal-latin-500
+Teko Medium (Sans-Serif, Latin) : teko-latin-500
+Tillana Medium (Handwriting, Latin) : tillana-latin-500
+Ubuntu Medium (Sans-Serif, Latin) : ubuntu-latin-500
+Vesper Libre Medium (Serif, Latin) : vesper-libre-latin-500
+Work Sans Medium (Sans-Serif, Latin) : work-sans-latin-500
+Yantramanav Medium (Sans-Serif, Latin) : yantramanav-latin-500
+Yrsa Medium (Serif, Latin) : yrsa-latin-500
+Zilla Slab Medium (Serif, Latin) : zilla-slab-latin-500
+Alegreya Medium Italic (Serif, Latin) : alegreya-latin-500italic
+Alegreya Sans Medium Italic (Sans-Serif, Latin) : alegreya-sans-latin-500italic
+Alegreya Sans SC Medium Italic (Sans-Serif, Latin) : alegreya-sans-sc-latin-500italic
+Alegreya SC Medium Italic (Serif, Latin) : alegreya-sc-latin-500italic
+Archivo Medium Italic (Sans-Serif, Latin) : archivo-latin-500italic
+Archivo Narrow Medium Italic (Sans-Serif, Latin) : archivo-narrow-latin-500italic
+Asap Medium Italic (Sans-Serif, Latin) : asap-latin-500italic
+Asap Condensed Medium Italic (Sans-Serif, Latin) : asap-condensed-latin-500italic
+Bai Jamjuree Medium Italic (Sans-Serif, Latin) : bai-jamjuree-latin-500italic
+Barlow Medium Italic (Sans-Serif, Latin) : barlow-latin-500italic
+Barlow Condensed Medium Italic (Sans-Serif, Latin) : barlow-condensed-latin-500italic
+Barlow Condensed Medium Italic (Serif, Latin) : barlow-condensed-latin-500italic
+Barlow Semi Condensed Medium Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-500italic
+Cabin Medium Italic (Sans-Serif, Latin) : cabin-latin-500italic
+Chakra Petch Medium Italic (Sans-Serif, Latin) : chakra-petch-latin-500italic
+Cormorant Medium Italic (Serif, Latin) : cormorant-latin-500italic
+Cormorant Garamond Medium Italic (Serif, Latin) : cormorant-garamond-latin-500italic
+Cormorant Infant Medium Italic (Serif, Latin) : cormorant-infant-latin-500italic
+EB Garamond Medium Italic (Serif, Latin) : eb-garamond-latin-500italic
+Exo Medium Italic (Sans-Serif, Latin) : exo-latin-500italic
+Exo 2 Medium Italic (Sans-Serif, Latin) : exo-2-latin-500italic
+Expletus Sans Medium Italic (Display, Latin) : expletus-sans-latin-500italic
+Fahkwang Medium Italic (Sans-Serif, Latin) : fahkwang-latin-500italic
+Faustina Medium Italic (Serif, Latin) : faustina-latin-500italic
+Fira Sans Medium Italic (Sans-Serif, Latin) : fira-sans-latin-500italic
+Fira Sans Condensed Medium Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-500italic
+Fira Sans Extra Condensed Medium Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-500italic
+IBM Plex Mono Medium Italic (Monospace, Latin) : ibm-plex-mono-latin-500italic
+IBM Plex Sans Medium Italic (Sans-Serif, Latin) : ibm-plex-sans-latin-500italic
+IBM Plex Sans Condensed Medium Italic (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-500italic
+IBM Plex Serif Medium Italic (Serif, Latin) : ibm-plex-serif-latin-500italic
+K2D Medium Italic (Sans-Serif, Latin) : k2d-latin-500italic
+Kanit Medium Italic (Sans-Serif, Latin) : kanit-latin-500italic
+Kanit Medium Italic (Sans-Serif, Thai) : kanit-thai-500italic
+Kanit Medium Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-500italic
+Kanit Medium Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-500italic
+Kodchasan Medium Italic (Sans-Serif, Latin) : kodchasan-latin-500italic
+KoHo Medium Italic (Sans-Serif, Latin) : koho-latin-500italic
+Krub Medium Italic (Sans-Serif, Latin) : krub-latin-500italic
+Libre Franklin Medium Italic (Sans-Serif, Latin) : libre-franklin-latin-500italic
+Mali Medium Italic (Handwriting, Latin) : mali-latin-500italic
+Manuale Medium Italic (Serif, Latin) : manuale-latin-500italic
+Montserrat Medium Italic (Sans-Serif, Latin) : montserrat-latin-500italic
+Montserrat Alternates Medium Italic (Sans-Serif, Latin) : montserrat-alternates-latin-500italic
+Niramit Medium Italic (Sans-Serif, Latin) : niramit-latin-500italic
+Nobile Medium Italic (Sans-Serif, Latin) : nobile-latin-500italic
+Poppins Medium Italic (Sans-Serif, Latin) : poppins-latin-500italic
+Prompt Medium Italic (Sans-Serif, Latin) : prompt-latin-500italic
+Proza Libre Medium Italic (Sans-Serif, Latin) : proza-libre-latin-500italic
+Raleway Medium Italic (Sans-Serif, Latin) : raleway-latin-500italic
+Roboto Medium Italic (Sans-Serif, Latin) : roboto-latin-500italic
+Roboto Medium Italic (Sans-Serif, Vietnamese) : roboto-vietnamese-500italic
+Roboto Medium Italic (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-500italic
+Roboto Medium Italic (Sans-Serif, Latin Ext) : roboto-latin-ext-500italic
+Roboto Medium Italic (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-500italic
+Roboto Mono Medium Italic (Monospace, Latin) : roboto-mono-latin-500italic
+Rubik Medium Italic (Sans-Serif, Latin) : rubik-latin-500italic
+Spectral Medium Italic (Serif, Latin) : spectral-latin-500italic
+Spectral SC Medium Italic (Serif, Latin) : spectral-sc-latin-500italic
+Trirong Medium Italic (Serif, Latin) : trirong-latin-500italic
+Ubuntu Medium Italic (Sans-Serif, Latin) : ubuntu-latin-500italic
+Zilla Slab Medium Italic (Serif, Latin) : zilla-slab-latin-500italic
+Abhaya Libre Semi Bold (Serif, Sinhala Latin Ext) : abhaya-libre-latin-ext_sinhala_latin-600
+Abhaya Libre Semi Bold (Serif, Latin) : abhaya-libre-latin-600
+Advent Pro Semi Bold (Sans-Serif, Latin) : advent-pro-latin-600
+Amiko Semi Bold (Sans-Serif, Latin) : amiko-latin-600
+Archivo Semi Bold (Sans-Serif, Latin) : archivo-latin-600
+Archivo Narrow Semi Bold (Sans-Serif, Latin) : archivo-narrow-latin-600
+Asap Semi Bold (Sans-Serif, Latin) : asap-latin-600
+Asap Condensed Semi Bold (Sans-Serif, Latin) : asap-condensed-latin-600
+Athiti Semi Bold (Sans-Serif, Latin) : athiti-latin-600
+Atma Semi Bold (Display, Bengali Latin Ext) : atma-latin-ext_latin_bengali-600
+Atma Semi Bold (Display, Latin) : atma-latin-600
+Biryani Semi Bold (Sans-Serif, Latin) : biryani-latin-600
+Cabin Semi Bold (Sans-Serif, Latin) : cabin-latin-600
+Cabin Condensed Semi Bold (Sans-Serif, Latin) : cabin-condensed-latin-600
+Catamaran Semi Bold (Sans-Serif, Latin) : catamaran-latin-600
+Chakra Petch Semi Bold (Sans-Serif, Latin) : chakra-petch-latin-600
+Changa Semi Bold (Sans-Serif, Latin) : changa-latin-600
+Cormorant Semi Bold (Serif, Latin) : cormorant-latin-600
+Cormorant Garamond Semi Bold (Serif, Latin) : cormorant-garamond-latin-600
+Cormorant Infant Semi Bold (Serif, Latin) : cormorant-infant-latin-600
+Cormorant SC Semi Bold (Serif, Latin) : cormorant-sc-latin-600
+Cormorant Unicase Semi Bold (Serif, Latin) : cormorant-unicase-latin-600
+Cormorant Upright Semi Bold (Serif, Latin) : cormorant-upright-latin-600
+Crimson Text Semi Bold (Serif, Latin) : crimson-text-latin-600
+Dosis Semi Bold (Sans-Serif, Latin) : dosis-latin-600
+EB Garamond Semi Bold (Serif, Latin) : eb-garamond-latin-600
+Eczar Semi Bold (Serif, Latin) : eczar-latin-600
+El Messiri Semi Bold (Sans-Serif, Latin) : el-messiri-latin-600
+Encode Sans Semi Bold (Sans-Serif, Latin) : encode-sans-latin-600
+Encode Sans Condensed Semi Bold (Sans-Serif, Latin) : encode-sans-condensed-latin-600
+Encode Sans Expanded Semi Bold (Sans-Serif, Latin) : encode-sans-expanded-latin-600
+Encode Sans Semi Condensed Semi Bold (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-600
+Encode Sans Semi Expanded Semi Bold (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-600
+Expletus Sans Semi Bold (Display, Latin) : expletus-sans-latin-600
+Faustina Semi Bold (Serif, Latin) : faustina-latin-600
+Gothic A6 Semi Bold (Sans-Serif, Latin) : gothic-a6-latin-600
+Halant Semi Bold (Serif, Devanagari Latin) : halant-latin-ext_latin_devanagari-600
+Halant Semi Bold (Serif, Latin) : halant-latin-600
+Hind Semi Bold (Sans-Serif, Devanagari Latin Ext) : hind-latin-ext_latin_devanagari-600
+Hind Guntur Semi Bold (Sans-Serif, Telugu Latin Ext) : hind-guntur-latin-ext_telugu_latin-600
+Hind Madurai Semi Bold (Sans-Serif, Tamil Latin Ext) : hind-madurai-latin-ext_tamil_latin-600
+Hind Siliguri Semi Bold (Sans-Serif, Bengali Latin) : hind-siliguri-latin_bengali-600
+Hind Vadodara Semi Bold (Sans-Serif, Gujarati Latin Ext) : hind-vadodara-latin-ext_latin_gujarati-600
+Hind Semi Bold (Sans-Serif, Latin) : hind-latin-600
+Hind Guntur Semi Bold (Sans-Serif, Latin) : hind-guntur-latin-600
+Hind Madurai Semi Bold (Sans-Serif, Latin) : hind-madurai-latin-600
+Hind Siliguri Semi Bold (Sans-Serif, Latin) : hind-siliguri-latin-600
+Hind Vadodara Semi Bold (Sans-Serif, Latin) : hind-vadodara-latin-600
+Inknut Antiqua Semi Bold (Serif, Latin) : inknut-antiqua-latin-600
+Josefin Sans Semi Bold (Sans-Serif, Latin) : josefin-sans-latin-600
+Josefin Slab Semi Bold (Serif, Latin) : josefin-slab-latin-600
+Jura Semi Bold (Sans-Serif, Latin) : jura-latin-600
+Karma Semi Bold (Serif, Latin) : karma-latin-600
+Khand Semi Bold (Sans-Serif, Latin) : khand-latin-600
+Khula Semi Bold (Sans-Serif, Latin) : khula-latin-600
+Laila Semi Bold (Serif, Latin) : laila-latin-600
+Lemonada Semi Bold (Display, Latin) : lemonada-latin-600
+M PLUS Rounded 1c Semi Bold (Sans-Serif, Latin) : m-plus-rounded-1c-latin-600
+Mada Semi Bold (Sans-Serif, Latin) : mada-latin-600
+Maitree Semi Bold (Serif, Latin) : maitree-latin-600
+Manuale Semi Bold (Serif, Latin) : manuale-latin-600
+Markazi Text Semi Bold (Serif, Latin) : markazi-text-latin-600
+Martel Semi Bold (Serif, Latin) : martel-latin-600
+Martel Sans Semi Bold (Sans-Serif, Latin) : martel-sans-latin-600
+Mirza Semi Bold (Display, Latin) : mirza-latin-600
+Mitr Semi Bold (Sans-Serif, Latin) : mitr-latin-600
+Mukta Semi Bold (Sans-Serif, Devanagari Latin Ext) : mukta-latin-ext_latin_devanagari-600
+Mukta Mahee Semi Bold (Sans-Serif, Gurmukhi Latin Ext) : mukta-mahee-gurmukhi_latin-ext_latin-600
+Mukta Malar Semi Bold (Sans-Serif, Tamil Latin Ext) : mukta-malar-latin-ext_tamil_latin-600
+Mukta Vaani Semi Bold (Sans-Serif, Gujarati Latin Ext) : mukta-vaani-latin-ext_latin_gujarati-600
+Mukta Semi Bold (Sans-Serif, Latin) : mukta-latin-600
+Mukta Mahee Semi Bold (Sans-Serif, Latin) : mukta-mahee-latin-600
+Mukta Malar Semi Bold (Sans-Serif, Latin) : mukta-malar-latin-600
+Mukta Vaani Semi Bold (Sans-Serif, Latin) : mukta-vaani-latin-600
+Muli Semi Bold (Sans-Serif, Latin) : muli-latin-600
+Noto Serif JP Semi Bold (Sans-Serif, Japanese) : noto-serif-jp-japanese_latin-600
+Noto Serif KR Semi Bold (Sans-Serif, Korean) : noto-serif-kr-latin_korean-600
+Nunito Semi Bold (Sans-Serif, Latin) : nunito-latin-600
+Nunito Sans Semi Bold (Sans-Serif, Latin) : nunito-sans-latin-600
+Open Sans Semi Bold (Sans-Serif, Latin) : open-sans-latin-600
+Open Sans Semi Bold (Sans-Serif, Greek Ext) : open-sans-greek-ext-600
+Open Sans Semi Bold (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-600
+Open Sans Semi Bold (Sans-Serif, Latin Ext) : open-sans-latin-ext-600
+Open Sans Semi Bold (Sans-Serif, Vietnamese) : open-sans-vietamese-600
+Oswald Semi Bold (Sans-Serif, Latin) : oswald-latin-600
+Overpass Mono Semi Bold (Monospace, Latin) : overpass-mono-latin-600
+Palanquin Semi Bold (Sans-Serif, Latin) : palanquin-latin-600
+Palanquin Dark Semi Bold (Sans-Serif, Latin) : palanquin-dark-latin-600
+Podkova Semi Bold (Serif, Latin) : podkova-latin-600
+Pridi Semi Bold (Serif, Latin) : pridi-latin-600
+Proza Libre Semi Bold (Sans-Serif, Latin) : proza-libre-latin-600
+Rajdhani Semi Bold (Sans-Serif, Latin) : rajdhani-latin-600
+Rasa Semi Bold (Serif, Latin) : rasa-latin-600
+Rokkitt Semi Bold (Serif, Latin) : rokkitt-latin-600
+Saira Semi Bold (Sans-Serif, Latin) : saira-latin-600
+Saira Condensed Semi Bold (Sans-Serif, Latin) : saira-condensed-latin-600
+Saira Extra Condensed Semi Bold (Sans-Serif, Latin) : saira-extra-condensed-latin-600
+Saira Semi Condensed Semi Bold (Sans-Serif, Latin) : saira-semi-condensed-latin-600
+Sarpanch Semi Bold (Sans-Serif, Latin) : sarpanch-latin-600
+Signika Semi Bold (Sans-Serif, Latin) : signika-latin-600
+Signika Negative Semi Bold (Sans-Serif, Latin) : signika-negative-latin-600
+Source Code Pro Semi Bold (Monospace, Latin) : source-code-pro-latin-600
+Source Sans Pro Semi Bold (Sans-Serif, Latin) : source-sans-pro-latin-600
+Source Serif Pro Semi Bold (Serif, Latin) : source-serif-pro-latin-600
+Teko Semi Bold (Sans-Serif, Latin) : teko-latin-600
+Tillana Semi Bold (Handwriting, Latin) : tillana-latin-600
+Titillium Web Semi Bold (Sans-Serif, Latin) : titillium-web-latin-600
+Vollkorn Semi Bold (Serif, Latin) : vollkorn-latin-600
+Vollkorn SC Semi Bold (Serif, Latin) : vollkorn-sc-latin-600
+Work Sans Semi Bold (Sans-Serif, Latin) : work-sans-latin-600
+Yrsa Semi Bold (Serif, Latin) : yrsa-latin-600
+Zilla Slab Semi Bold (Serif, Latin) : zilla-slab-latin-600
+Archivo Semi Bold Italic (Sans-Serif, Latin) : archivo-latin-600italic
+Archivo Narrow Semi Bold Italic (Sans-Serif, Latin) : archivo-narrow-latin-600italic
+Asap Semi Bold Italic (Sans-Serif, Latin) : asap-latin-600italic
+Asap Condensed Semi Bold Italic (Sans-Serif, Latin) : asap-condensed-latin-600italic
+Bai Jamjuree Semi Bold Italic (Sans-Serif, Latin) : bai-jamjuree-latin-600italic
+Barlow Semi Bold Italic (Sans-Serif, Latin) : barlow-latin-600italic
+Barlow Condensed Semi Bold Italic (Sans-Serif, Latin) : barlow-condensed-latin-600italic
+Barlow Condensed Semi Bold Italic (Serif, Latin) : barlow-condensed-latin-600italic
+Barlow Semi Condensed Semi Bold Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-600italic
+Cabin Semi Bold Italic (Sans-Serif, Latin) : cabin-latin-600italic
+Chakra Petch Semi Bold Italic (Sans-Serif, Latin) : chakra-petch-latin-600italic
+Cormorant Semi Bold Italic (Serif, Latin) : cormorant-latin-600italic
+Cormorant Garamond Semi Bold Italic (Serif, Latin) : cormorant-garamond-latin-600italic
+Cormorant Infant Semi Bold Italic (Serif, Latin) : cormorant-infant-latin-600italic
+Crimson Text Semi Bold Italic (Serif, Latin) : crimson-text-latin-600italic
+EB Garamond Semi Bold Italic (Serif, Latin) : eb-garamond-latin-600italic
+Exo Semi Bold Italic (Sans-Serif, Latin) : exo-latin-600italic
+Exo 2 Semi Bold Italic (Sans-Serif, Latin) : exo-2-latin-600italic
+Expletus Sans Semi Bold Italic (Display, Latin) : expletus-sans-latin-600italic
+Fahkwang Semi Bold Italic (Sans-Serif, Latin) : fahkwang-latin-600italic
+Faustina Semi Bold Italic (Serif, Latin) : faustina-latin-600italic
+Fira Sans Semi Bold Italic (Sans-Serif, Latin) : fira-sans-latin-600italic
+Fira Sans Condensed Semi Bold Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-600italic
+Fira Sans Extra Condensed Semi Bold Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-600italic
+IBM Plex Mono Semi Bold Italic (Monospace, Latin) : ibm-plex-mono-latin-600italic
+IBM Plex Sans Semi Bold Italic (Sans-Serif, Latin) : ibm-plex-sans-latin-600italic
+IBM Plex Sans Condensed Semi Bold Italic (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-600italic
+IBM Plex Serif Semi Bold Italic (Serif, Latin) : ibm-plex-serif-latin-600italic
+Josefin Sans Semi Bold Italic (Sans-Serif, Latin) : josefin-sans-latin-600italic
+Josefin Slab Semi Bold Italic (Serif, Latin) : josefin-slab-latin-600italic
+K2D Semi Bold Italic (Sans-Serif, Latin) : k2d-latin-600italic
+Kanit Semi Bold Italic (Sans-Serif, Latin) : kanit-latin-600italic
+Kanit Semi Bold Italic (Sans-Serif, Thai) : kanit-thai-600italic
+Kanit Semi Bold Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-600italic
+Kanit Semi Bold Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-600italic
+Kodchasan Semi Bold Italic (Sans-Serif, Latin) : kodchasan-latin-600italic
+KoHo Semi Bold Italic (Sans-Serif, Latin) : koho-latin-600italic
+Krub Semi Bold Italic (Sans-Serif, Latin) : krub-latin-600italic
+Libre Franklin Semi Bold Italic (Sans-Serif, Latin) : libre-franklin-latin-600italic
+Mali Semi Bold Italic (Handwriting, Latin) : mali-latin-600italic
+Manuale Semi Bold Italic (Serif, Latin) : manuale-latin-600italic
+Montserrat Semi Bold Italic (Sans-Serif, Latin) : montserrat-latin-600italic
+Montserrat Alternates Semi Bold Italic (Sans-Serif, Latin) : montserrat-alternates-latin-600italic
+Muli Semi Bold Italic (Sans-Serif, Latin) : muli-latin-600italic
+Niramit Semi Bold Italic (Sans-Serif, Latin) : niramit-latin-600italic
+Nunito Semi Bold Italic (Sans-Serif, Latin) : nunito-latin-600italic
+Nunito Sans Semi Bold Italic (Sans-Serif, Latin) : nunito-sans-latin-600italic
+Open Sans Semi Bold Italic (Sans-Serif, Latin) : open-sans-latin-600italic
+Open Sans Semi Bold Italic (Sans-Serif, Greek Ext) : open-sans-greek-ext-600italic
+Open Sans Semi Bold Italic (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-600italic
+Open Sans Semi Bold Italic (Sans-Serif, Latin Ext) : open-sans-latin-ext-600italic
+Open Sans Semi Bold Italic (Sans-Serif, Vietnamese) : open-sans-vietamese-600italic
+Overpass Semi Bold Italic (Sans-Serif, Latin) : overpass-latin-600italic
+Poppins Semi Bold Italic (Sans-Serif, Latin) : poppins-latin-600italic
+Prompt Semi Bold Italic (Sans-Serif, Latin) : prompt-latin-600italic
+Proza Libre Semi Bold Italic (Sans-Serif, Latin) : proza-libre-latin-600italic
+Raleway Semi Bold Italic (Sans-Serif, Latin) : raleway-latin-600italic
+Source Sans Pro Semi Bold Italic (Sans-Serif, Latin) : source-sans-pro-latin-600italic
+Spectral Semi Bold Italic (Serif, Latin) : spectral-latin-600italic
+Spectral SC Semi Bold Italic (Serif, Latin) : spectral-sc-latin-600italic
+Titillium Web Semi Bold Italic (Sans-Serif, Latin) : titillium-web-latin-600italic
+Trirong Semi Bold Italic (Serif, Latin) : trirong-latin-600italic
+Vollkorn Semi Bold Italic (Serif, Latin) : vollkorn-latin-600italic
+Zilla Slab Semi Bold Italic (Serif, Latin) : zilla-slab-latin-600italic
+Abhaya Libre Bold (Serif, Sinhala Latin Ext) : abhaya-libre-latin-ext_sinhala_latin-700
+Abhaya Libre Bold (Serif, Latin) : abhaya-libre-latin-700
+Advent Pro Bold (Sans-Serif, Latin) : advent-pro-latin-700
+Alef Bold (Sans-Serif, Hebrew Latin) : alef-latin_hebrew-700
+Alef Bold (Sans-Serif, Latin) : alef-latin-700
+Alegreya Bold (Serif, Latin) : alegreya-latin-700
+Alegreya SC Bold (Serif, Latin) : alegreya-sc-latin-700
+Allan Bold (Display, Latin) : allan-latin-700
+Almendra Bold (Serif, Latin) : almendra-latin-700
+Amaranth Bold (Sans-Serif, Latin) : amaranth-latin-700
+Amatic SC Bold (Handwriting, Latin) : amatic-sc-latin-700
+Amiko Bold (Sans-Serif, Latin) : amiko-latin-700
+Amiri Bold (Serif, Latin) : amiri-latin-700
+Amiri Bold (Serif, Arabic) : amiri-arabic-700
+Amiri Bold (Serif, Arabic Latin) : amiri-arabic_latin-700
+Amiri Bold (Serif, Latin Ext Arabic) : amiri-latin-ext_arabic_latin-700
+Amita Bold (Handwriting, Latin) : amita-latin-700
+Anonymous Pro Bold (Monospace, Latin) : anonymous-pro-latin-700
+Archivo Bold (Sans-Serif, Latin) : archivo-latin-700
+Archivo Narrow Bold (Sans-Serif, Latin) : archivo-narrow-latin-700
+Aref Ruqaa Bold (Serif, Latin) : aref-ruqaa-latin-700
+Arima Madurai Bold (Display, Latin) : arima-madurai-latin-700
+Arimo Bold (Sans-Serif, Hebrew Latin Greek Cyrillic Vietnamese) : arimo-greek_latin_hebrew_cyrillic_vietnamese-700
+Arimo Bold (Sans-Serif, Hebrew Latin) : arimo-latin_hebrew-700
+Arimo Bold (Sans-Serif, Latin) : arimo-latin-700
+Arsenal Bold (Sans-Serif, Latin) : arsenal-latin-700
+Arvo Bold (Serif, Latin) : arvo-latin-700
+Arya Bold (Sans-Serif, Latin) : arya-latin-700
+Asap Bold (Sans-Serif, Latin) : asap-latin-700
+Asap Condensed Bold (Sans-Serif, Latin) : asap-condensed-latin-700
+Assistant Bold (Sans-Serif, Latin) : assistant-latin-700
+Astloch Bold (Display, Latin) : astloch-latin-700
+Asul Bold (Sans-Serif, Latin) : asul-latin-700
+Athiti Bold (Sans-Serif, Latin) : athiti-latin-700
+Atma Bold (Display, Bengali Latin Ext) : atma-latin-ext_latin_bengali-700
+Atma Bold (Display, Latin) : atma-latin-700
+Averia Libre Bold (Display, Latin) : averia-libre-latin-700
+Averia Sans Libre Bold (Display, Latin) : averia-sans-libre-latin-700
+Averia Serif Libre Bold (Display, Latin) : averia-serif-libre-latin-700
+Battambang Bold (Display, Khmer) : battambang-khmer-700
+BenchNine Bold (Sans-Serif, Latin) : benchnine-latin-700
+BioRhyme Bold (Serif, Latin) : biorhyme-latin-700
+BioRhyme Expanded Bold (Serif, Latin) : biorhyme-expanded-latin-700
+Biryani Bold (Sans-Serif, Latin) : biryani-latin-700
+Bitter Bold (Serif, Latin) : bitter-latin-700
+Buenard Bold (Serif, Latin) : buenard-latin-700
+Cabin Bold (Sans-Serif, Latin) : cabin-latin-700
+Cabin Condensed Bold (Sans-Serif, Latin) : cabin-condensed-latin-700
+Cabin Sketch Bold (Display, Latin) : cabin-sketch-latin-700
+Cairo Bold (Sans-Serif, Latin) : cairo-latin-700
+Cambay Bold (Sans-Serif, Latin) : cambay-latin-700
+Cantarell Bold (Sans-Serif, Latin) : cantarell-latin-700
+Cardo Bold (Serif, Latin) : cardo-latin-700
+Catamaran Bold (Sans-Serif, Latin) : catamaran-latin-700
+Caudex Bold (Serif, Latin) : caudex-latin-700
+Caveat Bold (Handwriting, Latin) : caveat-latin-700
+Changa Bold (Sans-Serif, Latin) : changa-latin-700
+Charmonman Bold (Handwriting, Latin) : charmonman-latin-700
+Chathura Bold (Sans-Serif, Latin) : chathura-latin-700
+Cherry Swash Bold (Display, Latin) : cherry-swash-latin-700
+Chivo Bold (Sans-Serif, Latin) : chivo-latin-700
+Cinzel Bold (Serif, Latin) : cinzel-latin-700
+Cinzel Decorative Bold (Display, Latin) : cinzel-decorative-latin-700
+Comfortaa Bold (Display, Latin) : comfortaa-latin-700
+Content Bold (Display, Khmer) : content-khmer-700
+Corben Bold (Display, Latin) : corben-latin-700
+Cormorant SC Bold (Serif, Latin) : cormorant-sc-latin-700
+Cormorant Unicase Bold (Serif, Latin) : cormorant-unicase-latin-700
+Cormorant Upright Bold (Serif, Latin) : cormorant-upright-latin-700
+Cousine Bold (Monospace, Latin) : cousine-latin-700
+Crimson Text Bold (Serif, Latin) : crimson-text-latin-700
+Cuprum Bold (Sans-Serif, Latin) : cuprum-latin-700
+Dancing Script Bold (Handwriting, Latin) : dancing-script-latin-700
+David Libre Bold (Serif, Latin) : david-libre-latin-700
+Delius Unicase Bold (Handwriting, Latin) : delius-unicase-latin-700
+Domine Bold (Serif, Latin) : domine-latin-700
+Dosis Bold (Sans-Serif, Latin) : dosis-latin-700
+EB Garamond Bold (Serif, Latin) : eb-garamond-latin-700
+Economica Bold (Sans-Serif, Latin) : economica-latin-700
+Eczar Bold (Serif, Latin) : eczar-latin-700
+El Messiri Bold (Sans-Serif, Latin) : el-messiri-latin-700
+Encode Sans Bold (Sans-Serif, Latin) : encode-sans-latin-700
+Encode Sans Condensed Bold (Sans-Serif, Latin) : encode-sans-condensed-latin-700
+Encode Sans Expanded Bold (Sans-Serif, Latin) : encode-sans-expanded-latin-700
+Encode Sans Semi Condensed Bold (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-700
+Encode Sans Semi Expanded Bold (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-700
+Enriqueta Bold (Serif, Latin) : enriqueta-latin-700
+Expletus Sans Bold (Display, Latin) : expletus-sans-latin-700
+Faustina Bold (Serif, Latin) : faustina-latin-700
+Fira Mono Bold (Monospace, Latin) : fira-mono-latin-700
+Frank Ruhl Libre Bold (Serif, Latin) : frank-ruhl-libre-latin-700
+Gaegu Bold (Handwriting, Latin) : gaegu-latin-700
+Gentium Basic Bold (Serif, Latin) : gentium-basic-latin-700
+Gentium Book Basic Bold (Serif, Latin) : gentium-book-basic-latin-700
+GFS Neohellenic Bold (Sans-Serif, Greek) : gfs-neohellenic-greek-700
+Glegoo Bold (Serif, Latin) : glegoo-latin-700
+Gorditas Bold (Display, Latin) : gorditas-latin-700
+Gothic A7 Bold (Sans-Serif, Latin) : gothic-a7-latin-700
+Gudea Bold (Sans-Serif, Latin) : gudea-latin-700
+Halant Bold (Serif, Devanagari Latin) : halant-latin-ext_latin_devanagari-700
+Halant Bold (Serif, Latin) : halant-latin-700
+Hanuman Bold (Serif, Khmer) : hanuman-khmer-700
+Heebo Bold (Sans-Serif, Latin) : heebo-latin-700
+Hind Bold (Sans-Serif, Devanagari Latin Ext) : hind-latin-ext_latin_devanagari-700
+Hind Guntur Bold (Sans-Serif, Telugu Latin Ext) : hind-guntur-latin-ext_telugu_latin-700
+Hind Madurai Bold (Sans-Serif, Tamil Latin Ext) : hind-madurai-latin-ext_tamil_latin-700
+Hind Siliguri Bold (Sans-Serif, Bengali Latin) : hind-siliguri-latin_bengali-700
+Hind Vadodara Bold (Sans-Serif, Gujarati Latin Ext) : hind-vadodara-latin-ext_latin_gujarati-700
+Hind Bold (Sans-Serif, Latin) : hind-latin-700
+Hind Guntur Bold (Sans-Serif, Latin) : hind-guntur-latin-700
+Hind Madurai Bold (Sans-Serif, Latin) : hind-madurai-latin-700
+Hind Siliguri Bold (Sans-Serif, Latin) : hind-siliguri-latin-700
+Hind Vadodara Bold (Sans-Serif, Latin) : hind-vadodara-latin-700
+Inconsolata Bold (Monospace, Latin) : inconsolata-latin-700
+Inika Bold (Serif, Latin) : inika-latin-700
+Inknut Antiqua Bold (Serif, Latin) : inknut-antiqua-latin-700
+Istok Web Bold (Sans-Serif, Latin) : istok-web-latin-700
+Jaldi Bold (Sans-Serif, Latin) : jaldi-latin-700
+Judson Bold (Serif, Latin) : judson-latin-700
+Jura Bold (Sans-Serif, Latin) : jura-latin-700
+Kadwa Bold (Serif, Latin) : kadwa-latin-700
+Kalam Bold (Handwriting, Latin) : kalam-latin-700
+Kameron Bold (Serif, Latin) : kameron-latin-700
+Kantumruy Bold (Sans-Serif, Khmer) : kantumruy-khmer-700
+Karla Bold (Sans-Serif, Latin) : karla-latin-700
+Karma Bold (Serif, Latin) : karma-latin-700
+Khand Bold (Sans-Serif, Latin) : khand-latin-700
+Khula Bold (Sans-Serif, Latin) : khula-latin-700
+Kreon Bold (Serif, Latin) : kreon-latin-700
+Laila Bold (Serif, Latin) : laila-latin-700
+Lato Bold (Sans-Serif, Latin) : lato-latin-700
+Lekton Bold (Sans-Serif, Latin) : lekton-latin-700
+Lemonada Bold (Display, Latin) : lemonada-latin-700
+Libre Baskerville Bold (Serif, Latin) : libre-baskerville-latin-700
+Life Savers Bold (Display, Latin) : life-savers-latin-700
+Lobster Two Bold (Display, Latin) : lobster-two-latin-700
+Lora Bold (Serif, Latin) : lora-latin-700
+Lusitana Bold (Serif, Latin) : lusitana-latin-700
+M PLUS 1p Bold (Sans-Serif, Latin) : m-plus-1p-latin-700
+M PLUS Rounded 1c Bold (Sans-Serif, Latin) : m-plus-rounded-1c-latin-700
+Mada Bold (Sans-Serif, Latin) : mada-latin-700
+Magra Bold (Sans-Serif, Latin) : magra-latin-700
+Maitree Bold (Serif, Latin) : maitree-latin-700
+Manuale Bold (Serif, Latin) : manuale-latin-700
+Markazi Text Bold (Serif, Latin) : markazi-text-latin-700
+Martel Bold (Serif, Latin) : martel-latin-700
+Martel Sans Bold (Sans-Serif, Latin) : martel-sans-latin-700
+Marvel Bold (Sans-Serif, Latin) : marvel-latin-700
+Maven Pro Bold (Sans-Serif, Latin) : maven-pro-latin-700
+Merienda Bold (Handwriting, Latin) : merienda-latin-700
+Merriweather Bold (Serif, Latin) : merriweather-latin-700
+Merriweather Sans Bold (Sans-Serif, Latin) : merriweather-sans-latin-700
+Mina Bold (Sans-Serif, Latin) : mina-latin-700
+Miriam Libre Bold (Sans-Serif, Latin) : miriam-libre-latin-700
+Mirza Bold (Display, Latin) : mirza-latin-700
+Mitr Bold (Sans-Serif, Latin) : mitr-latin-700
+Monda Bold (Sans-Serif, Latin) : monda-latin-700
+Montserrat Subrayada Bold (Sans-Serif, Latin) : montserrat-subrayada-latin-700
+Mountains of Christmas Bold (Display, Latin) : mountains-of-christmas-latin-700
+Mukta Bold (Sans-Serif, Devanagari Latin Ext) : mukta-latin-ext_latin_devanagari-700
+Mukta Mahee Bold (Sans-Serif, Gurmukhi Latin Ext) : mukta-mahee-gurmukhi_latin-ext_latin-700
+Mukta Malar Bold (Sans-Serif, Tamil Latin Ext) : mukta-malar-latin-ext_tamil_latin-700
+Mukta Vaani Bold (Sans-Serif, Gujarati Latin Ext) : mukta-vaani-latin-ext_latin_gujarati-700
+Mukta Bold (Sans-Serif, Latin) : mukta-latin-700
+Mukta Mahee Bold (Sans-Serif, Latin) : mukta-mahee-latin-700
+Mukta Malar Bold (Sans-Serif, Latin) : mukta-malar-latin-700
+Mukta Vaani Bold (Sans-Serif, Latin) : mukta-vaani-latin-700
+Nanum Gothic Bold (Sans-Serif, Latin Korean) : nanum-gothic-latin_korean-700
+Nanum Gothic Bold (Sans-Serif, Latin) : nanum-gothic-latin-700
+Nanum Gothic Coding Bold (Monospace, Latin) : nanum-gothic-coding-latin-700
+Nanum Myeongjo Bold (Serif, Latin) : nanum-myeongjo-latin-700
+Neuton Bold (Serif, Latin) : neuton-latin-700
+News Cycle Bold (Sans-Serif, Latin) : news-cycle-latin-700
+Nobile Bold (Sans-Serif, Latin) : nobile-latin-700
+Nokora Bold (Serif, Khmer) : nokora-khmer-700
+Noticia Text Bold (Serif, Latin) : noticia-text-latin-700
+Noto Sans Bold (Sans-Serif, Cyrillic) : noto-sans-cyrillic-ext_cyrillic-700
+Noto Sans Bold (Sans-Serif, Devanagari) : noto-sans-devanagari-700
+Noto Sans Bold (Sans-Serif, Greek) : noto-sans-greek_greek-ext-700
+Noto Sans Bold (Sans-Serif, Latin) : noto-sans-latin-700
+Noto Sans Bold (Sans-Serif, Vietnamese) : noto-sans-latin_latin-ext_vietnamese-700
+Noto Sans JP Bold (Sans-Serif, Japanese) : noto-sans-jp-japanese_latin-700
+Noto Sans KR Bold (Sans-Serif, Korean) : noto-sans-kr-latin_korean-700
+Noto Serif Bold (Serif, Latin) : noto-serif-latin-700
+Noto Serif JP Bold (Sans-Serif, Japanese) : noto-serif-jp-japanese_latin-700
+Noto Serif KR Bold (Sans-Serif, Korean) : noto-serif-kr-latin_korean-700
+Old Standard TT Bold (Serif, Latin) : old-standard-tt-latin-700
+Oleo Script Bold (Display, Latin) : oleo-script-latin-700
+Oleo Script Swash Caps Bold (Display, Latin) : oleo-script-swash-caps-latin-700
+Open Sans Bold (Sans-Serif, Latin) : open-sans-latin-700
+Open Sans Bold (Sans-Serif, Greek Ext) : open-sans-greek-ext-700
+Open Sans Bold (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-700
+Open Sans Bold (Sans-Serif, Latin Ext) : open-sans-latin-ext-700
+Open Sans Bold (Sans-Serif, Vietnamese) : open-sans-vietamese-700
+Open Sans Condensed Bold (Sans-Serif, Latin) : open-sans-condensed-latin-700
+Orbitron Bold (Sans-Serif, Latin) : orbitron-latin-700
+Oswald Bold (Sans-Serif, Latin) : oswald-latin-700
+Overlock Bold (Display, Latin) : overlock-latin-700
+Overpass Mono Bold (Monospace, Latin) : overpass-mono-latin-700
+Oxygen Bold (Sans-Serif, Latin) : oxygen-latin-700
+Padauk Bold (Sans-Serif, Latin Myanmar) : padauk-latin_myanmar-700
+Padauk Bold (Sans-Serif, Latin) : padauk-latin-700
+Palanquin Bold (Sans-Serif, Latin) : palanquin-latin-700
+Palanquin Dark Bold (Sans-Serif, Latin) : palanquin-dark-latin-700
+Passion One Bold (Display, Latin) : passion-one-latin-700
+Philosopher Bold (Sans-Serif, Latin) : philosopher-latin-700
+Play Bold (Sans-Serif, Latin) : play-latin-700
+Playfair Display Bold (Serif, Latin) : playfair-display-latin-700
+Playfair Display SC Bold (Serif, Latin) : playfair-display-sc-latin-700
+Podkova Bold (Serif, Latin) : podkova-latin-700
+Pragati Narrow Bold (Sans-Serif, Latin) : pragati-narrow-latin-700
+Pridi Bold (Serif, Latin) : pridi-latin-700
+Proza Libre Bold (Sans-Serif, Latin) : proza-libre-latin-700
+PT Sans Bold (Sans-Serif, Latin) : pt-sans-latin-700
+PT Sans Caption Bold (Sans-Serif, Latin) : pt-sans-caption-latin-700
+PT Sans Narrow Bold (Sans-Serif, Latin) : pt-sans-narrow-latin-700
+PT Serif Bold (Serif, Latin) : pt-serif-latin-700
+Puritan Bold (Sans-Serif, Latin) : puritan-latin-700
+Quantico Bold (Sans-Serif, Latin) : quantico-latin-700
+Quattrocento Bold (Serif, Latin) : quattrocento-latin-700
+Quattrocento Sans Bold (Sans-Serif, Latin) : quattrocento-sans-latin-700
+Quicksand Bold (Sans-Serif, Latin) : quicksand-latin-700
+Rajdhani Bold (Sans-Serif, Latin) : rajdhani-latin-700
+Rambla Bold (Sans-Serif, Latin) : rambla-latin-700
+Ranga Bold (Display, Latin) : ranga-latin-700
+Rasa Bold (Serif, Latin) : rasa-latin-700
+Roboto Condensed Bold (Sans-Serif, Latin) : roboto-condensed-latin-700
+Roboto Slab Bold (Serif, Latin) : roboto-slab-latin-700
+Rokkitt Bold (Serif, Latin) : rokkitt-latin-700
+Rosario Bold (Sans-Serif, Latin) : rosario-latin-700
+Rubik Bold (Sans-Serif, Latin) : rubik-latin-700
+Ruda Bold (Sans-Serif, Latin) : ruda-latin-700
+Rufina Bold (Serif, Latin) : rufina-latin-700
+Sahitya Bold (Serif, Latin) : sahitya-latin-700
+Saira Bold (Sans-Serif, Latin) : saira-latin-700
+Saira Condensed Bold (Sans-Serif, Latin) : saira-condensed-latin-700
+Saira Extra Condensed Bold (Sans-Serif, Latin) : saira-extra-condensed-latin-700
+Saira Semi Condensed Bold (Sans-Serif, Latin) : saira-semi-condensed-latin-700
+Sansita Bold (Sans-Serif, Latin) : sansita-latin-700
+Sarala Bold (Sans-Serif, Latin) : sarala-latin-700
+Sarpanch Bold (Sans-Serif, Latin) : sarpanch-latin-700
+Scada Bold (Sans-Serif, Latin) : scada-latin-700
+Scheherazade Bold (Serif, Latin) : scheherazade-latin-700
+Share Bold (Display, Latin) : share-latin-700
+Signika Bold (Sans-Serif, Latin) : signika-latin-700
+Signika Negative Bold (Sans-Serif, Latin) : signika-negative-latin-700
+Sintony Bold (Sans-Serif, Latin) : sintony-latin-700
+Skranji Bold (Display, Latin) : skranji-latin-700
+Source Code Pro Bold (Monospace, Latin) : source-code-pro-latin-700
+Source Serif Pro Bold (Serif, Latin) : source-serif-pro-latin-700
+Space Mono Bold (Monospace, Latin) : space-mono-latin-700
+Srisakdi Bold (Display, Latin) : srisakdi-latin-700
+Stardos Stencil Bold (Display, Latin) : stardos-stencil-latin-700
+Sumana Bold (Serif, Latin) : sumana-latin-700
+Sunflower Bold (Sans-Serif, Latin) : sunflower-latin-700
+Sura Bold (Serif, Latin) : sura-latin-700
+Syncopate Bold (Sans-Serif, Latin) : syncopate-latin-700
+Tajawal Bold (Sans-Serif, Arabic Latin) : tajawal-arabic_latin-700
+Tajawal Bold (Sans-Serif, Latin) : tajawal-latin-700
+Tangerine Bold (Handwriting, Latin) : tangerine-latin-700
+Teko Bold (Sans-Serif, Latin) : teko-latin-700
+Tienne Bold (Serif, Latin) : tienne-latin-700
+Tillana Bold (Handwriting, Latin) : tillana-latin-700
+Tinos Bold (Serif, Hebrew Latin Cyrillic Vietnamese) : tinos-latin_hebrew_cyrillic_vietnamese-700
+Tinos Bold (Serif, Hebrew Latin) : tinos-latin_hebrew-700
+Tinos Bold (Serif, Latin) : tinos-latin-700
+Trochut Bold (Display, Latin) : trochut-latin-700
+Ubuntu Bold (Sans-Serif, Latin) : ubuntu-latin-700
+Ubuntu Mono Bold (Monospace, Latin) : ubuntu-mono-latin-700
+UnifrakturCook Bold (Display, Latin) : unifrakturcook-latin-700
+Unkempt Bold (Display, Latin) : unkempt-latin-700
+Unna Bold (Serif, Latin) : unna-latin-700
+Vesper Libre Bold (Serif, Latin) : vesper-libre-latin-700
+Volkhov Bold (Serif, Latin) : volkhov-latin-700
+Vollkorn Bold (Serif, Latin) : vollkorn-latin-700
+Vollkorn SC Bold (Serif, Latin) : vollkorn-sc-latin-700
+Work Sans Bold (Sans-Serif, Latin) : work-sans-latin-700
+Yanone Kaffeesatz Bold (Sans-Serif, Latin) : yanone-kaffeesatz-latin-700
+Yantramanav Bold (Sans-Serif, Latin) : yantramanav-latin-700
+Yrsa Bold (Serif, Latin) : yrsa-latin-700
+Zilla Slab Highlight Bold (Display, Latin) : zilla-slab-highlight-latin-700
+Alegreya Bold Italic (Serif, Latin) : alegreya-latin-700italic
+Alegreya Sans Bold Italic (Sans-Serif, Latin) : alegreya-sans-latin-700italic
+Alegreya Sans SC Bold Italic (Sans-Serif, Latin) : alegreya-sans-sc-latin-700italic
+Alegreya SC Bold Italic (Serif, Latin) : alegreya-sc-latin-700italic
+Almendra Bold Italic (Serif, Latin) : almendra-latin-700italic
+Amaranth Bold Italic (Sans-Serif, Latin) : amaranth-latin-700italic
+Amiri Bold Italic (Serif, Latin) : amiri-latin-700italic
+Amiri Bold Italic (Serif, Arabic) : amiri-arabic-700italic
+Amiri Bold Italic (Serif, Arabic Latin) : amiri-arabic_latin-700italic
+Amiri Bold Italic (Serif, Latin Ext Arabic) : amiri-latin-ext_arabic_latin-700italic
+Anonymous Pro Bold Italic (Monospace, Latin) : anonymous-pro-latin-700italic
+Archivo Bold Italic (Sans-Serif, Latin) : archivo-latin-700italic
+Archivo Narrow Bold Italic (Sans-Serif, Latin) : archivo-narrow-latin-700italic
+Arimo Bold Italic (Sans-Serif, Hebrew Latin Greek Cyrillic Vietnamese) : arimo-greek_latin_hebrew_cyrillic_vietnamese-700italic
+Arimo Bold Italic (Sans-Serif, Hebrew Latin) : arimo-latin_hebrew-700italic
+Arimo Bold Italic (Sans-Serif, Latin) : arimo-latin-700italic
+Arsenal Bold Italic (Sans-Serif, Latin) : arsenal-latin-700italic
+Arvo Bold Italic (Serif, Latin) : arvo-latin-700italic
+Asap Bold Italic (Sans-Serif, Latin) : asap-latin-700italic
+Asap Condensed Bold Italic (Sans-Serif, Latin) : asap-condensed-latin-700italic
+Averia Libre Bold Italic (Display, Latin) : averia-libre-latin-700italic
+Averia Sans Libre Bold Italic (Display, Latin) : averia-sans-libre-latin-700italic
+Averia Serif Libre Bold Italic (Display, Latin) : averia-serif-libre-latin-700italic
+Bai Jamjuree Bold Italic (Sans-Serif, Latin) : bai-jamjuree-latin-700italic
+Barlow Bold Italic (Sans-Serif, Latin) : barlow-latin-700italic
+Barlow Condensed Bold Italic (Sans-Serif, Latin) : barlow-condensed-latin-700italic
+Barlow Condensed Bold Italic (Serif, Latin) : barlow-condensed-latin-700italic
+Barlow Semi Condensed Bold Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-700italic
+Cabin Bold Italic (Sans-Serif, Latin) : cabin-latin-700italic
+Cambay Bold Italic (Sans-Serif, Latin) : cambay-latin-700italic
+Cantarell Bold Italic (Sans-Serif, Latin) : cantarell-latin-700italic
+Caudex Bold Italic (Serif, Latin) : caudex-latin-700italic
+Chakra Petch Bold Italic (Sans-Serif, Latin) : chakra-petch-latin-700italic
+Chivo Bold Italic (Sans-Serif, Latin) : chivo-latin-700italic
+Cormorant Bold Italic (Serif, Latin) : cormorant-latin-700italic
+Cormorant Garamond Bold Italic (Serif, Latin) : cormorant-garamond-latin-700italic
+Cormorant Infant Bold Italic (Serif, Latin) : cormorant-infant-latin-700italic
+Cousine Bold Italic (Monospace, Latin) : cousine-latin-700italic
+Crimson Text Bold Italic (Serif, Latin) : crimson-text-latin-700italic
+Cuprum Bold Italic (Sans-Serif, Latin) : cuprum-latin-700italic
+EB Garamond Bold Italic (Serif, Latin) : eb-garamond-latin-700italic
+Economica Bold Italic (Sans-Serif, Latin) : economica-latin-700italic
+Exo Bold Italic (Sans-Serif, Latin) : exo-latin-700italic
+Exo 2 Bold Italic (Sans-Serif, Latin) : exo-2-latin-700italic
+Expletus Sans Bold Italic (Display, Latin) : expletus-sans-latin-700italic
+Fahkwang Bold Italic (Sans-Serif, Latin) : fahkwang-latin-700italic
+Faustina Bold Italic (Serif, Latin) : faustina-latin-700italic
+Fira Sans Bold Italic (Sans-Serif, Latin) : fira-sans-latin-700italic
+Fira Sans Condensed Bold Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-700italic
+Fira Sans Extra Condensed Bold Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-700italic
+Gentium Basic Bold Italic (Serif, Latin) : gentium-basic-latin-700italic
+Gentium Book Basic Bold Italic (Serif, Latin) : gentium-book-basic-latin-700italic
+GFS Neohellenic Bold Italic (Sans-Serif, Greek) : gfs-neohellenic-greek-700italic
+IBM Plex Mono Bold Italic (Monospace, Latin) : ibm-plex-mono-latin-700italic
+IBM Plex Sans Bold Italic (Sans-Serif, Latin) : ibm-plex-sans-latin-700italic
+IBM Plex Sans Condensed Bold Italic (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-700italic
+IBM Plex Serif Bold Italic (Serif, Latin) : ibm-plex-serif-latin-700italic
+Istok Web Bold Italic (Sans-Serif, Latin) : istok-web-latin-700italic
+Josefin Sans Bold Italic (Sans-Serif, Latin) : josefin-sans-latin-700italic
+Josefin Slab Bold Italic (Serif, Latin) : josefin-slab-latin-700italic
+K2D Bold Italic (Sans-Serif, Latin) : k2d-latin-700italic
+Kanit Bold Italic (Sans-Serif, Latin) : kanit-latin-700italic
+Kanit Bold Italic (Sans-Serif, Thai) : kanit-thai-700italic
+Kanit Bold Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-700italic
+Kanit Bold Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-700italic
+Karla Bold Italic (Sans-Serif, Latin) : karla-latin-700italic
+Kodchasan Bold Italic (Sans-Serif, Latin) : kodchasan-latin-700italic
+KoHo Bold Italic (Sans-Serif, Latin) : koho-latin-700italic
+Krub Bold Italic (Sans-Serif, Latin) : krub-latin-700italic
+Lato Bold Italic (Sans-Serif, Latin) : lato-latin-700italic
+Libre Franklin Bold Italic (Sans-Serif, Latin) : libre-franklin-latin-700italic
+Lobster Two Bold Italic (Display, Latin) : lobster-two-latin-700italic
+Lora Bold Italic (Serif, Latin) : lora-latin-700italic
+Mali Bold Italic (Handwriting, Latin) : mali-latin-700italic
+Manuale Bold Italic (Serif, Latin) : manuale-latin-700italic
+Marvel Bold Italic (Sans-Serif, Latin) : marvel-latin-700italic
+Merriweather Bold Italic (Serif, Latin) : merriweather-latin-700italic
+Merriweather Sans Bold Italic (Sans-Serif, Latin) : merriweather-sans-latin-700italic
+Montserrat Bold Italic (Sans-Serif, Latin) : montserrat-latin-700italic
+Montserrat Alternates Bold Italic (Sans-Serif, Latin) : montserrat-alternates-latin-700italic
+Muli Bold Italic (Sans-Serif, Latin) : muli-latin-700italic
+Niramit Bold Italic (Sans-Serif, Latin) : niramit-latin-700italic
+Nobile Bold Italic (Sans-Serif, Latin) : nobile-latin-700italic
+Noticia Text Bold Italic (Serif, Latin) : noticia-text-latin-700italic
+Noto Sans Bold Italic (Sans-Serif, Cyrillic) : noto-sans-cyrillic-ext_cyrillic-700italic
+Noto Sans Bold Italic (Sans-Serif, Devanagari) : noto-sans-devanagari-700italic
+Noto Sans Bold Italic (Sans-Serif, Greek) : noto-sans-greek_greek-ext-700italic
+Noto Sans Bold Italic (Sans-Serif, Latin) : noto-sans-latin-700italic
+Noto Sans Bold Italic (Sans-Serif, Vietnamese) : noto-sans-latin_latin-ext_vietnamese-700italic
+Noto Serif Bold Italic (Serif, Latin) : noto-serif-latin-700italic
+Nunito Bold Italic (Sans-Serif, Latin) : nunito-latin-700italic
+Nunito Sans Bold Italic (Sans-Serif, Latin) : nunito-sans-latin-700italic
+Open Sans Bold Italic (Sans-Serif, Latin) : open-sans-latin-700italic
+Open Sans Bold Italic (Sans-Serif, Greek Ext) : open-sans-greek-ext-700italic
+Open Sans Bold Italic (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-700italic
+Open Sans Bold Italic (Sans-Serif, Latin Ext) : open-sans-latin-ext-700italic
+Open Sans Bold Italic (Sans-Serif, Vietnamese) : open-sans-vietamese-700italic
+Overlock Bold Italic (Display, Latin) : overlock-latin-700italic
+Overpass Bold Italic (Sans-Serif, Latin) : overpass-latin-700italic
+Philosopher Bold Italic (Sans-Serif, Latin) : philosopher-latin-700italic
+Playfair Display Bold Italic (Serif, Latin) : playfair-display-latin-700italic
+Playfair Display SC Bold Italic (Serif, Latin) : playfair-display-sc-latin-700italic
+Poppins Bold Italic (Sans-Serif, Latin) : poppins-latin-700italic
+Prompt Bold Italic (Sans-Serif, Latin) : prompt-latin-700italic
+Proza Libre Bold Italic (Sans-Serif, Latin) : proza-libre-latin-700italic
+PT Sans Bold Italic (Sans-Serif, Latin) : pt-sans-latin-700italic
+PT Serif Bold Italic (Serif, Latin) : pt-serif-latin-700italic
+Puritan Bold Italic (Sans-Serif, Latin) : puritan-latin-700italic
+Quantico Bold Italic (Sans-Serif, Latin) : quantico-latin-700italic
+Quattrocento Sans Bold Italic (Sans-Serif, Latin) : quattrocento-sans-latin-700italic
+Raleway Bold Italic (Sans-Serif, Latin) : raleway-latin-700italic
+Rambla Bold Italic (Sans-Serif, Latin) : rambla-latin-700italic
+Roboto Bold Italic (Sans-Serif, Latin) : roboto-latin-700italic
+Roboto Bold Italic (Sans-Serif, Vietnamese) : roboto-vietnamese-700italic
+Roboto Bold Italic (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-700italic
+Roboto Bold Italic (Sans-Serif, Latin Ext) : roboto-latin-ext-700italic
+Roboto Bold Italic (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-700italic
+Roboto Condensed Bold Italic (Sans-Serif, Latin) : roboto-condensed-latin-700italic
+Roboto Mono Bold Italic (Monospace, Latin) : roboto-mono-latin-700italic
+Rosario Bold Italic (Sans-Serif, Latin) : rosario-latin-700italic
+Rubik Bold Italic (Sans-Serif, Latin) : rubik-latin-700italic
+Sansita Bold Italic (Sans-Serif, Latin) : sansita-latin-700italic
+Scada Bold Italic (Sans-Serif, Latin) : scada-latin-700italic
+Share Bold Italic (Display, Latin) : share-latin-700italic
+Source Sans Pro Bold Italic (Sans-Serif, Latin) : source-sans-pro-latin-700italic
+Space Mono Bold Italic (Monospace, Latin) : space-mono-latin-700italic
+Spectral Bold Italic (Serif, Latin) : spectral-latin-700italic
+Spectral SC Bold Italic (Serif, Latin) : spectral-sc-latin-700italic
+Tinos Bold Italic (Serif, Hebrew Latin Cyrillic Vietnamese) : tinos-latin_hebrew_cyrillic_vietnamese-700italic
+Tinos Bold Italic (Serif, Hebrew Latin) : tinos-latin_hebrew-700italic
+Tinos Bold Italic (Serif, Latin) : tinos-latin-700italic
+Titillium Web Bold Italic (Sans-Serif, Latin) : titillium-web-latin-700italic
+Trirong Bold Italic (Serif, Latin) : trirong-latin-700italic
+Ubuntu Bold Italic (Sans-Serif, Latin) : ubuntu-latin-700italic
+Ubuntu Mono Bold Italic (Monospace, Latin) : ubuntu-mono-latin-700italic
+Unna Bold Italic (Serif, Latin) : unna-latin-700italic
+Volkhov Bold Italic (Serif, Latin) : volkhov-latin-700italic
+Vollkorn Bold Italic (Serif, Latin) : vollkorn-latin-700italic
+Zilla Slab Bold Italic (Serif, Latin) : zilla-slab-latin-700italic
+Abhaya Libre Extra Bold (Serif, Sinhala Latin Ext) : abhaya-libre-latin-ext_sinhala_latin-800
+Abhaya Libre Extra Bold (Serif, Latin) : abhaya-libre-latin-800
+Alegreya Extra Bold (Serif, Latin) : alegreya-latin-800
+Alegreya SC Extra Bold (Serif, Latin) : alegreya-sc-latin-800
+Arima Madurai Extra Bold (Display, Latin) : arima-madurai-latin-800
+BioRhyme Extra Bold (Serif, Latin) : biorhyme-latin-800
+BioRhyme Expanded Extra Bold (Serif, Latin) : biorhyme-expanded-latin-800
+Biryani Extra Bold (Sans-Serif, Latin) : biryani-latin-800
+Catamaran Extra Bold (Sans-Serif, Latin) : catamaran-latin-800
+Changa Extra Bold (Sans-Serif, Latin) : changa-latin-800
+Chathura Extra Bold (Sans-Serif, Latin) : chathura-latin-800
+Coda Extra Bold (Display, Latin) : coda-latin-800
+Coda Caption Extra Bold (Sans-Serif, Latin) : coda-caption-latin-800
+Dosis Extra Bold (Sans-Serif, Latin) : dosis-latin-800
+Eczar Extra Bold (Serif, Latin) : eczar-latin-800
+Encode Sans Extra Bold (Sans-Serif, Latin) : encode-sans-latin-800
+Encode Sans Condensed Extra Bold (Sans-Serif, Latin) : encode-sans-condensed-latin-800
+Encode Sans Expanded Extra Bold (Sans-Serif, Latin) : encode-sans-expanded-latin-800
+Encode Sans Semi Condensed Extra Bold (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-800
+Encode Sans Semi Expanded Extra Bold (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-800
+Gothic A8 Extra Bold (Sans-Serif, Latin) : gothic-a8-latin-800
+Heebo Extra Bold (Sans-Serif, Latin) : heebo-latin-800
+Inknut Antiqua Extra Bold (Serif, Latin) : inknut-antiqua-latin-800
+Khula Extra Bold (Sans-Serif, Latin) : khula-latin-800
+M PLUS 1p Extra Bold (Sans-Serif, Latin) : m-plus-1p-latin-800
+M PLUS Rounded 1c Extra Bold (Sans-Serif, Latin) : m-plus-rounded-1c-latin-800
+Martel Extra Bold (Serif, Latin) : martel-latin-800
+Martel Sans Extra Bold (Sans-Serif, Latin) : martel-sans-latin-800
+Merriweather Sans Extra Bold (Sans-Serif, Latin) : merriweather-sans-latin-800
+Mukta Extra Bold (Sans-Serif, Devanagari Latin Ext) : mukta-latin-ext_latin_devanagari-800
+Mukta Mahee Extra Bold (Sans-Serif, Gurmukhi Latin Ext) : mukta-mahee-gurmukhi_latin-ext_latin-800
+Mukta Malar Extra Bold (Sans-Serif, Tamil Latin Ext) : mukta-malar-latin-ext_tamil_latin-800
+Mukta Vaani Extra Bold (Sans-Serif, Gujarati Latin Ext) : mukta-vaani-latin-ext_latin_gujarati-800
+Mukta Extra Bold (Sans-Serif, Latin) : mukta-latin-800
+Mukta Mahee Extra Bold (Sans-Serif, Latin) : mukta-mahee-latin-800
+Mukta Malar Extra Bold (Sans-Serif, Latin) : mukta-malar-latin-800
+Mukta Vaani Extra Bold (Sans-Serif, Latin) : mukta-vaani-latin-800
+Nanum Gothic Extra Bold (Sans-Serif, Latin Korean) : nanum-gothic-latin_korean-800
+Nanum Gothic Extra Bold (Sans-Serif, Latin) : nanum-gothic-latin-800
+Nanum Myeongjo Extra Bold (Serif, Latin) : nanum-myeongjo-latin-800
+Neuton Extra Bold (Serif, Latin) : neuton-latin-800
+Podkova Extra Bold (Serif, Latin) : podkova-latin-800
+Rokkitt Extra Bold (Serif, Latin) : rokkitt-latin-800
+Saira Extra Bold (Sans-Serif, Latin) : saira-latin-800
+Saira Condensed Extra Bold (Sans-Serif, Latin) : saira-condensed-latin-800
+Saira Extra Condensed Extra Bold (Sans-Serif, Latin) : saira-extra-condensed-latin-800
+Saira Semi Condensed Extra Bold (Sans-Serif, Latin) : saira-semi-condensed-latin-800
+Sansita Extra Bold (Sans-Serif, Latin) : sansita-latin-800
+Sarpanch Extra Bold (Sans-Serif, Latin) : sarpanch-latin-800
+Sniglet Extra Bold (Display, Latin) : sniglet-latin-800
+Tajawal Extra Bold (Sans-Serif, Arabic Latin) : tajawal-arabic_latin-800
+Tajawal Extra Bold (Sans-Serif, Latin) : tajawal-latin-800
+Tillana Extra Bold (Handwriting, Latin) : tillana-latin-800
+Work Sans Extra Bold (Sans-Serif, Latin) : work-sans-latin-800
+Alegreya Extra Bold Italic (Serif, Latin) : alegreya-latin-800italic
+Alegreya Sans Extra Bold Italic (Sans-Serif, Latin) : alegreya-sans-latin-800italic
+Alegreya Sans SC Extra Bold Italic (Sans-Serif, Latin) : alegreya-sans-sc-latin-800italic
+Alegreya SC Extra Bold Italic (Serif, Latin) : alegreya-sc-latin-800italic
+Barlow Extra Bold Italic (Sans-Serif, Latin) : barlow-latin-800italic
+Barlow Condensed Extra Bold Italic (Sans-Serif, Latin) : barlow-condensed-latin-800italic
+Barlow Condensed Extra Bold Italic (Serif, Latin) : barlow-condensed-latin-800italic
+Barlow Semi Condensed Extra Bold Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-800italic
+EB Garamond Extra Bold Italic (Serif, Latin) : eb-garamond-latin-800italic
+Exo Extra Bold Italic (Sans-Serif, Latin) : exo-latin-800italic
+Exo 2 Extra Bold Italic (Sans-Serif, Latin) : exo-2-latin-800italic
+Fira Sans Extra Bold Italic (Sans-Serif, Latin) : fira-sans-latin-800italic
+Fira Sans Condensed Extra Bold Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-800italic
+Fira Sans Extra Condensed Extra Bold Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-800italic
+K2D Extra Bold Italic (Sans-Serif, Latin) : k2d-latin-800italic
+Kanit Extra Bold Italic (Sans-Serif, Latin) : kanit-latin-800italic
+Kanit Extra Bold Italic (Sans-Serif, Thai) : kanit-thai-800italic
+Kanit Extra Bold Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-800italic
+Kanit Extra Bold Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-800italic
+Libre Franklin Extra Bold Italic (Sans-Serif, Latin) : libre-franklin-latin-800italic
+Merriweather Sans Extra Bold Italic (Sans-Serif, Latin) : merriweather-sans-latin-800italic
+Montserrat Extra Bold Italic (Sans-Serif, Latin) : montserrat-latin-800italic
+Montserrat Alternates Extra Bold Italic (Sans-Serif, Latin) : montserrat-alternates-latin-800italic
+Muli Extra Bold Italic (Sans-Serif, Latin) : muli-latin-800italic
+Nunito Extra Bold Italic (Sans-Serif, Latin) : nunito-latin-800italic
+Nunito Sans Extra Bold Italic (Sans-Serif, Latin) : nunito-sans-latin-800italic
+Open Sans Extra Bold Italic (Sans-Serif, Latin) : open-sans-latin-800italic
+Open Sans Extra Bold Italic (Sans-Serif, Greek Ext) : open-sans-greek-ext-800italic
+Open Sans Extra Bold Italic (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-800italic
+Open Sans Extra Bold Italic (Sans-Serif, Latin Ext) : open-sans-latin-ext-800italic
+Open Sans Extra Bold Italic (Sans-Serif, Vietnamese) : open-sans-vietamese-800italic
+Overpass Extra Bold Italic (Sans-Serif, Latin) : overpass-latin-800italic
+Poppins Extra Bold Italic (Sans-Serif, Latin) : poppins-latin-800italic
+Prompt Extra Bold Italic (Sans-Serif, Latin) : prompt-latin-800italic
+Proza Libre Extra Bold Italic (Sans-Serif, Latin) : proza-libre-latin-800italic
+Raleway Extra Bold Italic (Sans-Serif, Latin) : raleway-latin-800italic
+Sansita Extra Bold Italic (Sans-Serif, Latin) : sansita-latin-800italic
+Spectral Extra Bold Italic (Serif, Latin) : spectral-latin-800italic
+Spectral SC Extra Bold Italic (Serif, Latin) : spectral-sc-latin-800italic
+Trirong Extra Bold Italic (Serif, Latin) : trirong-latin-800italic
+Arima Madurai Black (Display, Latin) : arima-madurai-latin-900
+Biryani Black (Sans-Serif, Latin) : biryani-latin-900
+Cairo Black (Sans-Serif, Latin) : cairo-latin-900
+Chivo Black (Sans-Serif, Latin) : chivo-latin-900
+Cinzel Black (Serif, Latin) : cinzel-latin-900
+Cinzel Decorative Black (Display, Latin) : cinzel-decorative-latin-900
+Coustard Black (Serif, Latin) : coustard-latin-900
+Elsie Black (Display, Latin) : elsie-latin-900
+Elsie Swash Caps Black (Display, Latin) : elsie-swash-caps-latin-900
+Frank Ruhl Libre Black (Serif, Latin) : frank-ruhl-libre-latin-900
+Heebo Black (Sans-Serif, Latin) : heebo-latin-900
+Inknut Antiqua Black (Serif, Latin) : inknut-antiqua-latin-900
+Londrina Solid Black (Display, Latin) : londrina-solid-latin-900
+M PLUS Rounded 1c Black (Sans-Serif, Latin) : m-plus-rounded-1c-latin-900
+Mada Black (Sans-Serif, Latin) : mada-latin-900
+Martel Black (Serif, Latin) : martel-latin-900
+Martel Black (Serif, Latin) : martel-latin-900
+Martel Sans Black (Sans-Serif, Latin) : martel-sans-latin-900
+Maven Pro Black (Sans-Serif, Latin) : maven-pro-latin-900
+Merriweather Black (Serif, Latin) : merriweather-latin-900
+Noto Sans JP Black (Sans-Serif, Japanese) : noto-sans-jp-japanese_latin-900
+Noto Sans KR Black (Sans-Serif, Korean) : noto-sans-kr-latin_korean-900
+Noto Serif JP Black (Sans-Serif, Japanese) : noto-serif-jp-japanese_latin-900
+Noto Serif KR Black (Sans-Serif, Korean) : noto-serif-kr-latin_korean-900
+Orbitron Black (Sans-Serif, Latin) : orbitron-latin-900
+Overlock Black (Display, Latin) : overlock-latin-900
+Passion One Black (Display, Latin) : passion-one-latin-900
+Playfair Display Black (Serif, Latin) : playfair-display-latin-900
+Playfair Display SC Black (Serif, Latin) : playfair-display-sc-latin-900
+Ruda Black (Sans-Serif, Latin) : ruda-latin-900
+Sansita Black (Sans-Serif, Latin) : sansita-latin-900
+Sarpanch Black (Sans-Serif, Latin) : sarpanch-latin-900
+Simonetta Black (Display, Latin) : simonetta-latin-900
+Source Code Pro Black (Monospace, Latin) : source-code-pro-latin-900
+Tajawal Black (Sans-Serif, Arabic Latin) : tajawal-arabic_latin-900
+Tajawal Black (Sans-Serif, Latin) : tajawal-latin-900
+Tienne Black (Serif, Latin) : tienne-latin-900
+Vesper Libre Black (Serif, Latin) : vesper-libre-latin-900
+Vollkorn Black (Serif, Latin) : vollkorn-latin-900
+Vollkorn SC Black (Serif, Latin) : vollkorn-sc-latin-900
+Yantramanav Black (Sans-Serif, Latin) : yantramanav-latin-900
+Alegreya Black Italic (Serif, Latin) : alegreya-latin-900italic
+Alegreya Sans Black Italic (Sans-Serif, Latin) : alegreya-sans-latin-900italic
+Alegreya Sans SC Black Italic (Sans-Serif, Latin) : alegreya-sans-sc-latin-900italic
+Alegreya SC Black Italic (Serif, Latin) : alegreya-sc-latin-900italic
+Barlow Black Italic (Sans-Serif, Latin) : barlow-latin-900italic
+Barlow Condensed Black Italic (Sans-Serif, Latin) : barlow-condensed-latin-900italic
+Barlow Condensed Black Italic (Serif, Latin) : barlow-condensed-latin-900italic
+Barlow Semi Condensed Black Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-900italic
+Chivo Black Italic (Sans-Serif, Latin) : chivo-latin-900italic
+Exo Black Italic (Sans-Serif, Latin) : exo-latin-900italic
+Exo 2 Black Italic (Sans-Serif, Latin) : exo-2-latin-900italic
+Fira Sans Black Italic (Sans-Serif, Latin) : fira-sans-latin-900italic
+Fira Sans Condensed Black Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-900italic
+Fira Sans Extra Condensed Black Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-900italic
+Kanit Black Italic (Sans-Serif, Latin) : kanit-latin-900italic
+Kanit Black Italic (Sans-Serif, Thai) : kanit-thai-900italic
+Kanit Black Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-900italic
+Kanit Black Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-900italic
+Lato Black Italic (Sans-Serif, Latin) : lato-latin-900italic
+Libre Franklin Black Italic (Sans-Serif, Latin) : libre-franklin-latin-900italic
+Merriweather Black Italic (Serif, Latin) : merriweather-latin-900italic
+Montserrat Black Italic (Sans-Serif, Latin) : montserrat-latin-900italic
+Montserrat Alternates Black Italic (Sans-Serif, Latin) : montserrat-alternates-latin-900italic
+Muli Black Italic (Sans-Serif, Latin) : muli-latin-900italic
+Nunito Black Italic (Sans-Serif, Latin) : nunito-latin-900italic
+Nunito Sans Black Italic (Sans-Serif, Latin) : nunito-sans-latin-900italic
+Overlock Black Italic (Display, Latin) : overlock-latin-900italic
+Overpass Black Italic (Sans-Serif, Latin) : overpass-latin-900italic
+Playfair Display Black Italic (Serif, Latin) : playfair-display-latin-900italic
+Playfair Display SC Black Italic (Serif, Latin) : playfair-display-sc-latin-900italic
+Poppins Black Italic (Sans-Serif, Latin) : poppins-latin-900italic
+Prompt Black Italic (Sans-Serif, Latin) : prompt-latin-900italic
+Raleway Black Italic (Sans-Serif, Latin) : raleway-latin-900italic
+Roboto Black Italic (Sans-Serif, Latin) : roboto-latin-900italic
+Roboto Black Italic (Sans-Serif, Vietnamese) : roboto-vietnamese-900italic
+Roboto Black Italic (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-900italic
+Roboto Black Italic (Sans-Serif, Latin Ext) : roboto-latin-ext-900italic
+Roboto Black Italic (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-900italic
+Rubik Black Italic (Sans-Serif, Latin) : rubik-latin-900italic
+Sansita Black Italic (Sans-Serif, Latin) : sansita-latin-900italic
+Simonetta Black Italic (Display, Latin) : simonetta-latin-900italic
+Source Sans Pro Black Italic (Sans-Serif, Latin) : source-sans-pro-latin-900italic
+Trirong Black Italic (Serif, Latin) : trirong-latin-900italic
+Vollkorn Black Italic (Serif, Latin) : vollkorn-latin-900italic
+ABeeZee Italic (Sans-Serif, Latin) : abeezee-latin-italic
+Alegreya Italic (Serif, Latin) : alegreya-latin-italic
+Alegreya Sans Italic (Sans-Serif, Latin) : alegreya-sans-latin-italic
+Alegreya Sans SC Italic (Sans-Serif, Latin) : alegreya-sans-sc-latin-italic
+Alegreya SC Italic (Serif, Latin) : alegreya-sc-latin-italic
+Almendra Italic (Serif, Latin) : almendra-latin-italic
+Amaranth Italic (Sans-Serif, Latin) : amaranth-latin-italic
+Amiri Italic (Serif, Latin) : amiri-latin-italic
+Amiri Italic (Serif, Arabic) : amiri-arabic-italic
+Amiri Italic (Serif, Arabic Latin) : amiri-arabic_latin-italic
+Amiri Italic (Serif, Latin Ext Arabic) : amiri-latin-ext_arabic_latin-italic
+Anonymous Pro Italic (Monospace, Latin) : anonymous-pro-latin-italic
+Arapey Italic (Serif, Latin) : arapey-latin-italic
+Archivo Italic (Sans-Serif, Latin) : archivo-latin-italic
+Archivo Narrow Italic (Sans-Serif, Latin) : archivo-narrow-latin-italic
+Arimo Italic (Sans-Serif, Hebrew Latin Greek Cyrillic Vietnamese) : arimo-greek_latin_hebrew_cyrillic_vietnamese-italic
+Arimo Italic (Sans-Serif, Hebrew Latin) : arimo-latin_hebrew-italic
+Arimo Italic (Sans-Serif, Latin) : arimo-latin-italic
+Arsenal Italic (Sans-Serif, Latin) : arsenal-latin-italic
+Arvo Italic (Serif, Latin) : arvo-latin-italic
+Asap Italic (Sans-Serif, Latin) : asap-latin-italic
+Asap Condensed Italic (Sans-Serif, Latin) : asap-condensed-latin-italic
+Averia Libre Italic (Display, Latin) : averia-libre-latin-italic
+Averia Sans Libre Italic (Display, Latin) : averia-sans-libre-latin-italic
+Averia Serif Libre Italic (Display, Latin) : averia-serif-libre-latin-italic
+Bai Jamjuree Italic (Sans-Serif, Latin) : bai-jamjuree-latin-italic
+Barlow Italic (Sans-Serif, Latin) : barlow-latin-italic
+Barlow Condensed Italic (Sans-Serif, Latin) : barlow-condensed-latin-italic
+Barlow Condensed Italic (Serif, Latin) : barlow-condensed-latin-italic
+Barlow Semi Condensed Italic (Sans-Serif, Latin) : barlow-semi-condensed-latin-italic
+Bitter Italic (Serif, Latin) : bitter-latin-italic
+Cabin Italic (Sans-Serif, Latin) : cabin-latin-italic
+Cambay Italic (Sans-Serif, Latin) : cambay-latin-italic
+Cantarell Italic (Sans-Serif, Latin) : cantarell-latin-italic
+Cardo Italic (Serif, Latin) : cardo-latin-italic
+Caudex Italic (Serif, Latin) : caudex-latin-italic
+Chakra Petch Italic (Sans-Serif, Latin) : chakra-petch-latin-italic
+Changa One Italic (Display, Latin) : changa-one-latin-italic
+Chau Philomene One Italic (Sans-Serif, Latin) : chau-philomene-one-latin-italic
+Chivo Italic (Sans-Serif, Latin) : chivo-latin-italic
+Cormorant Italic (Serif, Latin) : cormorant-latin-italic
+Cormorant Garamond Italic (Serif, Latin) : cormorant-garamond-latin-italic
+Cormorant Infant Italic (Serif, Latin) : cormorant-infant-latin-italic
+Cousine Italic (Monospace, Latin) : cousine-latin-italic
+Crete Round Italic (Serif, Latin) : crete-round-latin-italic
+Crimson Text Italic (Serif, Latin) : crimson-text-latin-italic
+Cuprum Italic (Sans-Serif, Latin) : cuprum-latin-italic
+EB Garamond Italic (Serif, Latin) : eb-garamond-latin-italic
+Economica Italic (Sans-Serif, Latin) : economica-latin-italic
+Exo Italic (Sans-Serif, Latin) : exo-latin-italic
+Exo 2 Italic (Sans-Serif, Latin) : exo-2-latin-italic
+Expletus Sans Italic (Display, Latin) : expletus-sans-latin-italic
+Fahkwang Italic (Sans-Serif, Latin) : fahkwang-latin-italic
+Fanwood Text Italic (Serif, Latin) : fanwood-text-latin-italic
+Faustina Italic (Serif, Latin) : faustina-latin-italic
+Fira Sans Italic (Sans-Serif, Latin) : fira-sans-latin-italic
+Fira Sans Condensed Italic (Sans-Serif, Latin) : fira-sans-condensed-latin-italic
+Fira Sans Extra Condensed Italic (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-italic
+Fondamento Italic (Handwriting, Latin) : fondamento-latin-italic
+Gentium Basic Italic (Serif, Latin) : gentium-basic-latin-italic
+Gentium Book Basic Italic (Serif, Latin) : gentium-book-basic-latin-italic
+Geo Italic (Sans-Serif, Latin) : geo-latin-italic
+GFS Neohellenic Italic (Sans-Serif, Greek) : gfs-neohellenic-greek-italic
+Gudea Italic (Sans-Serif, Latin) : gudea-latin-italic
+IBM Plex Mono Italic (Monospace, Latin) : ibm-plex-mono-latin-italic
+IBM Plex Sans Italic (Sans-Serif, Latin) : ibm-plex-sans-latin-italic
+IBM Plex Sans Condensed Italic (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-italic
+IBM Plex Serif Italic (Serif, Latin) : ibm-plex-serif-latin-italic
+IM Fell Double Pica Italic (Serif, Latin) : im-fell-double-pica-latin-italic
+IM Fell DW Pica Italic (Serif, Latin) : im-fell-dw-pica-latin-italic
+IM Fell English Italic (Serif, Latin) : im-fell-english-latin-italic
+IM Fell French Canon Italic (Serif, Latin) : im-fell-french-canon-latin-italic
+IM Fell Great Primer Italic (Serif, Latin) : im-fell-great-primer-latin-italic
+Istok Web Italic (Sans-Serif, Latin) : istok-web-latin-italic
+Josefin Sans Italic (Sans-Serif, Latin) : josefin-sans-latin-italic
+Josefin Slab Italic (Serif, Latin) : josefin-slab-latin-italic
+Judson Italic (Serif, Latin) : judson-latin-italic
+K2D Italic (Sans-Serif, Latin) : k2d-latin-italic
+Kanit Italic (Sans-Serif, Latin) : kanit-latin-italic
+Kanit Italic (Sans-Serif, Thai) : kanit-thai-italic
+Kanit Italic (Sans-Serif, Thai Latin) : kanit-thai_latin-italic
+Kanit Italic (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-italic
+Karla Italic (Sans-Serif, Latin) : karla-latin-italic
+Kodchasan Italic (Sans-Serif, Latin) : kodchasan-latin-italic
+KoHo Italic (Sans-Serif, Latin) : koho-latin-italic
+Krub Italic (Sans-Serif, Latin) : krub-latin-italic
+Lato Italic (Sans-Serif, Latin) : lato-latin-italic
+Lekton Italic (Sans-Serif, Latin) : lekton-latin-italic
+Libre Baskerville Italic (Serif, Latin) : libre-baskerville-latin-italic
+Libre Franklin Italic (Sans-Serif, Latin) : libre-franklin-latin-italic
+Linden Hill Italic (Serif, Latin) : linden-hill-latin-italic
+Lobster Two Italic (Display, Latin) : lobster-two-latin-italic
+Lora Italic (Serif, Latin) : lora-latin-italic
+Mali Italic (Handwriting, Latin) : mali-latin-italic
+Manuale Italic (Serif, Latin) : manuale-latin-italic
+Marvel Italic (Sans-Serif, Latin) : marvel-latin-italic
+Mate Italic (Serif, Latin) : mate-latin-italic
+Merriweather Italic (Serif, Latin) : merriweather-latin-italic
+Merriweather Sans Italic (Sans-Serif, Latin) : merriweather-sans-latin-italic
+Molle Italic (Handwriting, Latin) : molle-latin-italic
+Montserrat Italic (Sans-Serif, Latin) : montserrat-latin-italic
+Montserrat Alternates Italic (Sans-Serif, Latin) : montserrat-alternates-latin-italic
+Muli Italic (Sans-Serif, Latin) : muli-latin-italic
+Neuton Italic (Serif, Latin) : neuton-latin-italic
+Niramit Italic (Sans-Serif, Latin) : niramit-latin-italic
+Nobile Italic (Sans-Serif, Latin) : nobile-latin-italic
+Noticia Text Italic (Serif, Latin) : noticia-text-latin-italic
+Noto Sans Italic (Sans-Serif, Cyrillic) : noto-sans-cyrillic-ext_cyrillic-italic
+Noto Sans Italic (Sans-Serif, Devanagari) : noto-sans-devanagari-italic
+Noto Sans Italic (Sans-Serif, Greek) : noto-sans-greek_greek-ext-italic
+Noto Sans Italic (Sans-Serif, Latin) : noto-sans-latin-italic
+Noto Sans Italic (Sans-Serif, Vietnamese) : noto-sans-latin_latin-ext_vietnamese-italic
+Noto Serif Italic (Serif, Latin) : noto-serif-latin-italic
+Nunito Italic (Sans-Serif, Latin) : nunito-latin-italic
+Nunito Sans Italic (Sans-Serif, Latin) : nunito-sans-latin-italic
+Old Standard TT Italic (Serif, Latin) : old-standard-tt-latin-italic
+Open Sans Italic (Sans-Serif, Latin) : open-sans-latin-italic
+Open Sans Italic (Sans-Serif, Greek Ext) : open-sans-greek-ext-italic
+Open Sans Italic (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-italic
+Open Sans Italic (Sans-Serif, Latin Ext) : open-sans-latin-ext-italic
+Open Sans Italic (Sans-Serif, Vietnamese) : open-sans-vietamese-italic
+Oregano Italic (Display, Latin) : oregano-latin-italic
+Overlock Italic (Display, Latin) : overlock-latin-italic
+Overpass Italic (Sans-Serif, Latin) : overpass-latin-italic
+Philosopher Italic (Sans-Serif, Latin) : philosopher-latin-italic
+Playfair Display Italic (Serif, Latin) : playfair-display-latin-italic
+Playfair Display SC Italic (Serif, Latin) : playfair-display-sc-latin-italic
+Poly Italic (Serif, Latin) : poly-latin-italic
+Poppins Italic (Sans-Serif, Latin) : poppins-latin-italic
+Prompt Italic (Sans-Serif, Latin) : prompt-latin-italic
+Proza Libre Italic (Sans-Serif, Latin) : proza-libre-latin-italic
+PT Sans Italic (Sans-Serif, Latin) : pt-sans-latin-italic
+PT Serif Italic (Serif, Latin) : pt-serif-latin-italic
+PT Serif Caption Italic (Serif, Latin) : pt-serif-caption-latin-italic
+Puritan Italic (Sans-Serif, Latin) : puritan-latin-italic
+Quantico Italic (Sans-Serif, Latin) : quantico-latin-italic
+Quattrocento Sans Italic (Sans-Serif, Latin) : quattrocento-sans-latin-italic
+Radley Italic (Serif, Latin) : radley-latin-italic
+Raleway Italic (Sans-Serif, Latin) : raleway-latin-italic
+Rambla Italic (Sans-Serif, Latin) : rambla-latin-italic
+Roboto Italic (Sans-Serif, Latin) : roboto-latin-italic
+Roboto Italic (Sans-Serif, Vietnamese) : roboto-vietnamese-italic
+Roboto Italic (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-italic
+Roboto Italic (Sans-Serif, Latin Ext) : roboto-latin-ext-italic
+Roboto Italic (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-italic
+Roboto Condensed Italic (Sans-Serif, Latin) : roboto-condensed-latin-italic
+Roboto Mono Italic (Monospace, Latin) : roboto-mono-latin-italic
+Ropa Sans Italic (Sans-Serif, Latin) : ropa-sans-latin-italic
+Rosario Italic (Sans-Serif, Latin) : rosario-latin-italic
+Rosarivo Italic (Serif, Latin) : rosarivo-latin-italic
+Rubik Italic (Sans-Serif, Latin) : rubik-latin-italic
+Sanchez Italic (Serif, Latin) : sanchez-latin-italic
+Sansita Italic (Sans-Serif, Latin) : sansita-latin-italic
+Scada Italic (Sans-Serif, Latin) : scada-latin-italic
+Share Italic (Display, Latin) : share-latin-italic
+Simonetta Italic (Display, Latin) : simonetta-latin-italic
+Sorts Mill Goudy Italic (Serif, Latin) : sorts-mill-goudy-latin-italic
+Source Sans Pro Italic (Sans-Serif, Latin) : source-sans-pro-latin-italic
+Space Mono Italic (Monospace, Latin) : space-mono-latin-italic
+Spectral Italic (Serif, Latin) : spectral-latin-italic
+Spectral SC Italic (Serif, Latin) : spectral-sc-latin-italic
+Tinos Italic (Serif, Hebrew Latin Cyrillic Vietnamese) : tinos-latin_hebrew_cyrillic_vietnamese-italic
+Tinos Italic (Serif, Hebrew Latin) : tinos-latin_hebrew-italic
+Tinos Italic (Serif, Latin) : tinos-latin-italic
+Titillium Web Italic (Sans-Serif, Latin) : titillium-web-latin-italic
+Trirong Italic (Serif, Latin) : trirong-latin-italic
+Trochut Italic (Display, Latin) : trochut-latin-italic
+Ubuntu Italic (Sans-Serif, Latin) : ubuntu-latin-italic
+Ubuntu Mono Italic (Monospace, Latin) : ubuntu-mono-latin-italic
+Unna Italic (Serif, Latin) : unna-latin-italic
+Volkhov Italic (Serif, Latin) : volkhov-latin-italic
+Vollkorn Italic (Serif, Latin) : vollkorn-latin-italic
+Zilla Slab Italic (Serif, Latin) : zilla-slab-latin-italic
+ABeeZee Regular (Sans-Serif, Latin) : abeezee-latin-regular
+Abel Regular (Sans-Serif, Latin) : abel-latin-regular
+Abhaya Libre Regular (Serif, Sinhala Latin Ext) : abhaya-libre-latin-ext_sinhala_latin-regular
+Abhaya Libre Regular (Serif, Latin) : abhaya-libre-latin-regular
+Abril Fatface Regular (Display, Latin) : abril-fatface-latin-regular
+Aclonica Regular (Sans-Serif, Latin) : aclonica-latin-regular
+Acme Regular (Sans-Serif, Latin) : acme-latin-regular
+Actor Regular (Sans-Serif, Latin) : actor-latin-regular
+Adamina Regular (Serif, Latin) : adamina-latin-regular
+Advent Pro Regular (Sans-Serif, Latin) : advent-pro-latin-regular
+Aguafina Script Regular (Handwriting, Latin) : aguafina-script-latin-regular
+Akronim Regular (Display, Latin) : akronim-latin-regular
+Aladin Regular (Handwriting, Latin) : aladin-latin-regular
+Aldrich Regular (Sans-Serif, Latin) : aldrich-latin-regular
+Alef Regular (Sans-Serif, Hebrew Latin) : alef-latin_hebrew-regular
+Alef Regular (Sans-Serif, Latin) : alef-latin-regular
+Alegreya Regular (Serif, Latin) : alegreya-latin-regular
+Alegreya Sans Regular (Sans-Serif, Latin) : alegreya-sans-latin-regular
+Alegreya Sans SC Regular (Sans-Serif, Latin) : alegreya-sans-sc-latin-regular
+Alegreya SC Regular (Serif, Latin) : alegreya-sc-latin-regular
+Alex Brush Regular (Handwriting, Latin) : alex-brush-latin-regular
+Alfa Slab One Regular (Display, Latin) : alfa-slab-one-latin-regular
+Alice Regular (Serif, Latin) : alice-latin-regular
+Alike Regular (Serif, Latin) : alike-latin-regular
+Alike Angular Regular (Serif, Latin) : alike-angular-latin-regular
+Allan Regular (Display, Latin) : allan-latin-regular
+Allerta Regular (Sans-Serif, Latin) : allerta-latin-regular
+Allerta Stencil Regular (Sans-Serif, Latin) : allerta-stencil-latin-regular
+Allura Regular (Handwriting, Latin) : allura-latin-regular
+Almendra Regular (Serif, Latin) : almendra-latin-regular
+Almendra Display Regular (Display, Latin) : almendra-display-latin-regular
+Almendra SC Regular (Serif, Latin) : almendra-sc-latin-regular
+Amarante Regular (Display, Latin) : amarante-latin-regular
+Amaranth Regular (Sans-Serif, Latin) : amaranth-latin-regular
+Amatic SC Regular (Handwriting, Latin) : amatic-sc-latin-regular
+Amethysta Regular (Serif, Latin) : amethysta-latin-regular
+Amiko Regular (Sans-Serif, Latin) : amiko-latin-regular
+Amiri Regular (Serif, Latin) : amiri-latin-regular
+Amiri Regular (Serif, Arabic) : amiri-arabic-regular
+Amiri Regular (Serif, Arabic Latin) : amiri-arabic_latin-regular
+Amiri Regular (Serif, Latin Ext Arabic) : amiri-latin-ext_arabic_latin-regular
+Amita Regular (Handwriting, Latin) : amita-latin-regular
+Anaheim Regular (Sans-Serif, Latin) : anaheim-latin-regular
+Andada Regular (Serif, Latin) : andada-latin-regular
+Andika Regular (Sans-Serif, Latin) : andika-latin-regular
+Angkor Regular (Display, Khmer) : angkor-khmer-regular
+Annie Use Your Telescope Regular (Handwriting, Latin) : annie-use-your-telescope-latin-regular
+Anonymous Pro Regular (Monospace, Latin) : anonymous-pro-latin-regular
+Antic Regular (Sans-Serif, Latin) : antic-latin-regular
+Antic Didone Regular (Serif, Latin) : antic-didone-latin-regular
+Antic Slab Regular (Serif, Latin) : antic-slab-latin-regular
+Anton Regular (Sans-Serif, Latin) : anton-latin-regular
+Arapey Regular (Serif, Latin) : arapey-latin-regular
+Arbutus Regular (Display, Latin) : arbutus-latin-regular
+Arbutus Slab Regular (Serif, Latin) : arbutus-slab-latin-regular
+Architects Daughter Regular (Handwriting, Latin) : architects-daughter-latin-regular
+Archivo Regular (Sans-Serif, Latin) : archivo-latin-regular
+Archivo Black Regular (Sans-Serif, Latin) : archivo-black-latin-regular
+Archivo Narrow Regular (Sans-Serif, Latin) : archivo-narrow-latin-regular
+Aref Ruqaa Regular (Serif, Latin) : aref-ruqaa-latin-regular
+Arima Madurai Regular (Display, Latin) : arima-madurai-latin-regular
+Arimo Regular (Sans-Serif, Hebrew Latin Greek Cyrillic Vietnamese) : arimo-greek_latin_hebrew_cyrillic_vietnamese-regular
+Arimo Regular (Sans-Serif, Hebrew Latin) : arimo-latin_hebrew-regular
+Arimo Regular (Sans-Serif, Latin) : arimo-latin-regular
+Arizonia Regular (Handwriting, Latin) : arizonia-latin-regular
+Armata Regular (Sans-Serif, Latin) : armata-latin-regular
+Arsenal Regular (Sans-Serif, Latin) : arsenal-latin-regular
+Artifika Regular (Serif, Latin) : artifika-latin-regular
+Arvo Regular (Serif, Latin) : arvo-latin-regular
+Arya Regular (Sans-Serif, Latin) : arya-latin-regular
+Asap Regular (Sans-Serif, Latin) : asap-latin-regular
+Asap Condensed Regular (Sans-Serif, Latin) : asap-condensed-latin-regular
+Asar Regular (Serif, Latin) : asar-latin-regular
+Asset Regular (Display, Latin) : asset-latin-regular
+Assistant Regular (Sans-Serif, Latin) : assistant-latin-regular
+Astloch Regular (Display, Latin) : astloch-latin-regular
+Asul Regular (Sans-Serif, Latin) : asul-latin-regular
+Athiti Regular (Sans-Serif, Latin) : athiti-latin-regular
+Atma Regular (Display, Bengali Latin Ext) : atma-latin-ext_latin_bengali-regular
+Atma Regular (Display, Latin) : atma-latin-regular
+Atomic Age Regular (Display, Latin) : atomic-age-latin-regular
+Aubrey Regular (Display, Latin) : aubrey-latin-regular
+Audiowide Regular (Display, Latin) : audiowide-latin-regular
+Autour One Regular (Display, Latin) : autour-one-latin-regular
+Average Regular (Serif, Latin) : average-latin-regular
+Average Sans Regular (Sans-Serif, Latin) : average-sans-latin-regular
+Averia Gruesa Libre Regular (Display, Latin) : averia-gruesa-libre-latin-regular
+Averia Libre Regular (Display, Latin) : averia-libre-latin-regular
+Averia Sans Libre Regular (Display, Latin) : averia-sans-libre-latin-regular
+Averia Serif Libre Regular (Display, Latin) : averia-serif-libre-latin-regular
+Bad Script Regular (Handwriting, Latin) : bad-script-latin-regular
+Bahiana Regular (Display, Latin) : bahiana-latin-regular
+Bai Jamjuree Regular (Sans-Serif, Latin) : bai-jamjuree-latin-regular
+Baloo Regular (Display, Latin) : baloo-latin-regular
+Baloo Bhai Regular (Display, Latin) : baloo-bhai-latin-regular
+Baloo Bhaijaan Regular (Display, Latin) : baloo-bhaijaan-latin-regular
+Baloo Bhaina Regular (Display, Oriya Latin Vietnamese) : baloo-bhaina-oriya_latin-ext_latin_vietnamese-regular
+Baloo Chettan Regular (Display, Malayalam Latin Vietnamese) : baloo-chettan-latin-ext_latin_vietnamese_malayalam-regular
+Baloo Bhaina Regular (Display, Latin) : baloo-bhaina-latin-regular
+Baloo Chettan Regular (Display, Latin) : baloo-chettan-latin-regular
+Baloo Da Regular (Display, Latin) : baloo-da-latin-regular
+Baloo Paaji Regular (Display, Latin) : baloo-paaji-latin-regular
+Baloo Tamma Regular (Display, Kannada Latin Vietnamese) : baloo-tamma-kannada_latin-ext_latin_vietnamese-regular
+Baloo Tamma Regular (Display, Latin) : baloo-tamma-latin-regular
+Baloo Tammudu Regular (Display, Latin) : baloo-tammudu-latin-regular
+Baloo Thambi Regular (Display, Latin) : baloo-thambi-latin-regular
+Balthazar Regular (Serif, Latin) : balthazar-latin-regular
+Bangers Regular (Display, Latin) : bangers-latin-regular
+Barlow Regular (Sans-Serif, Latin) : barlow-latin-regular
+Barlow Condensed Regular (Sans-Serif, Latin) : barlow-condensed-latin-regular
+Barlow Condensed Regular (Serif, Latin) : barlow-condensed-latin-regular
+Barlow Semi Condensed Regular (Sans-Serif, Latin) : barlow-semi-condensed-latin-regular
+Barrio Regular (Display, Latin) : barrio-latin-regular
+Basic Regular (Sans-Serif, Latin) : basic-latin-regular
+Battambang Regular (Display, Khmer) : battambang-khmer-regular
+Baumans Regular (Display, Latin) : baumans-latin-regular
+Bayon Regular (Display, Khmer) : bayon-khmer-regular
+Belgrano Regular (Serif, Latin) : belgrano-latin-regular
+Bellefair Regular (Serif, Latin) : bellefair-latin-regular
+Belleza Regular (Sans-Serif, Latin) : belleza-latin-regular
+BenchNine Regular (Sans-Serif, Latin) : benchnine-latin-regular
+Bentham Regular (Serif, Latin) : bentham-latin-regular
+Berkshire Swash Regular (Handwriting, Latin) : berkshire-swash-latin-regular
+Bevan Regular (Display, Latin) : bevan-latin-regular
+Bigelow Rules Regular (Display, Latin) : bigelow-rules-latin-regular
+Bigshot One Regular (Display, Latin) : bigshot-one-latin-regular
+Bilbo Regular (Handwriting, Latin) : bilbo-latin-regular
+Bilbo Swash Caps Regular (Handwriting, Latin) : bilbo-swash-caps-latin-regular
+BioRhyme Regular (Serif, Latin) : biorhyme-latin-regular
+BioRhyme Expanded Regular (Serif, Latin) : biorhyme-expanded-latin-regular
+Biryani Regular (Sans-Serif, Latin) : biryani-latin-regular
+Bitter Regular (Serif, Latin) : bitter-latin-regular
+Black And White Picture Regular (Sans-Serif, Latin) : black-and-white-picture-latin-regular
+Black Han Sans Regular (Sans-Serif, Latin) : black-han-sans-latin-regular
+Black Ops One Regular (Display, Latin) : black-ops-one-latin-regular
+Bokor Regular (Display, Khmer) : bokor-khmer-regular
+Bonbon Regular (Handwriting, Latin) : bonbon-latin-regular
+Boogaloo Regular (Display, Latin) : boogaloo-latin-regular
+Bowlby One Regular (Display, Latin) : bowlby-one-latin-regular
+Bowlby One SC Regular (Display, Latin) : bowlby-one-sc-latin-regular
+Brawler Regular (Serif, Latin) : brawler-latin-regular
+Bree Serif Regular (Serif, Latin) : bree-serif-latin-regular
+Bubblegum Sans Regular (Display, Latin) : bubblegum-sans-latin-regular
+Bubbler One Regular (Sans-Serif, Latin) : bubbler-one-latin-regular
+Buenard Regular (Serif, Latin) : buenard-latin-regular
+Bungee Regular (Display, Latin) : bungee-latin-regular
+Bungee Hairline Regular (Display, Latin) : bungee-hairline-latin-regular
+Bungee Inline Regular (Display, Latin) : bungee-inline-latin-regular
+Bungee Outline Regular (Display, Latin) : bungee-outline-latin-regular
+Bungee Shade Regular (Display, Latin) : bungee-shade-latin-regular
+Butcherman Regular (Display, Latin) : butcherman-latin-regular
+Butterfly Kids Regular (Handwriting, Latin) : butterfly-kids-latin-regular
+Cabin Regular (Sans-Serif, Latin) : cabin-latin-regular
+Cabin Condensed Regular (Sans-Serif, Latin) : cabin-condensed-latin-regular
+Cabin Sketch Regular (Display, Latin) : cabin-sketch-latin-regular
+Caesar Dressing Regular (Display, Latin) : caesar-dressing-latin-regular
+Cagliostro Regular (Sans-Serif, Latin) : cagliostro-latin-regular
+Cairo Regular (Sans-Serif, Latin) : cairo-latin-regular
+Calligraffitti Regular (Handwriting, Latin) : calligraffitti-latin-regular
+Cambay Regular (Sans-Serif, Latin) : cambay-latin-regular
+Cambo Regular (Serif, Latin) : cambo-latin-regular
+Candal Regular (Sans-Serif, Latin) : candal-latin-regular
+Cantarell Regular (Sans-Serif, Latin) : cantarell-latin-regular
+Cantata One Regular (Serif, Latin) : cantata-one-latin-regular
+Cantora One Regular (Sans-Serif, Latin) : cantora-one-latin-regular
+Capriola Regular (Sans-Serif, Latin) : capriola-latin-regular
+Cardo Regular (Serif, Latin) : cardo-latin-regular
+Carme Regular (Sans-Serif, Latin) : carme-latin-regular
+Carrois Gothic Regular (Sans-Serif, Latin) : carrois-gothic-latin-regular
+Carrois Gothic SC Regular (Sans-Serif, Latin) : carrois-gothic-sc-latin-regular
+Carter One Regular (Display, Latin) : carter-one-latin-regular
+Catamaran Regular (Sans-Serif, Latin) : catamaran-latin-regular
+Caudex Regular (Serif, Latin) : caudex-latin-regular
+Caveat Regular (Handwriting, Latin) : caveat-latin-regular
+Caveat Brush Regular (Handwriting, Latin) : caveat-brush-latin-regular
+Cedarville Cursive Regular (Handwriting, Latin) : cedarville-cursive-latin-regular
+Ceviche One Regular (Display, Latin) : ceviche-one-latin-regular
+Chakra Petch Regular (Sans-Serif, Latin) : chakra-petch-latin-regular
+Changa Regular (Sans-Serif, Latin) : changa-latin-regular
+Changa One Regular (Display, Latin) : changa-one-latin-regular
+Chango Regular (Display, Latin) : chango-latin-regular
+Charmonman Regular (Handwriting, Latin) : charmonman-latin-regular
+Chathura Regular (Sans-Serif, Latin) : chathura-latin-regular
+Chau Philomene One Regular (Sans-Serif, Latin) : chau-philomene-one-latin-regular
+Chela One Regular (Display, Latin) : chela-one-latin-regular
+Chelsea Market Regular (Display, Latin) : chelsea-market-latin-regular
+Chenla Regular (Display, Khmer) : chenla-khmer-regular
+Cherry Cream Soda Regular (Display, Latin) : cherry-cream-soda-latin-regular
+Cherry Swash Regular (Display, Latin) : cherry-swash-latin-regular
+Chewy Regular (Display, Latin) : chewy-latin-regular
+Chicle Regular (Display, Latin) : chicle-latin-regular
+Chivo Regular (Sans-Serif, Latin) : chivo-latin-regular
+Chonburi Regular (Display, Latin) : chonburi-latin-regular
+Cinzel Regular (Serif, Latin) : cinzel-latin-regular
+Cinzel Decorative Regular (Display, Latin) : cinzel-decorative-latin-regular
+Clicker Script Regular (Handwriting, Latin) : clicker-script-latin-regular
+Coda Regular (Display, Latin) : coda-latin-regular
+Codystar Regular (Display, Latin) : codystar-latin-regular
+Coiny Regular (Display, Latin) : coiny-latin-regular
+Combo Regular (Display, Latin) : combo-latin-regular
+Comfortaa Regular (Display, Latin) : comfortaa-latin-regular
+Coming Soon Regular (Handwriting, Latin) : coming-soon-latin-regular
+Concert One Regular (Display, Latin) : concert-one-latin-regular
+Condiment Regular (Handwriting, Latin) : condiment-latin-regular
+Content Regular (Display, Khmer) : content-khmer-regular
+Contrail One Regular (Display, Latin) : contrail-one-latin-regular
+Convergence Regular (Sans-Serif, Latin) : convergence-latin-regular
+Cookie Regular (Handwriting, Latin) : cookie-latin-regular
+Copse Regular (Serif, Latin) : copse-latin-regular
+Corben Regular (Display, Latin) : corben-latin-regular
+Cormorant Regular (Serif, Latin) : cormorant-latin-regular
+Cormorant Garamond Regular (Serif, Latin) : cormorant-garamond-latin-regular
+Cormorant Infant Regular (Serif, Latin) : cormorant-infant-latin-regular
+Cormorant SC Regular (Serif, Latin) : cormorant-sc-latin-regular
+Cormorant Unicase Regular (Serif, Latin) : cormorant-unicase-latin-regular
+Cormorant Upright Regular (Serif, Latin) : cormorant-upright-latin-regular
+Courgette Regular (Handwriting, Latin) : courgette-latin-regular
+Cousine Regular (Monospace, Latin) : cousine-latin-regular
+Coustard Regular (Serif, Latin) : coustard-latin-regular
+Covered By Your Grace Regular (Handwriting, Latin) : covered-by-your-grace-latin-regular
+Crafty Girls Regular (Handwriting, Latin) : crafty-girls-latin-regular
+Creepster Regular (Display, Latin) : creepster-latin-regular
+Crete Round Regular (Serif, Latin) : crete-round-latin-regular
+Crimson Text Regular (Serif, Latin) : crimson-text-latin-regular
+Croissant One Regular (Display, Latin) : croissant-one-latin-regular
+Crushed Regular (Display, Latin) : crushed-latin-regular
+Cuprum Regular (Sans-Serif, Latin) : cuprum-latin-regular
+Cute Font Regular (Display, Latin) : cute-font-latin-regular
+Cutive Regular (Serif, Latin) : cutive-latin-regular
+Cutive Mono Regular (Monospace, Latin) : cutive-mono-latin-regular
+Damion Regular (Handwriting, Latin) : damion-latin-regular
+Dancing Script Regular (Handwriting, Latin) : dancing-script-latin-regular
+Dangrek Regular (Display, Khmer) : dangrek-khmer-regular
+David Libre Regular (Serif, Latin) : david-libre-latin-regular
+Dawning of a New Day Regular (Handwriting, Latin) : dawning-of-a-new-day-latin-regular
+Days One Regular (Sans-Serif, Latin) : days-one-latin-regular
+Dekko Regular (Handwriting, Latin) : dekko-latin-regular
+Delius Regular (Handwriting, Latin) : delius-latin-regular
+Delius Swash Caps Regular (Handwriting, Latin) : delius-swash-caps-latin-regular
+Delius Unicase Regular (Handwriting, Latin) : delius-unicase-latin-regular
+Della Respira Regular (Serif, Latin) : della-respira-latin-regular
+Denk One Regular (Sans-Serif, Latin) : denk-one-latin-regular
+Devonshire Regular (Handwriting, Latin) : devonshire-latin-regular
+Dhurjati Regular (Sans-Serif, Latin) : dhurjati-latin-regular
+Didact Gothic Regular (Sans-Serif, Latin) : didact-gothic-latin-regular
+Diplomata Regular (Display, Latin) : diplomata-latin-regular
+Diplomata SC Regular (Display, Latin) : diplomata-sc-latin-regular
+Do Hyeon Regular (Sans-Serif, Latin) : do-hyeon-latin-regular
+Dokdo Regular (Handwriting, Latin) : dokdo-latin-regular
+Domine Regular (Serif, Latin) : domine-latin-regular
+Donegal One Regular (Serif, Latin) : donegal-one-latin-regular
+Doppio One Regular (Sans-Serif, Latin) : doppio-one-latin-regular
+Dorsa Regular (Sans-Serif, Latin) : dorsa-latin-regular
+Dosis Regular (Sans-Serif, Latin) : dosis-latin-regular
+Dr Sugiyama Regular (Handwriting, Latin) : dr-sugiyama-latin-regular
+Duru Sans Regular (Sans-Serif, Latin) : duru-sans-latin-regular
+Dynalight Regular (Display, Latin) : dynalight-latin-regular
+Eagle Lake Regular (Handwriting, Latin) : eagle-lake-latin-regular
+East Sea Dokdo Regular (Handwriting, Latin) : east-sea-dokdo-latin-regular
+Eater Regular (Display, Latin) : eater-latin-regular
+EB Garamond Regular (Serif, Latin) : eb-garamond-latin-regular
+Economica Regular (Sans-Serif, Latin) : economica-latin-regular
+Eczar Regular (Serif, Latin) : eczar-latin-regular
+El Messiri Regular (Sans-Serif, Latin) : el-messiri-latin-regular
+Electrolize Regular (Sans-Serif, Latin) : electrolize-latin-regular
+Elsie Regular (Display, Latin) : elsie-latin-regular
+Elsie Swash Caps Regular (Display, Latin) : elsie-swash-caps-latin-regular
+Emblema One Regular (Display, Latin) : emblema-one-latin-regular
+Emilys Candy Regular (Display, Latin) : emilys-candy-latin-regular
+Encode Sans Regular (Sans-Serif, Latin) : encode-sans-latin-regular
+Encode Sans Condensed Regular (Sans-Serif, Latin) : encode-sans-condensed-latin-regular
+Encode Sans Expanded Regular (Sans-Serif, Latin) : encode-sans-expanded-latin-regular
+Encode Sans Semi Condensed Regular (Sans-Serif, Latin) : encode-sans-semi-condensed-latin-regular
+Encode Sans Semi Expanded Regular (Sans-Serif, Latin) : encode-sans-semi-expanded-latin-regular
+Engagement Regular (Handwriting, Latin) : engagement-latin-regular
+Englebert Regular (Sans-Serif, Latin) : englebert-latin-regular
+Enriqueta Regular (Serif, Latin) : enriqueta-latin-regular
+Erica One Regular (Display, Latin) : erica-one-latin-regular
+Esteban Regular (Serif, Latin) : esteban-latin-regular
+Euphoria Script Regular (Handwriting, Latin) : euphoria-script-latin-regular
+Ewert Regular (Display, Latin) : ewert-latin-regular
+Exo Regular (Sans-Serif, Latin) : exo-latin-regular
+Exo 2 Regular (Sans-Serif, Latin) : exo-2-latin-regular
+Expletus Sans Regular (Display, Latin) : expletus-sans-latin-regular
+Fahkwang Regular (Sans-Serif, Latin) : fahkwang-latin-regular
+Fanwood Text Regular (Serif, Latin) : fanwood-text-latin-regular
+Farsan Regular (Display, Latin) : farsan-latin-regular
+Fascinate Regular (Display, Latin) : fascinate-latin-regular
+Fascinate Inline Regular (Display, Latin) : fascinate-inline-latin-regular
+Faster One Regular (Display, Latin) : faster-one-latin-regular
+Fasthand Regular (Serif, Khmer) : fasthand-khmer-regular
+Fauna One Regular (Serif, Latin) : fauna-one-latin-regular
+Faustina Regular (Serif, Latin) : faustina-latin-regular
+Federant Regular (Display, Latin) : federant-latin-regular
+Federo Regular (Sans-Serif, Latin) : federo-latin-regular
+Felipa Regular (Handwriting, Latin) : felipa-latin-regular
+Fenix Regular (Serif, Latin) : fenix-latin-regular
+Finger Paint Regular (Display, Latin) : finger-paint-latin-regular
+Fira Mono Regular (Monospace, Latin) : fira-mono-latin-regular
+Fira Sans Regular (Sans-Serif, Latin) : fira-sans-latin-regular
+Fira Sans Condensed Regular (Sans-Serif, Latin) : fira-sans-condensed-latin-regular
+Fira Sans Extra Condensed Regular (Sans-Serif, Latin) : fira-sans-extra-condensed-latin-regular
+Fjalla One Regular (Sans-Serif, Latin) : fjalla-one-latin-regular
+Fjord One Regular (Serif, Latin) : fjord-one-latin-regular
+Flamenco Regular (Display, Latin) : flamenco-latin-regular
+Flavors Regular (Display, Latin) : flavors-latin-regular
+Fondamento Regular (Handwriting, Latin) : fondamento-latin-regular
+Fontdiner Swanky Regular (Display, Latin) : fontdiner-swanky-latin-regular
+Forum Regular (Display, Latin) : forum-latin-regular
+Francois One Regular (Sans-Serif, Latin) : francois-one-latin-regular
+Frank Ruhl Libre Regular (Serif, Latin) : frank-ruhl-libre-latin-regular
+Freckle Face Regular (Display, Latin) : freckle-face-latin-regular
+Fredericka the Great Regular (Display, Latin) : fredericka-the-great-latin-regular
+Fredoka One Regular (Display, Latin) : fredoka-one-latin-regular
+Freehand Regular (Display, Khmer) : freehand-khmer-regular
+Fresca Regular (Sans-Serif, Latin) : fresca-latin-regular
+Frijole Regular (Display, Latin) : frijole-latin-regular
+Fruktur Regular (Display, Latin) : fruktur-latin-regular
+Fugaz One Regular (Display, Latin) : fugaz-one-latin-regular
+Gabriela Regular (Serif, Latin) : gabriela-latin-regular
+Gaegu Regular (Handwriting, Latin) : gaegu-latin-regular
+Gafata Regular (Sans-Serif, Latin) : gafata-latin-regular
+Galada Regular (Display, Latin) : galada-latin-regular
+Galdeano Regular (Sans-Serif, Latin) : galdeano-latin-regular
+Galindo Regular (Display, Latin) : galindo-latin-regular
+Gamja Flower Regular (Handwriting, Latin) : gamja-flower-latin-regular
+Gentium Basic Regular (Serif, Latin) : gentium-basic-latin-regular
+Gentium Book Basic Regular (Serif, Latin) : gentium-book-basic-latin-regular
+Geo Regular (Sans-Serif, Latin) : geo-latin-regular
+Geostar Regular (Display, Latin) : geostar-latin-regular
+Geostar Fill Regular (Display, Latin) : geostar-fill-latin-regular
+Germania One Regular (Display, Latin) : germania-one-latin-regular
+GFS Didot Regular (Serif, Greek) : gfs-didot-greek-regular
+GFS Neohellenic Regular (Sans-Serif, Greek) : gfs-neohellenic-greek-regular
+Gidugu Regular (Sans-Serif, Latin) : gidugu-latin-regular
+Gilda Display Regular (Serif, Latin) : gilda-display-latin-regular
+Give You Glory Regular (Handwriting, Latin) : give-you-glory-latin-regular
+Glass Antiqua Regular (Display, Latin) : glass-antiqua-latin-regular
+Glegoo Regular (Serif, Latin) : glegoo-latin-regular
+Gloria Hallelujah Regular (Handwriting, Latin) : gloria-hallelujah-latin-regular
+Goblin One Regular (Display, Latin) : goblin-one-latin-regular
+Gochi Hand Regular (Handwriting, Latin) : gochi-hand-latin-regular
+Gorditas Regular (Display, Latin) : gorditas-latin-regular
+Gothic A4 Regular (Sans-Serif, Latin) : gothic-a4-latin-regular
+Goudy Bookletter 1911 Regular (Serif, Latin) : goudy-bookletter-1911-latin-regular
+Graduate Regular (Display, Latin) : graduate-latin-regular
+Grand Hotel Regular (Handwriting, Latin) : grand-hotel-latin-regular
+Gravitas One Regular (Display, Latin) : gravitas-one-latin-regular
+Great Vibes Regular (Handwriting, Latin) : great-vibes-latin-regular
+Griffy Regular (Display, Latin) : griffy-latin-regular
+Gruppo Regular (Display, Latin) : gruppo-latin-regular
+Gudea Regular (Sans-Serif, Latin) : gudea-latin-regular
+Gugi Regular (Display, Latin) : gugi-latin-regular
+Gurajada Regular (Serif, Latin) : gurajada-latin-regular
+Habibi Regular (Serif, Latin) : habibi-latin-regular
+Halant Regular (Serif, Devanagari Latin) : halant-latin-ext_latin_devanagari-regular
+Halant Regular (Serif, Latin) : halant-latin-regular
+Hammersmith One Regular (Sans-Serif, Latin) : hammersmith-one-latin-regular
+Hanalei Regular (Display, Latin) : hanalei-latin-regular
+Hanalei Fill Regular (Display, Latin) : hanalei-fill-latin-regular
+Handlee Regular (Handwriting, Latin) : handlee-latin-regular
+Hanuman Regular (Serif, Khmer) : hanuman-khmer-regular
+Happy Monkey Regular (Display, Latin) : happy-monkey-latin-regular
+Harmattan Regular (Sans-Serif, Latin) : harmattan-latin-regular
+Headland One Regular (Serif, Latin) : headland-one-latin-regular
+Heebo Regular (Sans-Serif, Latin) : heebo-latin-regular
+Henny Penny Regular (Display, Latin) : henny-penny-latin-regular
+Herr Von Muellerhoff Regular (Handwriting, Latin) : herr-von-muellerhoff-latin-regular
+Hi Melody Regular (Handwriting, Latin) : hi-melody-latin-regular
+Hi Melody Regular (Handwriting, Latin Korean) : hi-melody-latin_korean-regular
+Hind Regular (Sans-Serif, Devanagari Latin Ext) : hind-latin-ext_latin_devanagari-regular
+Hind Guntur Regular (Sans-Serif, Telugu Latin Ext) : hind-guntur-latin-ext_telugu_latin-regular
+Hind Madurai Regular (Sans-Serif, Tamil Latin Ext) : hind-madurai-latin-ext_tamil_latin-regular
+Hind Siliguri Regular (Sans-Serif, Bengali Latin) : hind-siliguri-latin_bengali-regular
+Hind Vadodara Regular (Sans-Serif, Gujarati Latin Ext) : hind-vadodara-latin-ext_latin_gujarati-regular
+Hind Regular (Sans-Serif, Latin) : hind-latin-regular
+Hind Guntur Regular (Sans-Serif, Latin) : hind-guntur-latin-regular
+Hind Madurai Regular (Sans-Serif, Latin) : hind-madurai-latin-regular
+Hind Siliguri Regular (Sans-Serif, Latin) : hind-siliguri-latin-regular
+Hind Vadodara Regular (Sans-Serif, Latin) : hind-vadodara-latin-regular
+Holtwood One SC Regular (Serif, Latin) : holtwood-one-sc-latin-regular
+Homemade Apple Regular (Handwriting, Latin) : homemade-apple-latin-regular
+Homenaje Regular (Sans-Serif, Latin) : homenaje-latin-regular
+IBM Plex Mono Regular (Monospace, Latin) : ibm-plex-mono-latin-regular
+IBM Plex Sans Regular (Sans-Serif, Latin) : ibm-plex-sans-latin-regular
+IBM Plex Sans Condensed Regular (Sans-Serif, Latin) : ibm-plex-sans-condensed-latin-regular
+IBM Plex Serif Regular (Serif, Latin) : ibm-plex-serif-latin-regular
+Iceberg Regular (Display, Latin) : iceberg-latin-regular
+Iceland Regular (Display, Latin) : iceland-latin-regular
+IM Fell Double Pica Regular (Serif, Latin) : im-fell-double-pica-latin-regular
+IM Fell Double Pica SC Regular (Serif, Latin) : im-fell-double-pica-sc-latin-regular
+IM Fell DW Pica Regular (Serif, Latin) : im-fell-dw-pica-latin-regular
+IM Fell DW Pica SC Regular (Serif, Latin) : im-fell-dw-pica-sc-latin-regular
+IM Fell English Regular (Serif, Latin) : im-fell-english-latin-regular
+IM Fell English SC Regular (Serif, Latin) : im-fell-english-sc-latin-regular
+IM Fell French Canon Regular (Serif, Latin) : im-fell-french-canon-latin-regular
+IM Fell French Canon SC Regular (Serif, Latin) : im-fell-french-canon-sc-latin-regular
+IM Fell Great Primer Regular (Serif, Latin) : im-fell-great-primer-latin-regular
+IM Fell Great Primer SC Regular (Serif, Latin) : im-fell-great-primer-sc-latin-regular
+Imprima Regular (Sans-Serif, Latin) : imprima-latin-regular
+Inconsolata Regular (Monospace, Latin) : inconsolata-latin-regular
+Inder Regular (Sans-Serif, Latin) : inder-latin-regular
+Indie Flower Regular (Handwriting, Latin) : indie-flower-latin-regular
+Inika Regular (Serif, Latin) : inika-latin-regular
+Inknut Antiqua Regular (Serif, Latin) : inknut-antiqua-latin-regular
+Irish Grover Regular (Display, Latin) : irish-grover-latin-regular
+Istok Web Regular (Sans-Serif, Latin) : istok-web-latin-regular
+Italiana Regular (Serif, Latin) : italiana-latin-regular
+Italianno Regular (Handwriting, Latin) : italianno-latin-regular
+Itim Regular (Handwriting, Latin) : itim-latin-regular
+Itim Regular (Handwriting, Thai) : itim-thai-regular
+Itim Regular (Handwriting, Thai Latin) : itim-thai_latin-regular
+Itim Regular (Handwriting, Thai Latin Vietnamese) : itim-thai_latin-ext_latin_vietnamese-regular
+Itim Regular (Handwriting, Latin) : itim-latin-regular
+Jacques Francois Regular (Serif, Latin) : jacques-francois-latin-regular
+Jacques Francois Shadow Regular (Display, Latin) : jacques-francois-shadow-latin-regular
+Jaldi Regular (Sans-Serif, Latin) : jaldi-latin-regular
+Jim Nightshade Regular (Handwriting, Latin) : jim-nightshade-latin-regular
+Jockey One Regular (Sans-Serif, Latin) : jockey-one-latin-regular
+Jolly Lodger Regular (Display, Latin) : jolly-lodger-latin-regular
+Jomhuria Regular (Display, Latin) : jomhuria-latin-regular
+Josefin Sans Regular (Sans-Serif, Latin) : josefin-sans-latin-regular
+Josefin Slab Regular (Serif, Latin) : josefin-slab-latin-regular
+Joti One Regular (Display, Latin) : joti-one-latin-regular
+Jua Regular (Sans-Serif, Latin) : jua-latin-regular
+Judson Regular (Serif, Latin) : judson-latin-regular
+Julee Regular (Handwriting, Latin) : julee-latin-regular
+Julius Sans One Regular (Sans-Serif, Latin) : julius-sans-one-latin-regular
+Junge Regular (Serif, Latin) : junge-latin-regular
+Jura Regular (Sans-Serif, Latin) : jura-latin-regular
+Just Another Hand Regular (Handwriting, Latin) : just-another-hand-latin-regular
+Just Me Again Down Here Regular (Handwriting, Latin) : just-me-again-down-here-latin-regular
+K2D Regular (Sans-Serif, Latin) : k2d-latin-regular
+Kadwa Regular (Serif, Latin) : kadwa-latin-regular
+Kalam Regular (Handwriting, Latin) : kalam-latin-regular
+Kameron Regular (Serif, Latin) : kameron-latin-regular
+Kanit Regular (Sans-Serif, Latin) : kanit-latin-regular
+Kanit Regular (Sans-Serif, Thai) : kanit-thai-regular
+Kanit Regular (Sans-Serif, Thai Latin) : kanit-thai_latin-regular
+Kanit Regular (Sans-Serif, Thai Latin Vietnamese) : kanit-thai_latin-ext_latin_vietnamese-regular
+Kantumruy Regular (Sans-Serif, Khmer) : kantumruy-khmer-regular
+Karla Regular (Sans-Serif, Latin) : karla-latin-regular
+Karma Regular (Serif, Latin) : karma-latin-regular
+Katibeh Regular (Display, Latin) : katibeh-latin-regular
+Kaushan Script Regular (Handwriting, Latin) : kaushan-script-latin-regular
+Kavivanar Regular (Handwriting, Latin) : kavivanar-latin-regular
+Kavoon Regular (Display, Latin) : kavoon-latin-regular
+Kdam Thmor Regular (Display, Khmer) : kdam-thmor-khmer-regular
+Keania One Regular (Display, Latin) : keania-one-latin-regular
+Kelly Slab Regular (Display, Latin) : kelly-slab-latin-regular
+Kenia Regular (Display, Latin) : kenia-latin-regular
+Khand Regular (Sans-Serif, Latin) : khand-latin-regular
+Khmer Regular (Display, Khmer) : khmer-khmer-regular
+Khula Regular (Sans-Serif, Latin) : khula-latin-regular
+Kirang Haerang Regular (Display, Latin) : kirang-haerang-latin-regular
+Kite One Regular (Sans-Serif, Latin) : kite-one-latin-regular
+Knewave Regular (Display, Latin) : knewave-latin-regular
+Kodchasan Regular (Sans-Serif, Latin) : kodchasan-latin-regular
+KoHo Regular (Sans-Serif, Latin) : koho-latin-regular
+Kosugi Regular (Sans-Serif, Latin) : kosugi-latin-regular
+Kosugi Maru Regular (Sans-Serif, Latin) : kosugi-maru-latin-regular
+Kotta One Regular (Serif, Latin) : kotta-one-latin-regular
+Koulen Regular (Display, Khmer) : koulen-khmer-regular
+Kranky Regular (Display, Latin) : kranky-latin-regular
+Kreon Regular (Serif, Latin) : kreon-latin-regular
+Kristi Regular (Handwriting, Latin) : kristi-latin-regular
+Krona One Regular (Sans-Serif, Latin) : krona-one-latin-regular
+Krub Regular (Sans-Serif, Latin) : krub-latin-regular
+Kumar One Regular (Display, Latin) : kumar-one-latin-regular
+Kumar One Outline Regular (Display, Latin) : kumar-one-outline-latin-regular
+Kurale Regular (Serif, Latin) : kurale-latin-regular
+La Belle Aurore Regular (Handwriting, Latin) : la-belle-aurore-latin-regular
+Laila Regular (Serif, Latin) : laila-latin-regular
+Lakki Reddy Regular (Handwriting, Latin) : lakki-reddy-latin-regular
+Lalezar Regular (Display, Latin) : lalezar-latin-regular
+Lancelot Regular (Display, Latin) : lancelot-latin-regular
+Lateef Regular (Handwriting, Latin) : lateef-latin-regular
+Lato Regular (Sans-Serif, Latin) : lato-latin-regular
+League Script Regular (Handwriting, Latin) : league-script-latin-regular
+Leckerli One Regular (Handwriting, Latin) : leckerli-one-latin-regular
+Ledger Regular (Serif, Latin) : ledger-latin-regular
+Lekton Regular (Sans-Serif, Latin) : lekton-latin-regular
+Lemon Regular (Display, Latin) : lemon-latin-regular
+Lemonada Regular (Display, Latin) : lemonada-latin-regular
+Libre Barcode 128 Regular (Display, Latin) : libre-barcode-128-latin-regular
+Libre Barcode 128 Text Regular (Display, Latin) : libre-barcode-128-text-latin-regular
+Libre Barcode 39 Regular (Display, Latin) : libre-barcode-39-latin-regular
+Libre Barcode 39 Extended Regular (Display, Latin) : libre-barcode-39-extended-latin-regular
+Libre Barcode 39 Extended Text Regular (Display, Latin) : libre-barcode-39-extended-text-latin-regular
+Libre Barcode 39 Text Regular (Display, Latin) : libre-barcode-39-text-latin-regular
+Libre Baskerville Regular (Serif, Latin) : libre-baskerville-latin-regular
+Libre Franklin Regular (Sans-Serif, Latin) : libre-franklin-latin-regular
+Life Savers Regular (Display, Latin) : life-savers-latin-regular
+Lilita One Regular (Display, Latin) : lilita-one-latin-regular
+Lily Script One Regular (Display, Latin) : lily-script-one-latin-regular
+Limelight Regular (Display, Latin) : limelight-latin-regular
+Linden Hill Regular (Serif, Latin) : linden-hill-latin-regular
+Lobster Regular (Display, Latin) : lobster-latin-regular
+Lobster Two Regular (Display, Latin) : lobster-two-latin-regular
+Londrina Outline Regular (Display, Latin) : londrina-outline-latin-regular
+Londrina Shadow Regular (Display, Latin) : londrina-shadow-latin-regular
+Londrina Sketch Regular (Display, Latin) : londrina-sketch-latin-regular
+Londrina Solid Regular (Display, Latin) : londrina-solid-latin-regular
+Lora Regular (Serif, Latin) : lora-latin-regular
+Love Ya Like A Sister Regular (Display, Latin) : love-ya-like-a-sister-latin-regular
+Loved by the King Regular (Handwriting, Latin) : loved-by-the-king-latin-regular
+Lovers Quarrel Regular (Handwriting, Latin) : lovers-quarrel-latin-regular
+Luckiest Guy Regular (Display, Latin) : luckiest-guy-latin-regular
+Lusitana Regular (Serif, Latin) : lusitana-latin-regular
+Lustria Regular (Serif, Latin) : lustria-latin-regular
+M PLUS 1p Regular (Sans-Serif, Latin) : m-plus-1p-latin-regular
+M PLUS Rounded 1c Regular (Sans-Serif, Latin) : m-plus-rounded-1c-latin-regular
+Macondo Regular (Display, Latin) : macondo-latin-regular
+Macondo Swash Caps Regular (Display, Latin) : macondo-swash-caps-latin-regular
+Mada Regular (Sans-Serif, Latin) : mada-latin-regular
+Magra Regular (Sans-Serif, Latin) : magra-latin-regular
+Maiden Orange Regular (Display, Latin) : maiden-orange-latin-regular
+Maitree Regular (Serif, Latin) : maitree-latin-regular
+Mako Regular (Sans-Serif, Latin) : mako-latin-regular
+Mali Regular (Handwriting, Latin) : mali-latin-regular
+Mallanna Regular (Sans-Serif, Latin) : mallanna-latin-regular
+Mandali Regular (Sans-Serif, Latin) : mandali-latin-regular
+Manuale Regular (Serif, Latin) : manuale-latin-regular
+Marcellus Regular (Serif, Latin) : marcellus-latin-regular
+Marcellus SC Regular (Serif, Latin) : marcellus-sc-latin-regular
+Marck Script Regular (Handwriting, Latin) : marck-script-latin-regular
+Margarine Regular (Display, Latin) : margarine-latin-regular
+Markazi Text Regular (Serif, Latin) : markazi-text-latin-regular
+Marko One Regular (Serif, Latin) : marko-one-latin-regular
+Marmelad Regular (Sans-Serif, Latin) : marmelad-latin-regular
+Martel Regular (Serif, Latin) : martel-latin-regular
+Martel Sans Regular (Sans-Serif, Latin) : martel-sans-latin-regular
+Marvel Regular (Sans-Serif, Latin) : marvel-latin-regular
+Mate Regular (Serif, Latin) : mate-latin-regular
+Mate SC Regular (Serif, Latin) : mate-sc-latin-regular
+Maven Pro Regular (Sans-Serif, Latin) : maven-pro-latin-regular
+McLaren Regular (Display, Latin) : mclaren-latin-regular
+Meddon Regular (Handwriting, Latin) : meddon-latin-regular
+MedievalSharp Regular (Display, Latin) : medievalsharp-latin-regular
+Medula One Regular (Display, Latin) : medula-one-latin-regular
+Meera Inimai Regular (Sans-Serif, Latin) : meera-inimai-latin-regular
+Megrim Regular (Display, Latin) : megrim-latin-regular
+Meie Script Regular (Handwriting, Latin) : meie-script-latin-regular
+Merienda Regular (Handwriting, Latin) : merienda-latin-regular
+Merienda One Regular (Handwriting, Latin) : merienda-one-latin-regular
+Merriweather Regular (Serif, Latin) : merriweather-latin-regular
+Merriweather Sans Regular (Sans-Serif, Latin) : merriweather-sans-latin-regular
+Metal Regular (Display, Khmer) : metal-khmer-regular
+Metal Mania Regular (Display, Latin) : metal-mania-latin-regular
+Metamorphous Regular (Display, Latin) : metamorphous-latin-regular
+Metrophobic Regular (Sans-Serif, Latin) : metrophobic-latin-regular
+Michroma Regular (Sans-Serif, Latin) : michroma-latin-regular
+Milonga Regular (Display, Latin) : milonga-latin-regular
+Miltonian Regular (Display, Latin) : miltonian-latin-regular
+Miltonian Tattoo Regular (Display, Latin) : miltonian-tattoo-latin-regular
+Mina Regular (Sans-Serif, Latin) : mina-latin-regular
+Miniver Regular (Display, Latin) : miniver-latin-regular
+Miriam Libre Regular (Sans-Serif, Latin) : miriam-libre-latin-regular
+Mirza Regular (Display, Latin) : mirza-latin-regular
+Miss Fajardose Regular (Handwriting, Latin) : miss-fajardose-latin-regular
+Mitr Regular (Sans-Serif, Latin) : mitr-latin-regular
+Modak Regular (Display, Latin) : modak-latin-regular
+Modern Antiqua Regular (Display, Latin) : modern-antiqua-latin-regular
+Mogra Regular (Display, Latin) : mogra-latin-regular
+Molengo Regular (Sans-Serif, Latin) : molengo-latin-regular
+Monda Regular (Sans-Serif, Latin) : monda-latin-regular
+Monofett Regular (Display, Latin) : monofett-latin-regular
+Monoton Regular (Display, Latin) : monoton-latin-regular
+Monsieur La Doulaise Regular (Handwriting, Latin) : monsieur-la-doulaise-latin-regular
+Montaga Regular (Serif, Latin) : montaga-latin-regular
+Montez Regular (Handwriting, Latin) : montez-latin-regular
+Montserrat Regular (Sans-Serif, Latin) : montserrat-latin-regular
+Montserrat Alternates Regular (Sans-Serif, Latin) : montserrat-alternates-latin-regular
+Montserrat Subrayada Regular (Sans-Serif, Latin) : montserrat-subrayada-latin-regular
+Moul Regular (Display, Khmer) : moul-khmer-regular
+Moulpali Regular (Display, Khmer) : moulpali-khmer-regular
+Mountains of Christmas Regular (Display, Latin) : mountains-of-christmas-latin-regular
+Mouse Memoirs Regular (Sans-Serif, Latin) : mouse-memoirs-latin-regular
+Mr Bedfort Regular (Handwriting, Latin) : mr-bedfort-latin-regular
+Mr Dafoe Regular (Handwriting, Latin) : mr-dafoe-latin-regular
+Mr De Haviland Regular (Handwriting, Latin) : mr-de-haviland-latin-regular
+Mrs Saint Delafield Regular (Handwriting, Latin) : mrs-saint-delafield-latin-regular
+Mrs Sheppards Regular (Handwriting, Latin) : mrs-sheppards-latin-regular
+Mukta Regular (Sans-Serif, Devanagari Latin Ext) : mukta-latin-ext_latin_devanagari-regular
+Mukta Mahee Regular (Sans-Serif, Gurmukhi Latin Ext) : mukta-mahee-gurmukhi_latin-ext_latin-regular
+Mukta Malar Regular (Sans-Serif, Tamil Latin Ext) : mukta-malar-latin-ext_tamil_latin-regular
+Mukta Vaani Regular (Sans-Serif, Gujarati Latin Ext) : mukta-vaani-latin-ext_latin_gujarati-regular
+Mukta Regular (Sans-Serif, Latin) : mukta-latin-regular
+Mukta Mahee Regular (Sans-Serif, Latin) : mukta-mahee-latin-regular
+Mukta Malar Regular (Sans-Serif, Latin) : mukta-malar-latin-regular
+Mukta Vaani Regular (Sans-Serif, Latin) : mukta-vaani-latin-regular
+Muli Regular (Sans-Serif, Latin) : muli-latin-regular
+Mystery Quest Regular (Display, Latin) : mystery-quest-latin-regular
+Nanum Brush Script Regular (Handwriting, Latin Korean) : nanum-brush-script-latin_korean-regular
+Nanum Brush Script Regular (Handwriting, Latin) : nanum-brush-script-latin-regular
+Nanum Gothic Regular (Sans-Serif, Latin Korean) : nanum-gothic-latin_korean-regular
+Nanum Gothic Regular (Sans-Serif, Latin) : nanum-gothic-latin-regular
+Nanum Gothic Coding Regular (Monospace, Latin) : nanum-gothic-coding-latin-regular
+Nanum Myeongjo Regular (Serif, Latin) : nanum-myeongjo-latin-regular
+Nanum Pen Script Regular (Handwriting, Latin) : nanum-pen-script-latin-regular
+Neucha Regular (Handwriting, Latin) : neucha-latin-regular
+Neuton Regular (Serif, Latin) : neuton-latin-regular
+New Rocker Regular (Display, Latin) : new-rocker-latin-regular
+News Cycle Regular (Sans-Serif, Latin) : news-cycle-latin-regular
+Niconne Regular (Handwriting, Latin) : niconne-latin-regular
+Niramit Regular (Sans-Serif, Latin) : niramit-latin-regular
+Nixie One Regular (Display, Latin) : nixie-one-latin-regular
+Nobile Regular (Sans-Serif, Latin) : nobile-latin-regular
+Nokora Regular (Serif, Khmer) : nokora-khmer-regular
+Norican Regular (Handwriting, Latin) : norican-latin-regular
+Nosifer Regular (Display, Latin) : nosifer-latin-regular
+Notable Regular (Sans-Serif, Latin) : notable-latin-regular
+Nothing You Could Do Regular (Handwriting, Latin) : nothing-you-could-do-latin-regular
+Noticia Text Regular (Serif, Latin) : noticia-text-latin-regular
+Noto Sans Regular (Sans-Serif, Cyrillic) : noto-sans-cyrillic-ext_cyrillic-regular
+Noto Sans Regular (Sans-Serif, Devanagari) : noto-sans-devanagari-regular
+Noto Sans Regular (Sans-Serif, Greek) : noto-sans-greek_greek-ext-regular
+Noto Sans Regular (Sans-Serif, Latin) : noto-sans-latin-regular
+Noto Sans Regular (Sans-Serif, Vietnamese) : noto-sans-latin_latin-ext_vietnamese-regular
+Noto Sans JP Regular (Sans-Serif, Japanese) : noto-sans-jp-japanese_latin-regular
+Noto Sans KR Regular (Sans-Serif, Korean) : noto-sans-kr-latin_korean-regular
+Noto Serif Regular (Serif, Latin) : noto-serif-latin-regular
+Noto Serif JP Regular (Sans-Serif, Japanese) : noto-serif-jp-japanese_latin-regular
+Noto Serif KR Regular (Sans-Serif, Korean) : noto-serif-kr-latin_korean-regular
+Nova Cut Regular (Display, Latin) : nova-cut-latin-regular
+Nova Flat Regular (Display, Latin) : nova-flat-latin-regular
+Nova Mono Regular (Monospace, Latin) : nova-mono-latin-regular
+Nova Oval Regular (Display, Latin) : nova-oval-latin-regular
+Nova Round Regular (Display, Latin) : nova-round-latin-regular
+Nova Script Regular (Display, Latin) : nova-script-latin-regular
+Nova Slim Regular (Display, Latin) : nova-slim-latin-regular
+Nova Square Regular (Display, Latin) : nova-square-latin-regular
+NTR Regular (Sans-Serif, Latin) : ntr-latin-regular
+Numans Regular (Sans-Serif, Latin) : numans-latin-regular
+Nunito Regular (Sans-Serif, Latin) : nunito-latin-regular
+Nunito Sans Regular (Sans-Serif, Latin) : nunito-sans-latin-regular
+Odor Mean Chey Regular (Display, Khmer) : odor-mean-chey-khmer-regular
+Offside Regular (Display, Latin) : offside-latin-regular
+Old Standard TT Regular (Serif, Latin) : old-standard-tt-latin-regular
+Oldenburg Regular (Display, Latin) : oldenburg-latin-regular
+Oleo Script Regular (Display, Latin) : oleo-script-latin-regular
+Oleo Script Swash Caps Regular (Display, Latin) : oleo-script-swash-caps-latin-regular
+Open Sans Regular (Sans-Serif, Latin) : open-sans-latin-regular
+Open Sans Regular (Sans-Serif, Greek Ext) : open-sans-greek-ext-regular
+Open Sans Regular (Sans-Serif, Cyrillic Ext) : open-sans-cyrillic-ext-regular
+Open Sans Regular (Sans-Serif, Latin Ext) : open-sans-latin-ext-regular
+Open Sans Regular (Sans-Serif, Vietnamese) : open-sans-vietamese-regular
+Oranienbaum Regular (Serif, Latin) : oranienbaum-latin-regular
+Orbitron Regular (Sans-Serif, Latin) : orbitron-latin-regular
+Oregano Regular (Display, Latin) : oregano-latin-regular
+Orienta Regular (Sans-Serif, Latin) : orienta-latin-regular
+Original Surfer Regular (Display, Latin) : original-surfer-latin-regular
+Oswald Regular (Sans-Serif, Latin) : oswald-latin-regular
+Over the Rainbow Regular (Handwriting, Latin) : over-the-rainbow-latin-regular
+Overlock Regular (Display, Latin) : overlock-latin-regular
+Overlock SC Regular (Display, Latin) : overlock-sc-latin-regular
+Overpass Regular (Sans-Serif, Latin) : overpass-latin-regular
+Overpass Mono Regular (Monospace, Latin) : overpass-mono-latin-regular
+Ovo Regular (Serif, Latin) : ovo-latin-regular
+Oxygen Regular (Sans-Serif, Latin) : oxygen-latin-regular
+Oxygen Mono Regular (Monospace, Latin) : oxygen-mono-latin-regular
+Pacifico Regular (Handwriting, Latin) : pacifico-latin-regular
+Padauk Regular (Sans-Serif, Latin Myanmar) : padauk-latin_myanmar-regular
+Padauk Regular (Sans-Serif, Latin) : padauk-latin-regular
+Palanquin Regular (Sans-Serif, Latin) : palanquin-latin-regular
+Palanquin Dark Regular (Sans-Serif, Latin) : palanquin-dark-latin-regular
+Pangolin Regular (Handwriting, Latin) : pangolin-latin-regular
+Paprika Regular (Display, Latin) : paprika-latin-regular
+Parisienne Regular (Handwriting, Latin) : parisienne-latin-regular
+Passero One Regular (Display, Latin) : passero-one-latin-regular
+Passion One Regular (Display, Latin) : passion-one-latin-regular
+Pathway Gothic One Regular (Sans-Serif, Latin) : pathway-gothic-one-latin-regular
+Patrick Hand Regular (Handwriting, Latin) : patrick-hand-latin-regular
+Patrick Hand SC Regular (Handwriting, Latin) : patrick-hand-sc-latin-regular
+Pattaya Regular (Sans-Serif, Latin) : pattaya-latin-regular
+Patua One Regular (Display, Latin) : patua-one-latin-regular
+Pavanam Regular (Sans-Serif, Latin) : pavanam-latin-regular
+Paytone One Regular (Sans-Serif, Latin) : paytone-one-latin-regular
+Peddana Regular (Serif, Latin) : peddana-latin-regular
+Peralta Regular (Display, Latin) : peralta-latin-regular
+Permanent Marker Regular (Handwriting, Latin) : permanent-marker-latin-regular
+Petit Formal Script Regular (Handwriting, Latin) : petit-formal-script-latin-regular
+Petrona Regular (Serif, Latin) : petrona-latin-regular
+Philosopher Regular (Sans-Serif, Latin) : philosopher-latin-regular
+Piedra Regular (Display, Latin) : piedra-latin-regular
+Pinyon Script Regular (Handwriting, Latin) : pinyon-script-latin-regular
+Pirata One Regular (Display, Latin) : pirata-one-latin-regular
+Plaster Regular (Display, Latin) : plaster-latin-regular
+Play Regular (Sans-Serif, Latin) : play-latin-regular
+Playball Regular (Display, Latin) : playball-latin-regular
+Playfair Display Regular (Serif, Latin) : playfair-display-latin-regular
+Playfair Display SC Regular (Serif, Latin) : playfair-display-sc-latin-regular
+Podkova Regular (Serif, Latin) : podkova-latin-regular
+Poiret One Regular (Display, Latin) : poiret-one-latin-regular
+Poller One Regular (Display, Latin) : poller-one-latin-regular
+Poly Regular (Serif, Latin) : poly-latin-regular
+Pompiere Regular (Display, Latin) : pompiere-latin-regular
+Pontano Sans Regular (Sans-Serif, Latin) : pontano-sans-latin-regular
+Poor Story Regular (Display, Latin) : poor-story-latin-regular
+Poppins Regular (Sans-Serif, Latin) : poppins-latin-regular
+Port Lligat Sans Regular (Sans-Serif, Latin) : port-lligat-sans-latin-regular
+Port Lligat Slab Regular (Serif, Latin) : port-lligat-slab-latin-regular
+Pragati Narrow Regular (Sans-Serif, Latin) : pragati-narrow-latin-regular
+Prata Regular (Serif, Latin) : prata-latin-regular
+Preahvihear Regular (Display, Khmer) : preahvihear-khmer-regular
+Press Start 2P Regular (Display, Latin) : press-start-2p-latin-regular
+Pridi Regular (Serif, Latin) : pridi-latin-regular
+Princess Sofia Regular (Handwriting, Latin) : princess-sofia-latin-regular
+Prociono Regular (Serif, Latin) : prociono-latin-regular
+Prompt Regular (Sans-Serif, Latin) : prompt-latin-regular
+Prosto One Regular (Display, Latin) : prosto-one-latin-regular
+Proza Libre Regular (Sans-Serif, Latin) : proza-libre-latin-regular
+PT Mono Regular (Monospace, Latin) : pt-mono-latin-regular
+PT Sans Regular (Sans-Serif, Latin) : pt-sans-latin-regular
+PT Sans Caption Regular (Sans-Serif, Latin) : pt-sans-caption-latin-regular
+PT Sans Narrow Regular (Sans-Serif, Latin) : pt-sans-narrow-latin-regular
+PT Serif Regular (Serif, Latin) : pt-serif-latin-regular
+PT Serif Caption Regular (Serif, Latin) : pt-serif-caption-latin-regular
+Puritan Regular (Sans-Serif, Latin) : puritan-latin-regular
+Purple Purse Regular (Display, Latin) : purple-purse-latin-regular
+Quando Regular (Serif, Latin) : quando-latin-regular
+Quantico Regular (Sans-Serif, Latin) : quantico-latin-regular
+Quattrocento Regular (Serif, Latin) : quattrocento-latin-regular
+Quattrocento Sans Regular (Sans-Serif, Latin) : quattrocento-sans-latin-regular
+Questrial Regular (Sans-Serif, Latin) : questrial-latin-regular
+Quicksand Regular (Sans-Serif, Latin) : quicksand-latin-regular
+Quintessential Regular (Handwriting, Latin) : quintessential-latin-regular
+Qwigley Regular (Handwriting, Latin) : qwigley-latin-regular
+Racing Sans One Regular (Display, Latin) : racing-sans-one-latin-regular
+Radley Regular (Serif, Latin) : radley-latin-regular
+Rajdhani Regular (Sans-Serif, Latin) : rajdhani-latin-regular
+Rakkas Regular (Display, Latin) : rakkas-latin-regular
+Raleway Regular (Sans-Serif, Latin) : raleway-latin-regular
+Raleway Dots Regular (Display, Latin) : raleway-dots-latin-regular
+Ramabhadra Regular (Sans-Serif, Latin) : ramabhadra-latin-regular
+Ramaraja Regular (Serif, Latin) : ramaraja-latin-regular
+Rambla Regular (Sans-Serif, Latin) : rambla-latin-regular
+Rammetto One Regular (Display, Latin) : rammetto-one-latin-regular
+Ranchers Regular (Display, Latin) : ranchers-latin-regular
+Rancho Regular (Handwriting, Latin) : rancho-latin-regular
+Ranga Regular (Display, Latin) : ranga-latin-regular
+Rasa Regular (Serif, Latin) : rasa-latin-regular
+Rationale Regular (Sans-Serif, Latin) : rationale-latin-regular
+Ravi Prakash Regular (Display, Latin) : ravi-prakash-latin-regular
+Redressed Regular (Handwriting, Latin) : redressed-latin-regular
+Reem Kufi Regular (Sans-Serif, Latin) : reem-kufi-latin-regular
+Reenie Beanie Regular (Handwriting, Latin) : reenie-beanie-latin-regular
+Revalia Regular (Display, Latin) : revalia-latin-regular
+Rhodium Libre Regular (Serif, Latin) : rhodium-libre-latin-regular
+Ribeye Regular (Display, Latin) : ribeye-latin-regular
+Ribeye Marrow Regular (Display, Latin) : ribeye-marrow-latin-regular
+Righteous Regular (Display, Latin) : righteous-latin-regular
+Risque Regular (Display, Latin) : risque-latin-regular
+Roboto Regular (Sans-Serif, Latin) : roboto-latin-regular
+Roboto Regular (Sans-Serif, Vietnamese) : roboto-vietnamese-regular
+Roboto Regular (Sans-Serif, Cyrillic Ext) : roboto-cyrillic-ext_cyrillic-regular
+Roboto Regular (Sans-Serif, Latin Ext) : roboto-latin-ext-regular
+Roboto Regular (Sans-Serif, Greek Ext) : roboto-greek_greek-ext-regular
+Roboto Condensed Regular (Sans-Serif, Latin) : roboto-condensed-latin-regular
+Roboto Mono Regular (Monospace, Latin) : roboto-mono-latin-regular
+Roboto Slab Regular (Serif, Latin) : roboto-slab-latin-regular
+Rochester Regular (Handwriting, Latin) : rochester-latin-regular
+Rock Salt Regular (Handwriting, Latin) : rock-salt-latin-regular
+Rokkitt Regular (Serif, Latin) : rokkitt-latin-regular
+Romanesco Regular (Handwriting, Latin) : romanesco-latin-regular
+Ropa Sans Regular (Sans-Serif, Latin) : ropa-sans-latin-regular
+Rosario Regular (Sans-Serif, Latin) : rosario-latin-regular
+Rosarivo Regular (Serif, Latin) : rosarivo-latin-regular
+Rouge Script Regular (Handwriting, Latin) : rouge-script-latin-regular
+Rozha One Regular (Serif, Latin) : rozha-one-latin-regular
+Rubik Regular (Sans-Serif, Latin) : rubik-latin-regular
+Rubik Mono One Regular (Sans-Serif, Latin) : rubik-mono-one-latin-regular
+Ruda Regular (Sans-Serif, Latin) : ruda-latin-regular
+Rufina Regular (Serif, Latin) : rufina-latin-regular
+Ruge Boogie Regular (Handwriting, Latin) : ruge-boogie-latin-regular
+Ruluko Regular (Sans-Serif, Latin) : ruluko-latin-regular
+Rum Raisin Regular (Sans-Serif, Latin) : rum-raisin-latin-regular
+Ruslan Display Regular (Display, Latin) : ruslan-display-latin-regular
+Russo One Regular (Sans-Serif, Latin) : russo-one-latin-regular
+Ruthie Regular (Handwriting, Latin) : ruthie-latin-regular
+Rye Regular (Display, Latin) : rye-latin-regular
+Sacramento Regular (Handwriting, Latin) : sacramento-latin-regular
+Sahitya Regular (Serif, Latin) : sahitya-latin-regular
+Sail Regular (Display, Latin) : sail-latin-regular
+Saira Regular (Sans-Serif, Latin) : saira-latin-regular
+Saira Condensed Regular (Sans-Serif, Latin) : saira-condensed-latin-regular
+Saira Extra Condensed Regular (Sans-Serif, Latin) : saira-extra-condensed-latin-regular
+Saira Semi Condensed Regular (Sans-Serif, Latin) : saira-semi-condensed-latin-regular
+Salsa Regular (Display, Latin) : salsa-latin-regular
+Sanchez Regular (Serif, Latin) : sanchez-latin-regular
+Sancreek Regular (Display, Latin) : sancreek-latin-regular
+Sansita Regular (Sans-Serif, Latin) : sansita-latin-regular
+Sarala Regular (Sans-Serif, Latin) : sarala-latin-regular
+Sarina Regular (Display, Latin) : sarina-latin-regular
+Sarpanch Regular (Sans-Serif, Latin) : sarpanch-latin-regular
+Satisfy Regular (Handwriting, Latin) : satisfy-latin-regular
+Sawarabi Gothic Regular (Sans-Serif, Latin) : sawarabi-gothic-latin-regular
+Sawarabi Mincho Regular (Sans-Serif, Latin) : sawarabi-mincho-latin-regular
+Scada Regular (Sans-Serif, Latin) : scada-latin-regular
+Scheherazade Regular (Serif, Latin) : scheherazade-latin-regular
+Schoolbell Regular (Handwriting, Latin) : schoolbell-latin-regular
+Scope One Regular (Serif, Latin) : scope-one-latin-regular
+Seaweed Script Regular (Display, Latin) : seaweed-script-latin-regular
+Secular One Regular (Sans-Serif, Latin) : secular-one-latin-regular
+Sedgwick Ave Regular (Handwriting, Latin) : sedgwick-ave-latin-regular
+Sedgwick Ave Display Regular (Handwriting, Latin) : sedgwick-ave-display-latin-regular
+Sevillana Regular (Display, Latin) : sevillana-latin-regular
+Seymour One Regular (Sans-Serif, Latin) : seymour-one-latin-regular
+Shadows Into Light Regular (Handwriting, Latin) : shadows-into-light-latin-regular
+Shadows Into Light Two Regular (Handwriting, Latin) : shadows-into-light-two-latin-regular
+Shanti Regular (Sans-Serif, Latin) : shanti-latin-regular
+Share Regular (Display, Latin) : share-latin-regular
+Share Tech Regular (Sans-Serif, Latin) : share-tech-latin-regular
+Share Tech Mono Regular (Monospace, Latin) : share-tech-mono-latin-regular
+Shojumaru Regular (Display, Latin) : shojumaru-latin-regular
+Short Stack Regular (Handwriting, Latin) : short-stack-latin-regular
+Shrikhand Regular (Display, Latin) : shrikhand-latin-regular
+Siemreap Regular (Display, Khmer) : siemreap-khmer-regular
+Sigmar One Regular (Display, Latin) : sigmar-one-latin-regular
+Signika Regular (Sans-Serif, Latin) : signika-latin-regular
+Signika Negative Regular (Sans-Serif, Latin) : signika-negative-latin-regular
+Simonetta Regular (Display, Latin) : simonetta-latin-regular
+Sintony Regular (Sans-Serif, Latin) : sintony-latin-regular
+Sirin Stencil Regular (Display, Latin) : sirin-stencil-latin-regular
+Six Caps Regular (Sans-Serif, Latin) : six-caps-latin-regular
+Skranji Regular (Display, Latin) : skranji-latin-regular
+Slabo 13px Regular (Serif, Latin) : slabo-13px-latin-regular
+Slabo 27px Regular (Serif, Latin) : slabo-27px-latin-regular
+Slackey Regular (Display, Latin) : slackey-latin-regular
+Smokum Regular (Display, Latin) : smokum-latin-regular
+Smythe Regular (Display, Latin) : smythe-latin-regular
+Sniglet Regular (Display, Latin) : sniglet-latin-regular
+Snippet Regular (Sans-Serif, Latin) : snippet-latin-regular
+Snowburst One Regular (Display, Latin) : snowburst-one-latin-regular
+Sofadi One Regular (Display, Latin) : sofadi-one-latin-regular
+Sofia Regular (Handwriting, Latin) : sofia-latin-regular
+Song Myung Regular (Serif, Latin) : song-myung-latin-regular
+Sonsie One Regular (Display, Latin) : sonsie-one-latin-regular
+Sorts Mill Goudy Regular (Serif, Latin) : sorts-mill-goudy-latin-regular
+Source Code Pro Regular (Monospace, Latin) : source-code-pro-latin-regular
+Source Sans Pro Regular (Sans-Serif, Latin) : source-sans-pro-latin-regular
+Source Serif Pro Regular (Serif, Latin) : source-serif-pro-latin-regular
+Space Mono Regular (Monospace, Latin) : space-mono-latin-regular
+Special Elite Regular (Display, Latin) : special-elite-latin-regular
+Spectral Regular (Serif, Latin) : spectral-latin-regular
+Spectral SC Regular (Serif, Latin) : spectral-sc-latin-regular
+Spicy Rice Regular (Display, Latin) : spicy-rice-latin-regular
+Spinnaker Regular (Sans-Serif, Latin) : spinnaker-latin-regular
+Spirax Regular (Display, Latin) : spirax-latin-regular
+Squada One Regular (Display, Latin) : squada-one-latin-regular
+Sree Krushnadevaraya Regular (Serif, Latin) : sree-krushnadevaraya-latin-regular
+Sriracha Regular (Handwriting, Latin) : sriracha-latin-regular
+Srisakdi Regular (Display, Latin) : srisakdi-latin-regular
+Stalemate Regular (Handwriting, Latin) : stalemate-latin-regular
+Stalinist One Regular (Display, Latin) : stalinist-one-latin-regular
+Stardos Stencil Regular (Display, Latin) : stardos-stencil-latin-regular
+Stint Ultra Condensed Regular (Display, Latin) : stint-ultra-condensed-latin-regular
+Stint Ultra Expanded Regular (Display, Latin) : stint-ultra-expanded-latin-regular
+Stoke Regular (Serif, Latin) : stoke-latin-regular
+Strait Regular (Sans-Serif, Latin) : strait-latin-regular
+Stylish Regular (Sans-Serif, Latin) : stylish-latin-regular
+Sue Ellen Francisco Regular (Handwriting, Latin) : sue-ellen-francisco-latin-regular
+Suez One Regular (Serif, Latin) : suez-one-latin-regular
+Sumana Regular (Serif, Latin) : sumana-latin-regular
+Sunshiney Regular (Handwriting, Latin) : sunshiney-latin-regular
+Supermercado One Regular (Display, Latin) : supermercado-one-latin-regular
+Sura Regular (Serif, Latin) : sura-latin-regular
+Suranna Regular (Serif, Latin) : suranna-latin-regular
+Suravaram Regular (Serif, Latin) : suravaram-latin-regular
+Suwannaphum Regular (Display, Khmer) : suwannaphum-khmer-regular
+Swanky and Moo Moo Regular (Handwriting, Latin) : swanky-and-moo-moo-latin-regular
+Syncopate Regular (Sans-Serif, Latin) : syncopate-latin-regular
+Tajawal Regular (Sans-Serif, Arabic Latin) : tajawal-arabic_latin-regular
+Tajawal Regular (Sans-Serif, Latin) : tajawal-latin-regular
+Tangerine Regular (Handwriting, Latin) : tangerine-latin-regular
+Taprom Regular (Display, Khmer) : taprom-khmer-regular
+Tauri Regular (Sans-Serif, Latin) : tauri-latin-regular
+Teko Regular (Sans-Serif, Latin) : teko-latin-regular
+Telex Regular (Sans-Serif, Latin) : telex-latin-regular
+Tenali Ramakrishna Regular (Sans-Serif, Latin) : tenali-ramakrishna-latin-regular
+Tenor Sans Regular (Sans-Serif, Latin) : tenor-sans-latin-regular
+Text Me One Regular (Sans-Serif, Latin) : text-me-one-latin-regular
+The Girl Next Door Regular (Handwriting, Latin) : the-girl-next-door-latin-regular
+Tienne Regular (Serif, Latin) : tienne-latin-regular
+Tillana Regular (Handwriting, Latin) : tillana-latin-regular
+Timmana Regular (Sans-Serif, Latin) : timmana-latin-regular
+Tinos Regular (Serif, Hebrew Latin Cyrillic Vietnamese) : tinos-latin_hebrew_cyrillic_vietnamese-regular
+Tinos Regular (Serif, Hebrew Latin) : tinos-latin_hebrew-regular
+Tinos Regular (Serif, Latin) : tinos-latin-regular
+Titan One Regular (Display, Latin) : titan-one-latin-regular
+Titillium Web Regular (Sans-Serif, Latin) : titillium-web-latin-regular
+Trade Winds Regular (Display, Latin) : trade-winds-latin-regular
+Trirong Regular (Serif, Latin) : trirong-latin-regular
+Trocchi Regular (Serif, Latin) : trocchi-latin-regular
+Trochut Regular (Display, Latin) : trochut-latin-regular
+Trykker Regular (Serif, Latin) : trykker-latin-regular
+Tulpen One Regular (Display, Latin) : tulpen-one-latin-regular
+Ubuntu Regular (Sans-Serif, Latin) : ubuntu-latin-regular
+Ubuntu Condensed Regular (Sans-Serif, Latin) : ubuntu-condensed-latin-regular
+Ubuntu Mono Regular (Monospace, Latin) : ubuntu-mono-latin-regular
+Ultra Regular (Serif, Latin) : ultra-latin-regular
+Uncial Antiqua Regular (Display, Latin) : uncial-antiqua-latin-regular
+Underdog Regular (Display, Latin) : underdog-latin-regular
+Unica One Regular (Display, Latin) : unica-one-latin-regular
+UnifrakturMaguntia Regular (Display, Latin) : unifrakturmaguntia-latin-regular
+Unkempt Regular (Display, Latin) : unkempt-latin-regular
+Unlock Regular (Display, Latin) : unlock-latin-regular
+Unna Regular (Serif, Latin) : unna-latin-regular
+Vampiro One Regular (Display, Latin) : vampiro-one-latin-regular
+Varela Regular (Sans-Serif, Latin) : varela-latin-regular
+Varela Round Regular (Sans-Serif, Latin) : varela-round-latin-regular
+Vast Shadow Regular (Display, Latin) : vast-shadow-latin-regular
+Vesper Libre Regular (Serif, Latin) : vesper-libre-latin-regular
+Vibur Regular (Handwriting, Latin) : vibur-latin-regular
+Vidaloka Regular (Serif, Latin) : vidaloka-latin-regular
+Viga Regular (Sans-Serif, Latin) : viga-latin-regular
+Voces Regular (Display, Latin) : voces-latin-regular
+Volkhov Regular (Serif, Latin) : volkhov-latin-regular
+Vollkorn Regular (Serif, Latin) : vollkorn-latin-regular
+Vollkorn SC Regular (Serif, Latin) : vollkorn-sc-latin-regular
+Voltaire Regular (Sans-Serif, Latin) : voltaire-latin-regular
+VT323 Regular (Monospace, Latin) : vt323-latin-regular
+Waiting for the Sunrise Regular (Handwriting, Latin) : waiting-for-the-sunrise-latin-regular
+Wallpoet Regular (Display, Latin) : wallpoet-latin-regular
+Walter Turncoat Regular (Handwriting, Latin) : walter-turncoat-latin-regular
+Warnes Regular (Display, Latin) : warnes-latin-regular
+Wellfleet Regular (Display, Latin) : wellfleet-latin-regular
+Wendy One Regular (Sans-Serif, Latin) : wendy-one-latin-regular
+Wire One Regular (Sans-Serif, Latin) : wire-one-latin-regular
+Work Sans Regular (Sans-Serif, Latin) : work-sans-latin-regular
+Yanone Kaffeesatz Regular (Sans-Serif, Latin) : yanone-kaffeesatz-latin-regular
+Yantramanav Regular (Sans-Serif, Latin) : yantramanav-latin-regular
+Yatra One Regular (Display, Latin) : yatra-one-latin-regular
+Yellowtail Regular (Handwriting, Latin) : yellowtail-latin-regular
+Yeon Sung Regular (Display, Latin) : yeon-sung-latin-regular
+Yeseva One Regular (Display, Latin) : yeseva-one-latin-regular
+Yesteryear Regular (Handwriting, Latin) : yesteryear-latin-regular
+Yrsa Regular (Serif, Latin) : yrsa-latin-regular
+Zeyada Regular (Handwriting, Latin) : zeyada-latin-regular
+Zilla Slab Regular (Serif, Latin) : zilla-slab-latin-regular
+Zilla Slab Highlight Regular (Display, Latin) : zilla-slab-highlight-latin-regular
+Cooper Hewitt Regular (Sans-Serif, Latin) : cooper-hewitt-latin-regular
+Cooper Hewitt Bold (Sans-Serif, Latin) : cooper-hewitt-latin-700
+Cooper Hewitt Bold Italic (Sans-Serif, Latin) : cooper-hewitt-latin-700italic
+Cooper Hewitt Black (Sans-Serif, Latin) : cooper-hewitt-latin-900
+Cooper Hewitt Black Italic (Sans-Serif, Latin) : cooper-hewitt-latin-900italic
+Cooper Hewitt Light (Sans-Serif, Latin) : cooper-hewitt-latin-300
+Cooper Hewitt Light Italic (Sans-Serif, Latin) : cooper-hewitt-latin-300italic
+Cooper Hewitt Medium (Sans-Serif, Latin) : cooper-hewitt-latin-500
+Cooper Hewitt Medium Italic (Sans-Serif, Latin) : cooper-hewitt-latin-500italic
+Cooper Hewitt Semi Bold (Sans-Serif, Latin) : cooper-hewitt-latin-600
+Cooper Hewitt Semi Bold Italic (Sans-Serif, Latin) : cooper-hewitt-latin-600italic
+Cooper Hewitt Thin (Sans-Serif, Latin) : cooper-hewitt-latin-100
+Cooper Hewitt Thin Italic (Sans-Serif, Latin) : cooper-hewitt-latin-100italic
+Cooper Hewitt Italic (Sans-Serif, Latin) : cooper-hewitt-latin-italic
+Datalegreya Thin Regular (Sans-Serif, Latin Vietnamese) : datalegreya-thin-latin-vietnamese-regular
+Datalegreya Dot Regular (Sans-Serif, Latin Vietnamese) : datalegreya-dot-latin-vietnamese-regular
+Datalegreya Gradient Regular (Sans-Serif, Latin Vietnamese) : datalegreya-gradient-latin-vietnamese-regular
+Nemoy Bold (Display, Latin) : nemoy-latin-700
+Nemoy Light (Display, Latin) : nemoy-latin-300
+Nemoy Medium (Display, Latin) : nemoy-latin-500
+Avara Bold (Serif, Latin) : avara-latin-700
+Fantasque Sans Mono Regular (Monospace, Latin) : fantasque-sans-mono-latin-regular
+Fantasque Sans Mono Italic (Monospace, Latin) : fantasque-sans-mono-latin-italic
+Fantasque Sans Mono Bold (Monospace, Latin) : fantasque-sans-mono-latin-700
+Fantasque Sans Mono Bold Italic (Monospace, Latin) : fantasque-sans-mono-latin-700italic
+Beon Regular (Display, Latin) : beon-latin-regular
+Grundschrift Regular (Handwriting, Latin) : grundschrift-latin-regular
+Grundschrift Bold (Handwriting, Latin) : grundschrift-latin-700
+Grundschrift Light (Handwriting, Latin) : grundschrift-latin-300
+Grundschrift Kontur Regular (Handwriting, Latin) : grundschrift-kontur-latin-regular
+Grundschrift Punkt Regular (Handwriting, Latin) : grundschrift-light-latin-regular
+Waltograph Regular (Display, Latin) : waltograph-latin-regular
+Waltograph Bold (Display, Latin) : waltograph-latin-700
