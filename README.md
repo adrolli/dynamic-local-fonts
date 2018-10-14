@@ -45,11 +45,13 @@ Thanks a million to any font creator sharing his unique font. It is a pleasure t
 ## Todo
 
 - Add the subset fonts
+- Add Static CSS
+- Add Licenses
 - Add Font Library
-- Create the CSS code
-- Test (incl. font-weights)
+- Create dynamic CSS code (inline)
+- Create dynamic external CSS (optional)
+- Test (incl. font-weights + subsets)
 - What about CDN support?
-- Complete the fonts (900+++)
 - Make the dyna child-theme available
 - Write a blogpost about it
 - See what I can do with icon fonts
