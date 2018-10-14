@@ -18,19 +18,14 @@ Use it in your WordPress Plugin, Dyna or any other Starter Theme or in other CMS
 
 #### Get started
 
-1) Use the font-list copy to build your font-selector dropdown. I copied that in an ACF-Field that is used in Posts, Pages, Categories and other Taxonomies. That is extremely easy to do and to manage.
-
-2) Copy the code from functions.php into your functions.php (only WordPress of course).
-
-3) Copy the fonts-folder into your theme. You can clone it from Github.
-
-## Ideas, Contributions
-
-Need Composer or NPM? Want to add a font or features? No problem. Make an issue or PR.
+1) Use the file [font-list-copy.txt](font-list-copy.txt) to build your font-selector dropdown. You can use an ACF-field for that.
+2) Copy the code from [functions.php](functions.php) into your functions.php (only WordPress of course). - UNFINISHED WORK!
+3) Copy one or more fonts or even the complete webfonts-folder into your theme, plugin or web-project.
+4) Use the static code example [static.css](static.css) to use the fonts within your website or application. - UNFINISHED WORK!
 
 ## Licence
 
-This code is Open Source, licensed with [GNU General Public License v3.0](LICENSE). All used and included fonts are using following free licenses:
+All code is free under [GNU General Public License v3.0](LICENSE). All included fonts are free under one of these licenses:
 
 - [SIL Open Fonts License 1.1](https://opensource.org/licenses/OFL-1.1)
 - [Apache License V2.0](https://www.apache.org/licenses/LICENSE-2.0)
@@ -48,9 +43,13 @@ I need only latin fonts. For me there was no reason to add other charsets. I add
 
 Thanks a million to any font creator sharing his unique font. It is a pleasure to use so many different fonts to create cool blog articles and stunning travel stories. Thanks to [Google Fonts](https://fonts.google.com) and [Font Library](https://fontlibrary.org) for the free collections of beautiful fonts. Thanks Majodev for the helpful [Google Webfonts Helper API](https://github.com/majodev/google-webfonts-helper/). Thanks mum and dad for letting me learn this computer thing 30 years ago. Thanks Jana for letting me click click click while you sleep with earplugs.
 
+## Ideas, Contributions, Support
+
+Questions, ideas, need Composer or NPM? Want to add a font or features? No problem. Make an issue or craft a PR. I am happy to help you.
+
 ## Todo
 
-- Create the static CSS version
+- Create the static CSS version(S)
 - Create the dynamic CSS version
 - Create the full-dynamic ...???
 - Test (incl. font-weights)
