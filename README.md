@@ -1,6 +1,6 @@
 # Dynamic Local Fonts
 
-Using free fonts (Google Fonts and others) locally and dynamically.
+Using free fonts (Google Fonts and others) locally and dynamically. I use them directly in my WordPress Theme but you may do other fonty things.
 
 ## Why?
 
