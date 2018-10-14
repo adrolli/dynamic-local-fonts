@@ -3,21 +3,29 @@
 All fonts are available as Latin. For complete support of all available charsets, there are some fonts available with other charset combinations. These fonts are:
 
 ## Noto Sans
-- cyrillic/cyrillic-ext
+- cyrillic-ext/cyrillic
 - devanagari
 - greek/greek-ext
 - latin/latin-ext/vietnamese
 - latin
+
+## Noto Sans JP
 - japanese/latin
+
+## Noto Sans KR
 - korean/latin
 
 ## Noto Serif
-- cyrillic/cyrillic-ext
+- cyrillic-ext/cyrillic-ext
 - devanagari
 - greek/greek-ext
 - latin/latin-ext/vietnamese
 - latin
+
+## Noto Serif JP
 - japanese/latin
+
+## Noto Serif KR
 - korean/latin
 
 ## Open Sans
