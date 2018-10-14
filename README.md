@@ -44,6 +44,9 @@ Thanks a million to any font creator sharing his unique font. It is a pleasure t
 
 ## Todo
 
+- Add the subset fonts
+- Add Font Library
+- Create the CSS code
 - Test (incl. font-weights)
 - What about CDN support?
 - Complete the fonts (900+++)
