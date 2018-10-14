@@ -38,6 +38,10 @@ I hate Internet Explorer. I do not support older browser versions with TTF, SVG 
 
 I need only latin fonts. For me there was no reason to add other charsets. But it should be no problem to add cyrillic, greek, vietnamese or other charsets. Fork this repo and add the fonts with additional charsets. Adapt your code to select the fonts. Hey, it would be nice, if you create a PR for me to add this feature here.
 
+## Thanks
+
+Thanks a million to any font creator sharing his unique font. It is a pleasure to use so many different fonts to create cool blog articles and stunning travel stories. Thanks to Google and Font Library for the free collections of beautiful fonts. Thanks Majodev for the great Google Webfonts Helper API. Thanks mum and dad for letting me learn this computer thing 30 years ago. Thanks Jana for letting me click click click while you sleep with Oropax.
+
 ## Todo
 
 - Test (incl. font-weights)
