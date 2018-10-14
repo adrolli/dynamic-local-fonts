@@ -40,7 +40,9 @@ I need only latin fonts. For me there was no reason to add other charsets. But i
 
 ## Todo
 
-- Complete the list of fonts
-- Make the child-theme available
+- Test (incl. font-weights)
+- What about CDN support?
+- Complete the fonts (900+++)
+- Make the dyna child-theme available
 - Write a blogpost about it
 - See what I can do with icon fonts
