@@ -46,7 +46,7 @@ I need only latin fonts. For me there was no reason to add other charsets. I add
 
 ## Thanks
 
-Thanks a million to any font creator sharing his unique font. It is a pleasure to use so many different fonts to create cool blog articles and stunning travel stories. Thanks to [Google Fonts](https://fonts.google.com) and [Font Library](https://fontlibrary.org) for the free collections of beautiful fonts. Thanks Majodev for the helpful [Google Webfonts Helper API](https://github.com/majodev/google-webfonts-helper/). Thanks mum and dad for letting me learn this computer thing 30 years ago. Thanks Jana for letting me click click click while you sleep with Oropax.
+Thanks a million to any font creator sharing his unique font. It is a pleasure to use so many different fonts to create cool blog articles and stunning travel stories. Thanks to [Google Fonts](https://fonts.google.com) and [Font Library](https://fontlibrary.org) for the free collections of beautiful fonts. Thanks Majodev for the helpful [Google Webfonts Helper API](https://github.com/majodev/google-webfonts-helper/). Thanks mum and dad for letting me learn this computer thing 30 years ago. Thanks Jana for letting me click click click while you sleep with earplugs.
 
 ## Todo
 
