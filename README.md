@@ -50,20 +50,11 @@ Thanks a million to any font creator sharing his unique font. It is a pleasure t
 
 ## Todo
 
-<<<<<<< HEAD
-- Add Font Library
-- Add Font List CSV as working copy 
-- Create the CSS code
+- Create the static CSS version
+- Create the dynamic CSS version
+- Create the full-dynamic ...???
 - Test (incl. font-weights)
-=======
-- Add the subset fonts
-- Add Static CSS
-- Add Font Library
-- Create dynamic CSS code (inline)
-- Create dynamic external CSS (optional)
-- Test (incl. font-weights + subsets)
->>>>>>> 0c5757e1329c00d02790b767c04bb471afd1d6fa
 - What about CDN support?
 - Make the dyna child-theme available
 - Write a blogpost about it
-- See what I can do with icon fonts
+- Work with it & Showcase
