@@ -8,20 +8,22 @@ I love fonts. For my own project I wanted to use Google Fonts as well as some ic
 
 ## Usage
 
-### Use my WordPress Child Theme
+I use dynamic local fonts with my child-theme (will publish the code as soon as it is finished). You may adapt it to your own needs and use it in your WordPress Plugin, Dyna or any other Starter Theme or in other CMS or Frameworks.
 
-You may use my child theme (coming soon) as starting point or develop your own thing.
+### Get started using WordPress
 
-### With a WordPress Plugin, Starter Theme or other Websoftware
+1) Copy one, some or all fonts into your theme, plugin or web-project.
+2) Use (parts of) the file [font-list-copy.txt](font-list-copy.txt) to build your font-selector dropdown*.
+3) Copy the code from [functions.php](functions.php) into the functions.php of your child-theme.
+4) Copy the code from [header.php](header.php) into the header.php of your child theme.
 
-Use it in your WordPress Plugin, Dyna or any other Starter Theme or in other CMS or Frameworks.
+If you don't know how to create a dropdown within your posts, pages, custom post types, categories, tags or other taxonomies you may use Advanced Custom Fields. It is very easy to create a field named "font" and to use it as the above mentioned font-selector where ever you want to make fontastic things.
 
-#### Get started
+### Get started using $whatever
 
-1) Use the file [font-list-copy.txt](font-list-copy.txt) to build your font-selector dropdown. You can use an ACF-field for that.
-2) Copy the code from [functions.php](functions.php) into your functions.php (only WordPress of course).
-3) Copy one or more fonts or even the complete webfonts-folder into your theme, plugin or web-project.
-4) Use the static code example [static.css](static.css) to use the fonts within your website or application.
+1) Copy one, some or all fonts into your theme, plugin or web-project.
+2) Use (parts of) the file [font-list-copy.txt](font-list-copy.txt) to build your font-selector dropdown.
+3) Have a look at functions.php, header.php and the src-directory on how to write your dynamic font code. 
 
 ## Licence
 
@@ -43,13 +45,12 @@ I need only latin fonts. For me there was no reason to add other charsets. I add
 
 Thanks a million to any font creator sharing his unique font. It is a pleasure to use so many different fonts to create cool blog articles and stunning travel stories. Thanks to [Google Fonts](https://fonts.google.com) and [Font Library](https://fontlibrary.org) for the free collections of beautiful fonts. Thanks Majodev for the helpful [Google Webfonts Helper API](https://github.com/majodev/google-webfonts-helper/). Thanks mum and dad for letting me learn this computer thing 30 years ago. Thanks Jana for letting me click click click while you sleep with earplugs.
 
-## Ideas, Contributions, Support
+## Contributions, Support
 
 Questions, ideas, need Composer or NPM? Want to add a font or features? No problem. Make an issue or craft a PR. I am happy to help you.
 
-## Todo
+## Todo and ideas
 
-- Some Demo HTML and docs
 - Create dynamic CSS
 - Dyna child-theme
 - Font CDN Builder
