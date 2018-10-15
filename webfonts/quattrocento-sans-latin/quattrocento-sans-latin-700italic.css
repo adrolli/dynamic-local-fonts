@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Quattrocento Sans';
+    font-style: 'italic';
+    font-weight: 700;
+    src: local('Quattrocento Sans Bold Italic'), local('QuattrocentoSans-BoldItalic'),
+         url('quattrocento-sans-latin-700italic.woff2') format('woff2'),
+         url('quattrocento-sans-latin-700italic.woff') format('woff');
+}

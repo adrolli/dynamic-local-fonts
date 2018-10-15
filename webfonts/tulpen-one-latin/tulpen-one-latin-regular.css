@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Tulpen One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Tulpen One Regular'), local('TulpenOne-Regular'),
+         url('tulpen-one-latin-regular.woff2') format('woff2'),
+         url('tulpen-one-latin-regular.woff') format('woff');
+}

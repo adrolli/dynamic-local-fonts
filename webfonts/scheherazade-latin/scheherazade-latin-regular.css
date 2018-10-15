@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Scheherazade';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Scheherazade Regular'), local('Scheherazade-Regular'),
+         url('scheherazade-latin-regular.woff2') format('woff2'),
+         url('scheherazade-latin-regular.woff') format('woff');
+}

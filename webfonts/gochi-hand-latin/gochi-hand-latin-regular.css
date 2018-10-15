@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gochi Hand';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gochi Hand Regular'), local('GochiHand-Regular'),
+         url('gochi-hand-latin-regular.woff2') format('woff2'),
+         url('gochi-hand-latin-regular.woff') format('woff');
+}

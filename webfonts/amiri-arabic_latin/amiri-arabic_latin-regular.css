@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Amiri';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Amiri Regular'), local('Amiri-Regular'),
+         url('amiri-arabic_latin-regular.woff2') format('woff2'),
+         url('amiri-arabic_latin-regular.woff') format('woff');
+}

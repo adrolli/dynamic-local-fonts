@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lato';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Lato Black Italic'), local('Lato-BlackItalic'),
+         url('lato-latin-900italic.woff2') format('woff2'),
+         url('lato-latin-900italic.woff') format('woff');
+}

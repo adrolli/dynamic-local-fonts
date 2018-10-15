@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fasthand';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fasthand Regular'), local('Fasthand-Regular'),
+         url('fasthand-khmer-regular.woff2') format('woff2'),
+         url('fasthand-khmer-regular.woff') format('woff');
+}

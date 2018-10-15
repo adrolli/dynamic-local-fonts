@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Montez';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Montez Regular'), local('Montez-Regular'),
+         url('montez-latin-regular.woff2') format('woff2'),
+         url('montez-latin-regular.woff') format('woff');
+}

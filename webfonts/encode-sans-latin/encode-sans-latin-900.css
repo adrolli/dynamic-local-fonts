@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Encode Sans';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Encode Sans Black'), local('EncodeSans-Black'),
+         url('encode-sans-latin-900.woff2') format('woff2'),
+         url('encode-sans-latin-900.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Macondo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Macondo Regular'), local('Macondo-Regular'),
+         url('macondo-latin-regular.woff2') format('woff2'),
+         url('macondo-latin-regular.woff') format('woff');
+}

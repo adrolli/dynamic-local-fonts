@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: 'italic';
+    font-weight: 700;
+    src: local('Bai Jamjuree Bold Italic'), local('BaiJamjuree-BoldItalic'),
+         url('bai-jamjuree-latin-700italic.woff2') format('woff2'),
+         url('bai-jamjuree-latin-700italic.woff') format('woff');
+}

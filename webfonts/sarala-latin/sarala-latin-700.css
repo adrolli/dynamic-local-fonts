@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sarala';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Sarala Bold'), local('Sarala-Bold'),
+         url('sarala-latin-700.woff2') format('woff2'),
+         url('sarala-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Open Sans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'),
+         url('open-sans-greek-ext-regular.woff2') format('woff2'),
+         url('open-sans-greek-ext-regular.woff') format('woff');
+}

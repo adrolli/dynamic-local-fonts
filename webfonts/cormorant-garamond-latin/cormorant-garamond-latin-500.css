@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cormorant Garamond';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Cormorant Garamond Medium'), local('CormorantGaramond-Medium'),
+         url('cormorant-garamond-latin-500.woff2') format('woff2'),
+         url('cormorant-garamond-latin-500.woff') format('woff');
+}

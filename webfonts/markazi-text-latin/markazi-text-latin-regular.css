@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Markazi Text';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Markazi Text Regular'), local('MarkaziText-Regular'),
+         url('markazi-text-latin-regular.woff2') format('woff2'),
+         url('markazi-text-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Wendy One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Wendy One Regular'), local('WendyOne-Regular'),
+         url('wendy-one-latin-regular.woff2') format('woff2'),
+         url('wendy-one-latin-regular.woff') format('woff');
+}

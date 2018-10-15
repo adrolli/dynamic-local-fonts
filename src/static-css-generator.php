@@ -2,30 +2,33 @@
 /**
  * Read the font csv and create individual css-files for each font.
  * Really simple code. Just a 10 minutes job, not for production!
+ * 
+ * Delete *.css in the webfonts-folder before using this script.
  */
 
 $row = 1;
 if (($handle = fopen("all-fonts.csv", "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
         $num = count($data);
-        echo "<p> $num fields in line $row: <br /></p>\n";
+        $counter = $row;
         $row++;
         for ($c=0; $c < $num; $c++) {
-            echo $data[$c] . "<br />\n";
+
+            // split the row into four values
             $datarray = explode( ";", $data[$c]);
             $slug =  $datarray[0];
             $family = $datarray[1];
             $type = $datarray[2];
             $subset = $datarray[3];
 
-            // italic or normal?
+            // italic or normal
             if (strpos($type, 'italic') !== false) {
                 $style = 'italic';
             } else {
                 $style = 'normal';
             }
 
-            // font weight?
+            // font weight and font style
             if (strpos($type, '100') !== false) {
                 $weight = '100';
                 $bstyle = 'Thin';
@@ -55,36 +58,38 @@ if (($handle = fopen("all-fonts.csv", "r")) !== FALSE) {
                 $bstyle = 'Black';
             }
 
+            // add italic to the style
             if ( $style == "italic" ) {
                 $bstyle = $bstyle . " " . ucfirst($style);
             }
 
+            // build the local font names and the url
             $local1 = $family . " " . $bstyle; // Abhaya Libre Regular
             $local2 = str_replace( " ", "", $family ) . "-" . str_replace( " ", "", $bstyle ); // AbhayaLibre-Regular
             $url = $slug . "-" . $subset . "-" . $type; // abhaya-libre-latin/abhaya-libre-latin-regular
 
-            // Create a css-file in every webfonts-folder
-            $template = "
-            @font-face {
-                font-family: '" . $family . "';
-                font-style: '" . $style . "';
-                font-weight: " . $weight . ";
-                src: local('" . $local1 . "'), local('" . $local2 . "'),
-                    url('" . $url . ".woff2') format('woff2'),
-                    url('" . $url . ".woff') format('woff');
-            </pre>
-                }";
+            // build the css-template with all values
+            $template = "@font-face {
+    font-family: '" . $family . "';
+    font-style: '" . $style . "';
+    font-weight: " . $weight . ";
+    src: local('" . $local1 . "'), local('" . $local2 . "'),
+         url('" . $url . ".woff2') format('woff2'),
+         url('" . $url . ".woff') format('woff');
+}";
 
+            // css-filename and path to be created
+            $file = "../webfonts/" . $slug . "-" . "$subset" . "/" . $slug . "-" . $subset . "-" . $type . ".css";
+            
+            // See what is written to file
+            echo "<h2> ( " . $counter . " ) - <a href='static-css-tester.php?font=" . $family . "&style=" . $bstyle . "&file=" . $file . "' target='_blank'>" . $local1 . "</a> " . $subset . "</h2>";            
+            echo "<p>Based on data: <b>$data[$c]</b> we create the CSS-File <b><a href='$file' target='_blank'>$file</a></b> with following contents:";
             echo "<pre>" . $template . "</pre>";
-
-            // Warning: fopen failed to open stream: Protocol error
-            $file = "C:\\Users\\alf\\Local Sites\\catch-life\\app\\public\\wp-content\\themes\\dyna-custom\\fonts\\webfonts\\" . $slug . "-" . "$subset" . "\\fontload.css";
-
-            echo "<p>Creating CSS-File " . $file;
-
-            $cssfile = fopen($file,"w");
-            echo fwrite($datei, $template,100);
-            fclose($cssfile);
+            
+             // Create a css-file for every font-variant
+             //$cssfile = fopen($file,"w");
+             //echo fwrite($cssfile, $template);
+             //fclose($cssfile);
         }
     }
     fclose($handle);

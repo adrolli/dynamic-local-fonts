@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Over the Rainbow';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Over the Rainbow Regular'), local('OvertheRainbow-Regular'),
+         url('over-the-rainbow-latin-regular.woff2') format('woff2'),
+         url('over-the-rainbow-latin-regular.woff') format('woff');
+}

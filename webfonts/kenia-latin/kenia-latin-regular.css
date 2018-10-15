@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kenia';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kenia Regular'), local('Kenia-Regular'),
+         url('kenia-latin-regular.woff2') format('woff2'),
+         url('kenia-latin-regular.woff') format('woff');
+}

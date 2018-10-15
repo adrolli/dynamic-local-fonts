@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cookie';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Cookie Regular'), local('Cookie-Regular'),
+         url('cookie-latin-regular.woff2') format('woff2'),
+         url('cookie-latin-regular.woff') format('woff');
+}

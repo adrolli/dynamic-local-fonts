@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Palanquin';
+    font-style: 'normal';
+    font-weight: 100;
+    src: local('Palanquin Thin'), local('Palanquin-Thin'),
+         url('palanquin-latin-100.woff2') format('woff2'),
+         url('palanquin-latin-100.woff') format('woff');
+}

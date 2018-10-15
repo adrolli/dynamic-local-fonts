@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bayon';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bayon Regular'), local('Bayon-Regular'),
+         url('bayon-khmer-regular.woff2') format('woff2'),
+         url('bayon-khmer-regular.woff') format('woff');
+}

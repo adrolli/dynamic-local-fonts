@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hind Siliguri';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Hind Siliguri Regular'), local('HindSiliguri-Regular'),
+         url('hind-siliguri-latin_bengali-regular.woff2') format('woff2'),
+         url('hind-siliguri-latin_bengali-regular.woff') format('woff');
+}

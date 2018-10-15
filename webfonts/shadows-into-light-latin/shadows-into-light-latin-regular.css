@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Shadows Into Light';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Shadows Into Light Regular'), local('ShadowsIntoLight-Regular'),
+         url('shadows-into-light-latin-regular.woff2') format('woff2'),
+         url('shadows-into-light-latin-regular.woff') format('woff');
+}

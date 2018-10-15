@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arimo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Arimo Regular'), local('Arimo-Regular'),
+         url('arimo-latin-regular.woff2') format('woff2'),
+         url('arimo-latin-regular.woff') format('woff');
+}

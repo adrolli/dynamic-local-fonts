@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kranky';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kranky Regular'), local('Kranky-Regular'),
+         url('kranky-latin-regular.woff2') format('woff2'),
+         url('kranky-latin-regular.woff') format('woff');
+}

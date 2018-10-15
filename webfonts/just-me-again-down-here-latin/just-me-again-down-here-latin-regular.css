@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Just Me Again Down Here';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Just Me Again Down Here Regular'), local('JustMeAgainDownHere-Regular'),
+         url('just-me-again-down-here-latin-regular.woff2') format('woff2'),
+         url('just-me-again-down-here-latin-regular.woff') format('woff');
+}

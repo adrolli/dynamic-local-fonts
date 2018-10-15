@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Timmana';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Timmana Regular'), local('Timmana-Regular'),
+         url('timmana-latin-regular.woff2') format('woff2'),
+         url('timmana-latin-regular.woff') format('woff');
+}

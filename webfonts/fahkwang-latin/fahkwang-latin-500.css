@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fahkwang';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Fahkwang Medium'), local('Fahkwang-Medium'),
+         url('fahkwang-latin-500.woff2') format('woff2'),
+         url('fahkwang-latin-500.woff') format('woff');
+}

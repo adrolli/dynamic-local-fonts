@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Proza Libre';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Proza Libre Medium'), local('ProzaLibre-Medium'),
+         url('proza-libre-latin-500.woff2') format('woff2'),
+         url('proza-libre-latin-500.woff') format('woff');
+}

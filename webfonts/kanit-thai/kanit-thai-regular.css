@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kanit';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kanit Regular'), local('Kanit-Regular'),
+         url('kanit-thai-regular.woff2') format('woff2'),
+         url('kanit-thai-regular.woff') format('woff');
+}

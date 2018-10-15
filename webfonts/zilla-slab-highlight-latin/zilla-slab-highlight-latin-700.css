@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Zilla Slab Highlight';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Zilla Slab Highlight Bold'), local('ZillaSlabHighlight-Bold'),
+         url('zilla-slab-highlight-latin-700.woff2') format('woff2'),
+         url('zilla-slab-highlight-latin-700.woff') format('woff');
+}

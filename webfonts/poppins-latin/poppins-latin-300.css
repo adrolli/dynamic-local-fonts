@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Poppins Light'), local('Poppins-Light'),
+         url('poppins-latin-300.woff2') format('woff2'),
+         url('poppins-latin-300.woff') format('woff');
+}

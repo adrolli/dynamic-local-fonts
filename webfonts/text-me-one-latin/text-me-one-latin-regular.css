@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Text Me One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Text Me One Regular'), local('TextMeOne-Regular'),
+         url('text-me-one-latin-regular.woff2') format('woff2'),
+         url('text-me-one-latin-regular.woff') format('woff');
+}

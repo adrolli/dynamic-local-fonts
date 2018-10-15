@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Martel Sans';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Martel Sans Light'), local('MartelSans-Light'),
+         url('martel-sans-latin-300.woff2') format('woff2'),
+         url('martel-sans-latin-300.woff') format('woff');
+}

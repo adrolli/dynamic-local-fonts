@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PT Sans';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('PT Sans Black Italic'), local('PTSans-BlackItalic'),
+         url('pt-sans-latin-italic.woff2') format('woff2'),
+         url('pt-sans-latin-italic.woff') format('woff');
+}

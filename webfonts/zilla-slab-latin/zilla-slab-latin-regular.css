@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Zilla Slab Regular'), local('ZillaSlab-Regular'),
+         url('zilla-slab-latin-regular.woff2') format('woff2'),
+         url('zilla-slab-latin-regular.woff') format('woff');
+}

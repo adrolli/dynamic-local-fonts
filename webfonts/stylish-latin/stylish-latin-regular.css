@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Stylish';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Stylish Regular'), local('Stylish-Regular'),
+         url('stylish-latin-regular.woff2') format('woff2'),
+         url('stylish-latin-regular.woff') format('woff');
+}

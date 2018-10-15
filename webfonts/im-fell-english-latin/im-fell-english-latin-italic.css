@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IM Fell English';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('IM Fell English Black Italic'), local('IMFellEnglish-BlackItalic'),
+         url('im-fell-english-latin-italic.woff2') format('woff2'),
+         url('im-fell-english-latin-italic.woff') format('woff');
+}

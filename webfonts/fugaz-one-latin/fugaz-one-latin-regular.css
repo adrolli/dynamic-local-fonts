@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fugaz One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fugaz One Regular'), local('FugazOne-Regular'),
+         url('fugaz-one-latin-regular.woff2') format('woff2'),
+         url('fugaz-one-latin-regular.woff') format('woff');
+}

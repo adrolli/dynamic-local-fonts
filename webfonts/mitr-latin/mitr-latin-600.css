@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mitr';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Mitr SemiBold'), local('Mitr-SemiBold'),
+         url('mitr-latin-600.woff2') format('woff2'),
+         url('mitr-latin-600.woff') format('woff');
+}

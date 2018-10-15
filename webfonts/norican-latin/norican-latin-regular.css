@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Norican';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Norican Regular'), local('Norican-Regular'),
+         url('norican-latin-regular.woff2') format('woff2'),
+         url('norican-latin-regular.woff') format('woff');
+}

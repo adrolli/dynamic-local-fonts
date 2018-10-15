@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Spectral SC';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Spectral SC ExtraLight'), local('SpectralSC-ExtraLight'),
+         url('spectral-sc-latin-200.woff2') format('woff2'),
+         url('spectral-sc-latin-200.woff') format('woff');
+}

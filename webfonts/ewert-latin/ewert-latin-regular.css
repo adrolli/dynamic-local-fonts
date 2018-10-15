@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ewert';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ewert Regular'), local('Ewert-Regular'),
+         url('ewert-latin-regular.woff2') format('woff2'),
+         url('ewert-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mate';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mate Regular'), local('Mate-Regular'),
+         url('mate-latin-regular.woff2') format('woff2'),
+         url('mate-latin-regular.woff') format('woff');
+}

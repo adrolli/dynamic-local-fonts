@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Englebert';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Englebert Regular'), local('Englebert-Regular'),
+         url('englebert-latin-regular.woff2') format('woff2'),
+         url('englebert-latin-regular.woff') format('woff');
+}

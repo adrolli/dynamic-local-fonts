@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Baloo Da';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Baloo Da Regular'), local('BalooDa-Regular'),
+         url('baloo-da-latin-regular.woff2') format('woff2'),
+         url('baloo-da-latin-regular.woff') format('woff');
+}

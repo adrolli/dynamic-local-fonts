@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hind';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Hind Regular'), local('Hind-Regular'),
+         url('hind-latin-regular.woff2') format('woff2'),
+         url('hind-latin-regular.woff') format('woff');
+}

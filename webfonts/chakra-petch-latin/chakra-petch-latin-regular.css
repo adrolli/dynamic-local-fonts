@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chakra Petch';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Chakra Petch Regular'), local('ChakraPetch-Regular'),
+         url('chakra-petch-latin-regular.woff2') format('woff2'),
+         url('chakra-petch-latin-regular.woff') format('woff');
+}

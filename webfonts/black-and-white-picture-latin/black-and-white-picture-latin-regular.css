@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Black And White Picture';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Black And White Picture Regular'), local('BlackAndWhitePicture-Regular'),
+         url('black-and-white-picture-latin-regular.woff2') format('woff2'),
+         url('black-and-white-picture-latin-regular.woff') format('woff');
+}

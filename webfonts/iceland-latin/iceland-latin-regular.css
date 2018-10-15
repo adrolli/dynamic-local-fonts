@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Iceland';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Iceland Regular'), local('Iceland-Regular'),
+         url('iceland-latin-regular.woff2') format('woff2'),
+         url('iceland-latin-regular.woff') format('woff');
+}

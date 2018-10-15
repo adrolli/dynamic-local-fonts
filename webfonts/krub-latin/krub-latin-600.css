@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Krub';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Krub SemiBold'), local('Krub-SemiBold'),
+         url('krub-latin-600.woff2') format('woff2'),
+         url('krub-latin-600.woff') format('woff');
+}

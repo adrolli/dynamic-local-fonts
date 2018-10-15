@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sura';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sura Regular'), local('Sura-Regular'),
+         url('sura-latin-regular.woff2') format('woff2'),
+         url('sura-latin-regular.woff') format('woff');
+}

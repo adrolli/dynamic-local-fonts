@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kanit';
+    font-style: 'italic';
+    font-weight: 800;
+    src: local('Kanit ExtraBold Italic'), local('Kanit-ExtraBoldItalic'),
+         url('kanit-thai_latin-800italic.woff2') format('woff2'),
+         url('kanit-thai_latin-800italic.woff') format('woff');
+}

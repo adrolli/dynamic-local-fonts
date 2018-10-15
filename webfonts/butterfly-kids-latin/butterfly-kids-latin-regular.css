@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Butterfly Kids';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Butterfly Kids Regular'), local('ButterflyKids-Regular'),
+         url('butterfly-kids-latin-regular.woff2') format('woff2'),
+         url('butterfly-kids-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Share';
+    font-style: 'italic';
+    font-weight: 700;
+    src: local('Share Bold Italic'), local('Share-BoldItalic'),
+         url('share-latin-700italic.woff2') format('woff2'),
+         url('share-latin-700italic.woff') format('woff');
+}

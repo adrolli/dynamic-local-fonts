@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Italianno';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Italianno Regular'), local('Italianno-Regular'),
+         url('italianno-latin-regular.woff2') format('woff2'),
+         url('italianno-latin-regular.woff') format('woff');
+}

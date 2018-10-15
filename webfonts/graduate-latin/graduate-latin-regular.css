@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Graduate';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Graduate Regular'), local('Graduate-Regular'),
+         url('graduate-latin-regular.woff2') format('woff2'),
+         url('graduate-latin-regular.woff') format('woff');
+}

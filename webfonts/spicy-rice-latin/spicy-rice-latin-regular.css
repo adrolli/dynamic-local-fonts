@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Spicy Rice';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Spicy Rice Regular'), local('SpicyRice-Regular'),
+         url('spicy-rice-latin-regular.woff2') format('woff2'),
+         url('spicy-rice-latin-regular.woff') format('woff');
+}

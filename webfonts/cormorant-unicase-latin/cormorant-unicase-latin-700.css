@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cormorant Unicase';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Cormorant Unicase Bold'), local('CormorantUnicase-Bold'),
+         url('cormorant-unicase-latin-700.woff2') format('woff2'),
+         url('cormorant-unicase-latin-700.woff') format('woff');
+}

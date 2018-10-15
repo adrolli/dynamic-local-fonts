@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dekko';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Dekko Regular'), local('Dekko-Regular'),
+         url('dekko-latin-regular.woff2') format('woff2'),
+         url('dekko-latin-regular.woff') format('woff');
+}

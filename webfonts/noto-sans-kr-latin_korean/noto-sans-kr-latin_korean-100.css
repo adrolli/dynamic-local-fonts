@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: 'normal';
+    font-weight: 100;
+    src: local('Noto Sans KR Thin'), local('NotoSansKR-Thin'),
+         url('noto-sans-kr-latin_korean-100.woff2') format('woff2'),
+         url('noto-sans-kr-latin_korean-100.woff') format('woff');
+}

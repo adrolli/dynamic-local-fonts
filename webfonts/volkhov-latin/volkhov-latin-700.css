@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Volkhov';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Volkhov Bold'), local('Volkhov-Bold'),
+         url('volkhov-latin-700.woff2') format('woff2'),
+         url('volkhov-latin-700.woff') format('woff');
+}

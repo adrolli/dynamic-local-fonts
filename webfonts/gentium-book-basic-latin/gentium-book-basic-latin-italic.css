@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gentium Book Basic';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Gentium Book Basic Black Italic'), local('GentiumBookBasic-BlackItalic'),
+         url('gentium-book-basic-latin-italic.woff2') format('woff2'),
+         url('gentium-book-basic-latin-italic.woff') format('woff');
+}

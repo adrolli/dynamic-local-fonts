@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Stalinist One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Stalinist One Regular'), local('StalinistOne-Regular'),
+         url('stalinist-one-latin-regular.woff2') format('woff2'),
+         url('stalinist-one-latin-regular.woff') format('woff');
+}

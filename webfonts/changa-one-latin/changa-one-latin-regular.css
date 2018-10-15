@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Changa One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Changa One Regular'), local('ChangaOne-Regular'),
+         url('changa-one-latin-regular.woff2') format('woff2'),
+         url('changa-one-latin-regular.woff') format('woff');
+}

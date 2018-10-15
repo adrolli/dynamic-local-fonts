@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Baloo Bhai';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Baloo Bhai Regular'), local('BalooBhai-Regular'),
+         url('baloo-bhai-latin-regular.woff2') format('woff2'),
+         url('baloo-bhai-latin-regular.woff') format('woff');
+}

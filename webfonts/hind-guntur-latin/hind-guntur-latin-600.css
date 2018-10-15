@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hind Guntur';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Hind Guntur SemiBold'), local('HindGuntur-SemiBold'),
+         url('hind-guntur-latin-600.woff2') format('woff2'),
+         url('hind-guntur-latin-600.woff') format('woff');
+}

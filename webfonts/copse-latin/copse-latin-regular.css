@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Copse';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Copse Regular'), local('Copse-Regular'),
+         url('copse-latin-regular.woff2') format('woff2'),
+         url('copse-latin-regular.woff') format('woff');
+}

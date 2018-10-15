@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bungee Hairline';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bungee Hairline Regular'), local('BungeeHairline-Regular'),
+         url('bungee-hairline-latin-regular.woff2') format('woff2'),
+         url('bungee-hairline-latin-regular.woff') format('woff');
+}

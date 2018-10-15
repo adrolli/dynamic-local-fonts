@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Karma';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Karma Regular'), local('Karma-Regular'),
+         url('karma-latin-regular.woff2') format('woff2'),
+         url('karma-latin-regular.woff') format('woff');
+}

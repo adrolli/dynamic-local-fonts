@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Armata';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Armata Regular'), local('Armata-Regular'),
+         url('armata-latin-regular.woff2') format('woff2'),
+         url('armata-latin-regular.woff') format('woff');
+}

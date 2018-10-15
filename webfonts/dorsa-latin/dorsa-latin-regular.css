@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dorsa';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Dorsa Regular'), local('Dorsa-Regular'),
+         url('dorsa-latin-regular.woff2') format('woff2'),
+         url('dorsa-latin-regular.woff') format('woff');
+}

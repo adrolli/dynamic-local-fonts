@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Glass Antiqua';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Glass Antiqua Regular'), local('GlassAntiqua-Regular'),
+         url('glass-antiqua-latin-regular.woff2') format('woff2'),
+         url('glass-antiqua-latin-regular.woff') format('woff');
+}

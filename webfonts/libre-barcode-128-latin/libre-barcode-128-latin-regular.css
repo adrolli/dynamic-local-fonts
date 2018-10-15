@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Libre Barcode 128';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Libre Barcode 128 Regular'), local('LibreBarcode128-Regular'),
+         url('libre-barcode-128-latin-regular.woff2') format('woff2'),
+         url('libre-barcode-128-latin-regular.woff') format('woff');
+}

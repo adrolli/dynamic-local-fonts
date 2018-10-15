@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Leckerli One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Leckerli One Regular'), local('LeckerliOne-Regular'),
+         url('leckerli-one-latin-regular.woff2') format('woff2'),
+         url('leckerli-one-latin-regular.woff') format('woff');
+}

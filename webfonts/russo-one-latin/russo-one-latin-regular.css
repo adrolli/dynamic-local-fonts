@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Russo One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Russo One Regular'), local('RussoOne-Regular'),
+         url('russo-one-latin-regular.woff2') format('woff2'),
+         url('russo-one-latin-regular.woff') format('woff');
+}

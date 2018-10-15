@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IBM Plex Sans';
+    font-style: 'italic';
+    font-weight: 200;
+    src: local('IBM Plex Sans ExtraLight Italic'), local('IBMPlexSans-ExtraLightItalic'),
+         url('ibm-plex-sans-latin-200italic.woff2') format('woff2'),
+         url('ibm-plex-sans-latin-200italic.woff') format('woff');
+}

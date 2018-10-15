@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Merriweather Sans';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Merriweather Sans Black Italic'), local('MerriweatherSans-BlackItalic'),
+         url('merriweather-sans-latin-italic.woff2') format('woff2'),
+         url('merriweather-sans-latin-italic.woff') format('woff');
+}

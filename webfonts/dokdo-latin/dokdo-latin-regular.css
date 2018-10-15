@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dokdo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Dokdo Regular'), local('Dokdo-Regular'),
+         url('dokdo-latin-regular.woff2') format('woff2'),
+         url('dokdo-latin-regular.woff') format('woff');
+}

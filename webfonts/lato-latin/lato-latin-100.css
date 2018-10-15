@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lato';
+    font-style: 'normal';
+    font-weight: 100;
+    src: local('Lato Thin'), local('Lato-Thin'),
+         url('lato-latin-100.woff2') format('woff2'),
+         url('lato-latin-100.woff') format('woff');
+}

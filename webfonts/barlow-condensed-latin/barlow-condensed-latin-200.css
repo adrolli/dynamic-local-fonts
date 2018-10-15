@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Barlow Condensed';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Barlow Condensed ExtraLight'), local('BarlowCondensed-ExtraLight'),
+         url('barlow-condensed-latin-200.woff2') format('woff2'),
+         url('barlow-condensed-latin-200.woff') format('woff');
+}

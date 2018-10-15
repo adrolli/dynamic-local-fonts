@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mukta';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Mukta ExtraLight'), local('Mukta-ExtraLight'),
+         url('mukta-latin-200.woff2') format('woff2'),
+         url('mukta-latin-200.woff') format('woff');
+}

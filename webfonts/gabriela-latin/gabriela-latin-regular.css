@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gabriela';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gabriela Regular'), local('Gabriela-Regular'),
+         url('gabriela-latin-regular.woff2') format('woff2'),
+         url('gabriela-latin-regular.woff') format('woff');
+}

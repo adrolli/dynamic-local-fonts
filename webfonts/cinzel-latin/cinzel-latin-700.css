@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cinzel';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Cinzel Bold'), local('Cinzel-Bold'),
+         url('cinzel-latin-700.woff2') format('woff2'),
+         url('cinzel-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Baloo Bhaina';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Baloo Bhaina Regular'), local('BalooBhaina-Regular'),
+         url('baloo-bhaina-oriya_latin-ext_latin_vietnamese-regular.woff2') format('woff2'),
+         url('baloo-bhaina-oriya_latin-ext_latin_vietnamese-regular.woff') format('woff');
+}

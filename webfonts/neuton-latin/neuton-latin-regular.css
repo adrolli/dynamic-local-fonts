@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Neuton';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Neuton Regular'), local('Neuton-Regular'),
+         url('neuton-latin-regular.woff2') format('woff2'),
+         url('neuton-latin-regular.woff') format('woff');
+}

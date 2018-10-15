@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sorts Mill Goudy';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sorts Mill Goudy Regular'), local('SortsMillGoudy-Regular'),
+         url('sorts-mill-goudy-latin-regular.woff2') format('woff2'),
+         url('sorts-mill-goudy-latin-regular.woff') format('woff');
+}

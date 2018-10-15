@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Itim';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Itim Regular'), local('Itim-Regular'),
+         url('itim-thai_latin-regular.woff2') format('woff2'),
+         url('itim-thai_latin-regular.woff') format('woff');
+}

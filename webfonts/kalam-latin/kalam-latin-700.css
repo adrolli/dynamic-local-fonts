@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kalam';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Kalam Bold'), local('Kalam-Bold'),
+         url('kalam-latin-700.woff2') format('woff2'),
+         url('kalam-latin-700.woff') format('woff');
+}

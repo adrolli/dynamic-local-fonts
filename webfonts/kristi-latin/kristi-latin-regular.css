@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kristi';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kristi Regular'), local('Kristi-Regular'),
+         url('kristi-latin-regular.woff2') format('woff2'),
+         url('kristi-latin-regular.woff') format('woff');
+}

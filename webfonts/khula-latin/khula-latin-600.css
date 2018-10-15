@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Khula';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Khula SemiBold'), local('Khula-SemiBold'),
+         url('khula-latin-600.woff2') format('woff2'),
+         url('khula-latin-600.woff') format('woff');
+}

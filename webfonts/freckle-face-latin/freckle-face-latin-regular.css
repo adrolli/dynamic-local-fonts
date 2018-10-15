@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Freckle Face';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Freckle Face Regular'), local('FreckleFace-Regular'),
+         url('freckle-face-latin-regular.woff2') format('woff2'),
+         url('freckle-face-latin-regular.woff') format('woff');
+}

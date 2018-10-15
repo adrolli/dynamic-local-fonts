@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Nanum Myeongjo Bold'), local('NanumMyeongjo-Bold'),
+         url('nanum-myeongjo-latin-700.woff2') format('woff2'),
+         url('nanum-myeongjo-latin-700.woff') format('woff');
+}

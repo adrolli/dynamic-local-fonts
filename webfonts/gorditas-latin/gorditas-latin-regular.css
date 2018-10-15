@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gorditas';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gorditas Regular'), local('Gorditas-Regular'),
+         url('gorditas-latin-regular.woff2') format('woff2'),
+         url('gorditas-latin-regular.woff') format('woff');
+}

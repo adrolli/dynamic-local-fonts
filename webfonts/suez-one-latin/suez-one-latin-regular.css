@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Suez One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Suez One Regular'), local('SuezOne-Regular'),
+         url('suez-one-latin-regular.woff2') format('woff2'),
+         url('suez-one-latin-regular.woff') format('woff');
+}

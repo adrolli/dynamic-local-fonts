@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'K2D';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('K2D Bold'), local('K2D-Bold'),
+         url('k2d-latin-700.woff2') format('woff2'),
+         url('k2d-latin-700.woff') format('woff');
+}

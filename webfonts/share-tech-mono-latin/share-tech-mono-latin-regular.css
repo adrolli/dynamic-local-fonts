@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Share Tech Mono';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Share Tech Mono Regular'), local('ShareTechMono-Regular'),
+         url('share-tech-mono-latin-regular.woff2') format('woff2'),
+         url('share-tech-mono-latin-regular.woff') format('woff');
+}

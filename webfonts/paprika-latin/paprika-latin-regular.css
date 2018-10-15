@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Paprika';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Paprika Regular'), local('Paprika-Regular'),
+         url('paprika-latin-regular.woff2') format('woff2'),
+         url('paprika-latin-regular.woff') format('woff');
+}

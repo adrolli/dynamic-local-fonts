@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lilita One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Lilita One Regular'), local('LilitaOne-Regular'),
+         url('lilita-one-latin-regular.woff2') format('woff2'),
+         url('lilita-one-latin-regular.woff') format('woff');
+}

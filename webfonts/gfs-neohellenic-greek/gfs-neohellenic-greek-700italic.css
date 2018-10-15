@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'GFS Neohellenic';
+    font-style: 'italic';
+    font-weight: 700;
+    src: local('GFS Neohellenic Bold Italic'), local('GFSNeohellenic-BoldItalic'),
+         url('gfs-neohellenic-greek-700italic.woff2') format('woff2'),
+         url('gfs-neohellenic-greek-700italic.woff') format('woff');
+}

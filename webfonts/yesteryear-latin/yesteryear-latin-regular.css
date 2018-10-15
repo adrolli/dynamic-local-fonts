@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Yesteryear';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Yesteryear Regular'), local('Yesteryear-Regular'),
+         url('yesteryear-latin-regular.woff2') format('woff2'),
+         url('yesteryear-latin-regular.woff') format('woff');
+}

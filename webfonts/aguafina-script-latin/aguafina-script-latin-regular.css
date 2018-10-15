@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Aguafina Script';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Aguafina Script Regular'), local('AguafinaScript-Regular'),
+         url('aguafina-script-latin-regular.woff2') format('woff2'),
+         url('aguafina-script-latin-regular.woff') format('woff');
+}

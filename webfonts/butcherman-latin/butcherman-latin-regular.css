@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Butcherman';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Butcherman Regular'), local('Butcherman-Regular'),
+         url('butcherman-latin-regular.woff2') format('woff2'),
+         url('butcherman-latin-regular.woff') format('woff');
+}

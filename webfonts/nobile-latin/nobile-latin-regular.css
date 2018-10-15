@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nobile';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Nobile Regular'), local('Nobile-Regular'),
+         url('nobile-latin-regular.woff2') format('woff2'),
+         url('nobile-latin-regular.woff') format('woff');
+}

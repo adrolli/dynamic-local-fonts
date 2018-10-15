@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Source Code Pro ExtraLight'), local('SourceCodePro-ExtraLight'),
+         url('source-code-pro-latin-200.woff2') format('woff2'),
+         url('source-code-pro-latin-200.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kumar One Outline';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kumar One Outline Regular'), local('KumarOneOutline-Regular'),
+         url('kumar-one-outline-latin-regular.woff2') format('woff2'),
+         url('kumar-one-outline-latin-regular.woff') format('woff');
+}

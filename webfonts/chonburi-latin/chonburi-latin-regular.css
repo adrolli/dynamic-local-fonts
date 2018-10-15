@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chonburi';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Chonburi Regular'), local('Chonburi-Regular'),
+         url('chonburi-latin-regular.woff2') format('woff2'),
+         url('chonburi-latin-regular.woff') format('woff');
+}

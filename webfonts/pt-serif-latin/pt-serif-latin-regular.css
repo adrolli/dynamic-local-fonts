@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PT Serif';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('PT Serif Regular'), local('PTSerif-Regular'),
+         url('pt-serif-latin-regular.woff2') format('woff2'),
+         url('pt-serif-latin-regular.woff') format('woff');
+}

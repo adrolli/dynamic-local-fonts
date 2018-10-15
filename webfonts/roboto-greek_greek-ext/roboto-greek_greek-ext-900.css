@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Roboto Black'), local('Roboto-Black'),
+         url('roboto-greek_greek-ext-900.woff2') format('woff2'),
+         url('roboto-greek_greek-ext-900.woff') format('woff');
+}

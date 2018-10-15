@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Combo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Combo Regular'), local('Combo-Regular'),
+         url('combo-latin-regular.woff2') format('woff2'),
+         url('combo-latin-regular.woff') format('woff');
+}

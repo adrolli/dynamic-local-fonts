@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sunflower';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Sunflower Light'), local('Sunflower-Light'),
+         url('sunflower-latin-300.woff2') format('woff2'),
+         url('sunflower-latin-300.woff') format('woff');
+}

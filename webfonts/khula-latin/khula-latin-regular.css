@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Khula';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Khula Regular'), local('Khula-Regular'),
+         url('khula-latin-regular.woff2') format('woff2'),
+         url('khula-latin-regular.woff') format('woff');
+}

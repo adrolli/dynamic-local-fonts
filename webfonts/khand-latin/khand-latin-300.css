@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Khand';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Khand Light'), local('Khand-Light'),
+         url('khand-latin-300.woff2') format('woff2'),
+         url('khand-latin-300.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Catamaran';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Catamaran Regular'), local('Catamaran-Regular'),
+         url('catamaran-latin-regular.woff2') format('woff2'),
+         url('catamaran-latin-regular.woff') format('woff');
+}

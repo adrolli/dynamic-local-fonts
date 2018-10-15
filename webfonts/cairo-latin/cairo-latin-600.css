@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cairo';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Cairo SemiBold'), local('Cairo-SemiBold'),
+         url('cairo-latin-600.woff2') format('woff2'),
+         url('cairo-latin-600.woff') format('woff');
+}

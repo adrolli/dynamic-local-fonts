@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Titillium Web Bold'), local('TitilliumWeb-Bold'),
+         url('titillium-web-latin-700.woff2') format('woff2'),
+         url('titillium-web-latin-700.woff') format('woff');
+}

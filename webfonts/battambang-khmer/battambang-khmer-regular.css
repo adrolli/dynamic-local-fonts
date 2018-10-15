@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Battambang';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Battambang Regular'), local('Battambang-Regular'),
+         url('battambang-khmer-regular.woff2') format('woff2'),
+         url('battambang-khmer-regular.woff') format('woff');
+}

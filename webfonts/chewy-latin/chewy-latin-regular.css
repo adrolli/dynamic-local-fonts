@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chewy';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Chewy Regular'), local('Chewy-Regular'),
+         url('chewy-latin-regular.woff2') format('woff2'),
+         url('chewy-latin-regular.woff') format('woff');
+}

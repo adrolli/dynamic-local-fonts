@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Krub';
+    font-style: 'italic';
+    font-weight: 500;
+    src: local('Krub Medium Italic'), local('Krub-MediumItalic'),
+         url('krub-latin-500italic.woff2') format('woff2'),
+         url('krub-latin-500italic.woff') format('woff');
+}

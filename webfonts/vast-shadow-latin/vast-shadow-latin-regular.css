@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Vast Shadow';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Vast Shadow Regular'), local('VastShadow-Regular'),
+         url('vast-shadow-latin-regular.woff2') format('woff2'),
+         url('vast-shadow-latin-regular.woff') format('woff');
+}

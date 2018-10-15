@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Coda';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Coda ExtraBold'), local('Coda-ExtraBold'),
+         url('coda-latin-800.woff2') format('woff2'),
+         url('coda-latin-800.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Secular One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Secular One Regular'), local('SecularOne-Regular'),
+         url('secular-one-latin-regular.woff2') format('woff2'),
+         url('secular-one-latin-regular.woff') format('woff');
+}

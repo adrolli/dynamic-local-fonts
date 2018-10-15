@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Barlow';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Barlow ExtraLight'), local('Barlow-ExtraLight'),
+         url('barlow-latin-200.woff2') format('woff2'),
+         url('barlow-latin-200.woff') format('woff');
+}

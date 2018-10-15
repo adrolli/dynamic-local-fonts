@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Signika Negative';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Signika Negative Regular'), local('SignikaNegative-Regular'),
+         url('signika-negative-latin-regular.woff2') format('woff2'),
+         url('signika-negative-latin-regular.woff') format('woff');
+}

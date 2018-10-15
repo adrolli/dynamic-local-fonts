@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Acme';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Acme Regular'), local('Acme-Regular'),
+         url('acme-latin-regular.woff2') format('woff2'),
+         url('acme-latin-regular.woff') format('woff');
+}

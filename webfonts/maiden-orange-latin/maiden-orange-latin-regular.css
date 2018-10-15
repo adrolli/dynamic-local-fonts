@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Maiden Orange';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Maiden Orange Regular'), local('MaidenOrange-Regular'),
+         url('maiden-orange-latin-regular.woff2') format('woff2'),
+         url('maiden-orange-latin-regular.woff') format('woff');
+}

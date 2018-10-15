@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IBM Plex Serif';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('IBM Plex Serif ExtraLight'), local('IBMPlexSerif-ExtraLight'),
+         url('ibm-plex-serif-latin-200.woff2') format('woff2'),
+         url('ibm-plex-serif-latin-200.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Quattrocento Sans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Quattrocento Sans Regular'), local('QuattrocentoSans-Regular'),
+         url('quattrocento-sans-latin-regular.woff2') format('woff2'),
+         url('quattrocento-sans-latin-regular.woff') format('woff');
+}

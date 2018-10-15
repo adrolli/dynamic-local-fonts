@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Short Stack';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Short Stack Regular'), local('ShortStack-Regular'),
+         url('short-stack-latin-regular.woff2') format('woff2'),
+         url('short-stack-latin-regular.woff') format('woff');
+}

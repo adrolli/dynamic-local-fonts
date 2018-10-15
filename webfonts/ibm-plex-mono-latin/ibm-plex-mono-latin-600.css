@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IBM Plex Mono';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('IBM Plex Mono SemiBold'), local('IBMPlexMono-SemiBold'),
+         url('ibm-plex-mono-latin-600.woff2') format('woff2'),
+         url('ibm-plex-mono-latin-600.woff') format('woff');
+}

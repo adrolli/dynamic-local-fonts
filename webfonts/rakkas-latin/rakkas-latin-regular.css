@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rakkas';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rakkas Regular'), local('Rakkas-Regular'),
+         url('rakkas-latin-regular.woff2') format('woff2'),
+         url('rakkas-latin-regular.woff') format('woff');
+}

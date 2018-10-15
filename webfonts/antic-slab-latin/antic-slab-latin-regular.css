@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Antic Slab';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Antic Slab Regular'), local('AnticSlab-Regular'),
+         url('antic-slab-latin-regular.woff2') format('woff2'),
+         url('antic-slab-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IBM Plex Serif';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('IBM Plex Serif Black Italic'), local('IBMPlexSerif-BlackItalic'),
+         url('ibm-plex-serif-latin-italic.woff2') format('woff2'),
+         url('ibm-plex-serif-latin-italic.woff') format('woff');
+}

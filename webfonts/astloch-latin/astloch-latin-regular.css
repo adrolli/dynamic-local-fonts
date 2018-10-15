@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Astloch';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Astloch Regular'), local('Astloch-Regular'),
+         url('astloch-latin-regular.woff2') format('woff2'),
+         url('astloch-latin-regular.woff') format('woff');
+}

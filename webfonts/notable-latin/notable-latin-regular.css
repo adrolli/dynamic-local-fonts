@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Notable';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Notable Regular'), local('Notable-Regular'),
+         url('notable-latin-regular.woff2') format('woff2'),
+         url('notable-latin-regular.woff') format('woff');
+}

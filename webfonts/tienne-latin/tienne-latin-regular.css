@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Tienne';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Tienne Regular'), local('Tienne-Regular'),
+         url('tienne-latin-regular.woff2') format('woff2'),
+         url('tienne-latin-regular.woff') format('woff');
+}

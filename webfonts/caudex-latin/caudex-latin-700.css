@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Caudex';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Caudex Bold'), local('Caudex-Bold'),
+         url('caudex-latin-700.woff2') format('woff2'),
+         url('caudex-latin-700.woff') format('woff');
+}

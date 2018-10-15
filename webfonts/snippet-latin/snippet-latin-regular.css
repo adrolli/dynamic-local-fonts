@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Snippet';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Snippet Regular'), local('Snippet-Regular'),
+         url('snippet-latin-regular.woff2') format('woff2'),
+         url('snippet-latin-regular.woff') format('woff');
+}

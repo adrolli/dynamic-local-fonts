@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Miss Fajardose';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Miss Fajardose Regular'), local('MissFajardose-Regular'),
+         url('miss-fajardose-latin-regular.woff2') format('woff2'),
+         url('miss-fajardose-latin-regular.woff') format('woff');
+}

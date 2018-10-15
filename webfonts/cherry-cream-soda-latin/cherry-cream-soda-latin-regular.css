@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cherry Cream Soda';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Cherry Cream Soda Regular'), local('CherryCreamSoda-Regular'),
+         url('cherry-cream-soda-latin-regular.woff2') format('woff2'),
+         url('cherry-cream-soda-latin-regular.woff') format('woff');
+}

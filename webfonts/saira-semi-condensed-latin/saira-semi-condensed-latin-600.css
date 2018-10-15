@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Saira Semi Condensed';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Saira Semi Condensed SemiBold'), local('SairaSemiCondensed-SemiBold'),
+         url('saira-semi-condensed-latin-600.woff2') format('woff2'),
+         url('saira-semi-condensed-latin-600.woff') format('woff');
+}

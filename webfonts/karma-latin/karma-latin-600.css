@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Karma';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Karma SemiBold'), local('Karma-SemiBold'),
+         url('karma-latin-600.woff2') format('woff2'),
+         url('karma-latin-600.woff') format('woff');
+}

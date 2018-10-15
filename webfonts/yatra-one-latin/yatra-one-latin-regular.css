@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Yatra One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Yatra One Regular'), local('YatraOne-Regular'),
+         url('yatra-one-latin-regular.woff2') format('woff2'),
+         url('yatra-one-latin-regular.woff') format('woff');
+}

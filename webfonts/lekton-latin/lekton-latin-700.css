@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lekton';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Lekton Bold'), local('Lekton-Bold'),
+         url('lekton-latin-700.woff2') format('woff2'),
+         url('lekton-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    font-style: 'italic';
+    font-weight: 700;
+    src: local('Fantasque Sans Mono Bold Italic'), local('FantasqueSansMono-BoldItalic'),
+         url('fantasque-sans-mono-latin-700italic.woff2') format('woff2'),
+         url('fantasque-sans-mono-latin-700italic.woff') format('woff');
+}

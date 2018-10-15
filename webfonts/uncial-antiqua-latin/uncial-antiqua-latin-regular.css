@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Uncial Antiqua';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Uncial Antiqua Regular'), local('UncialAntiqua-Regular'),
+         url('uncial-antiqua-latin-regular.woff2') format('woff2'),
+         url('uncial-antiqua-latin-regular.woff') format('woff');
+}

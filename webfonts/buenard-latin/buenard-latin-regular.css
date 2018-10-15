@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Buenard';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Buenard Regular'), local('Buenard-Regular'),
+         url('buenard-latin-regular.woff2') format('woff2'),
+         url('buenard-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Maitree';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Maitree Medium'), local('Maitree-Medium'),
+         url('maitree-latin-500.woff2') format('woff2'),
+         url('maitree-latin-500.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Atma';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Atma Regular'), local('Atma-Regular'),
+         url('atma-latin-regular.woff2') format('woff2'),
+         url('atma-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Athiti';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Athiti ExtraLight'), local('Athiti-ExtraLight'),
+         url('athiti-latin-200.woff2') format('woff2'),
+         url('athiti-latin-200.woff') format('woff');
+}

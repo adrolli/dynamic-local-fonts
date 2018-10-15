@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'M PLUS 1p';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('M PLUS 1p Medium'), local('MPLUS1p-Medium'),
+         url('m-plus-1p-latin-500.woff2') format('woff2'),
+         url('m-plus-1p-latin-500.woff') format('woff');
+}

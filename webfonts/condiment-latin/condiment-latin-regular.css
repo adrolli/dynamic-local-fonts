@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Condiment';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Condiment Regular'), local('Condiment-Regular'),
+         url('condiment-latin-regular.woff2') format('woff2'),
+         url('condiment-latin-regular.woff') format('woff');
+}

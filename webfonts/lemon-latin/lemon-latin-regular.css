@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lemon';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Lemon Regular'), local('Lemon-Regular'),
+         url('lemon-latin-regular.woff2') format('woff2'),
+         url('lemon-latin-regular.woff') format('woff');
+}

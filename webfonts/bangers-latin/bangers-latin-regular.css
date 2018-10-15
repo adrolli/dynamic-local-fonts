@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bangers';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bangers Regular'), local('Bangers-Regular'),
+         url('bangers-latin-regular.woff2') format('woff2'),
+         url('bangers-latin-regular.woff') format('woff');
+}

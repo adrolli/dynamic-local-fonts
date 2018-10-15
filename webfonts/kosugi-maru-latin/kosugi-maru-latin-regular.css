@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kosugi Maru';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kosugi Maru Regular'), local('KosugiMaru-Regular'),
+         url('kosugi-maru-latin-regular.woff2') format('woff2'),
+         url('kosugi-maru-latin-regular.woff') format('woff');
+}

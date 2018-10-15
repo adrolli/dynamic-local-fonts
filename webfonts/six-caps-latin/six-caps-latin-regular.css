@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Six Caps';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Six Caps Regular'), local('SixCaps-Regular'),
+         url('six-caps-latin-regular.woff2') format('woff2'),
+         url('six-caps-latin-regular.woff') format('woff');
+}

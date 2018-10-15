@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Judson';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Judson Regular'), local('Judson-Regular'),
+         url('judson-latin-regular.woff2') format('woff2'),
+         url('judson-latin-regular.woff') format('woff');
+}

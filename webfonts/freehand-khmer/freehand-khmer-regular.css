@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Freehand';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Freehand Regular'), local('Freehand-Regular'),
+         url('freehand-khmer-regular.woff2') format('woff2'),
+         url('freehand-khmer-regular.woff') format('woff');
+}

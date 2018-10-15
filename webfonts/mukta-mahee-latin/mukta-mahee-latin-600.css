@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mukta Mahee';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Mukta Mahee SemiBold'), local('MuktaMahee-SemiBold'),
+         url('mukta-mahee-latin-600.woff2') format('woff2'),
+         url('mukta-mahee-latin-600.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sunshiney';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sunshiney Regular'), local('Sunshiney-Regular'),
+         url('sunshiney-latin-regular.woff2') format('woff2'),
+         url('sunshiney-latin-regular.woff') format('woff');
+}

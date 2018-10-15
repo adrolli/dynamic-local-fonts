@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dhurjati';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Dhurjati Regular'), local('Dhurjati-Regular'),
+         url('dhurjati-latin-regular.woff2') format('woff2'),
+         url('dhurjati-latin-regular.woff') format('woff');
+}

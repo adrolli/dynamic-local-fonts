@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chelsea Market';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Chelsea Market Regular'), local('ChelseaMarket-Regular'),
+         url('chelsea-market-latin-regular.woff2') format('woff2'),
+         url('chelsea-market-latin-regular.woff') format('woff');
+}

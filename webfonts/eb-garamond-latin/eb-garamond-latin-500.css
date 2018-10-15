@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'EB Garamond';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('EB Garamond Medium'), local('EBGaramond-Medium'),
+         url('eb-garamond-latin-500.woff2') format('woff2'),
+         url('eb-garamond-latin-500.woff') format('woff');
+}

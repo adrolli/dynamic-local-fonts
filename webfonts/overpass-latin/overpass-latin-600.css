@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Overpass';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Overpass SemiBold'), local('Overpass-SemiBold'),
+         url('overpass-latin-600.woff2') format('woff2'),
+         url('overpass-latin-600.woff') format('woff');
+}

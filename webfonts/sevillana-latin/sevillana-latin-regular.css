@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sevillana';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sevillana Regular'), local('Sevillana-Regular'),
+         url('sevillana-latin-regular.woff2') format('woff2'),
+         url('sevillana-latin-regular.woff') format('woff');
+}

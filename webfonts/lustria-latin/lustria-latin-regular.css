@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lustria';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Lustria Regular'), local('Lustria-Regular'),
+         url('lustria-latin-regular.woff2') format('woff2'),
+         url('lustria-latin-regular.woff') format('woff');
+}

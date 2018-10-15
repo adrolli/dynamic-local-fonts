@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Manuale';
+    font-style: 'italic';
+    font-weight: 500;
+    src: local('Manuale Medium Italic'), local('Manuale-MediumItalic'),
+         url('manuale-latin-500italic.woff2') format('woff2'),
+         url('manuale-latin-500italic.woff') format('woff');
+}

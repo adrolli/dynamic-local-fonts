@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Spectral';
+    font-style: 'italic';
+    font-weight: 800;
+    src: local('Spectral ExtraBold Italic'), local('Spectral-ExtraBoldItalic'),
+         url('spectral-latin-800italic.woff2') format('woff2'),
+         url('spectral-latin-800italic.woff') format('woff');
+}

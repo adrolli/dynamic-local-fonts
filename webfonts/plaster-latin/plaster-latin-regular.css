@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Plaster';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Plaster Regular'), local('Plaster-Regular'),
+         url('plaster-latin-regular.woff2') format('woff2'),
+         url('plaster-latin-regular.woff') format('woff');
+}

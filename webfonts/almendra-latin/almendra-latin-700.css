@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Almendra';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Almendra Bold'), local('Almendra-Bold'),
+         url('almendra-latin-700.woff2') format('woff2'),
+         url('almendra-latin-700.woff') format('woff');
+}

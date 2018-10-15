@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Encode Sans';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Encode Sans SemiBold'), local('EncodeSans-SemiBold'),
+         url('encode-sans-latin-600.woff2') format('woff2'),
+         url('encode-sans-latin-600.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ropa Sans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ropa Sans Regular'), local('RopaSans-Regular'),
+         url('ropa-sans-latin-regular.woff2') format('woff2'),
+         url('ropa-sans-latin-regular.woff') format('woff');
+}

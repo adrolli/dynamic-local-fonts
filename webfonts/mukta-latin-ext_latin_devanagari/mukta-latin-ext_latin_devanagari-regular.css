@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mukta';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mukta Regular'), local('Mukta-Regular'),
+         url('mukta-latin-ext_latin_devanagari-regular.woff2') format('woff2'),
+         url('mukta-latin-ext_latin_devanagari-regular.woff') format('woff');
+}

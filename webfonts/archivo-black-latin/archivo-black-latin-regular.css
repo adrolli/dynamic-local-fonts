@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Archivo Black';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Archivo Black Regular'), local('ArchivoBlack-Regular'),
+         url('archivo-black-latin-regular.woff2') format('woff2'),
+         url('archivo-black-latin-regular.woff') format('woff');
+}

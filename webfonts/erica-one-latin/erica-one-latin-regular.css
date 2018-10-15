@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Erica One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Erica One Regular'), local('EricaOne-Regular'),
+         url('erica-one-latin-regular.woff2') format('woff2'),
+         url('erica-one-latin-regular.woff') format('woff');
+}

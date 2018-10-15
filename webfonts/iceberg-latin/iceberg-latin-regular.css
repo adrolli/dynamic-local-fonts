@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Iceberg';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Iceberg Regular'), local('Iceberg-Regular'),
+         url('iceberg-latin-regular.woff2') format('woff2'),
+         url('iceberg-latin-regular.woff') format('woff');
+}

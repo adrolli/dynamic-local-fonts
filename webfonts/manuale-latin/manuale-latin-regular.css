@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Manuale';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Manuale Regular'), local('Manuale-Regular'),
+         url('manuale-latin-regular.woff2') format('woff2'),
+         url('manuale-latin-regular.woff') format('woff');
+}

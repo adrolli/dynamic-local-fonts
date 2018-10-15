@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rambla';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Rambla Bold'), local('Rambla-Bold'),
+         url('rambla-latin-700.woff2') format('woff2'),
+         url('rambla-latin-700.woff') format('woff');
+}

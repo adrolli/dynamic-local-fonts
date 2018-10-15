@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mr Bedfort';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mr Bedfort Regular'), local('MrBedfort-Regular'),
+         url('mr-bedfort-latin-regular.woff2') format('woff2'),
+         url('mr-bedfort-latin-regular.woff') format('woff');
+}

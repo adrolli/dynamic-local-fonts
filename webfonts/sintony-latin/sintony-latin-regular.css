@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sintony';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sintony Regular'), local('Sintony-Regular'),
+         url('sintony-latin-regular.woff2') format('woff2'),
+         url('sintony-latin-regular.woff') format('woff');
+}

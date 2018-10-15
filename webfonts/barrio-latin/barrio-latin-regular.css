@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Barrio';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Barrio Regular'), local('Barrio-Regular'),
+         url('barrio-latin-regular.woff2') format('woff2'),
+         url('barrio-latin-regular.woff') format('woff');
+}

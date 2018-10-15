@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dosis';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Dosis Light'), local('Dosis-Light'),
+         url('dosis-latin-300.woff2') format('woff2'),
+         url('dosis-latin-300.woff') format('woff');
+}

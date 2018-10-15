@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Aclonica';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Aclonica Regular'), local('Aclonica-Regular'),
+         url('aclonica-latin-regular.woff2') format('woff2'),
+         url('aclonica-latin-regular.woff') format('woff');
+}

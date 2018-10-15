@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cabin';
+    font-style: 'italic';
+    font-weight: 600;
+    src: local('Cabin SemiBold Italic'), local('Cabin-SemiBoldItalic'),
+         url('cabin-latin-600italic.woff2') format('woff2'),
+         url('cabin-latin-600italic.woff') format('woff');
+}

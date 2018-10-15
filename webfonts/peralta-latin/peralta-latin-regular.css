@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Peralta';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Peralta Regular'), local('Peralta-Regular'),
+         url('peralta-latin-regular.woff2') format('woff2'),
+         url('peralta-latin-regular.woff') format('woff');
+}

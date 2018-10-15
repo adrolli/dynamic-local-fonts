@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rosario';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rosario Regular'), local('Rosario-Regular'),
+         url('rosario-latin-regular.woff2') format('woff2'),
+         url('rosario-latin-regular.woff') format('woff');
+}

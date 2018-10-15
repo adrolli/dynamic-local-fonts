@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mina';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mina Regular'), local('Mina-Regular'),
+         url('mina-latin-regular.woff2') format('woff2'),
+         url('mina-latin-regular.woff') format('woff');
+}

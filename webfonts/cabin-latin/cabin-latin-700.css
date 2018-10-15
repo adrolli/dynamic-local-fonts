@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cabin';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Cabin Bold'), local('Cabin-Bold'),
+         url('cabin-latin-700.woff2') format('woff2'),
+         url('cabin-latin-700.woff') format('woff');
+}

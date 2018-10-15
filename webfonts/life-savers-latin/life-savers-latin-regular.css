@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Life Savers';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Life Savers Regular'), local('LifeSavers-Regular'),
+         url('life-savers-latin-regular.woff2') format('woff2'),
+         url('life-savers-latin-regular.woff') format('woff');
+}

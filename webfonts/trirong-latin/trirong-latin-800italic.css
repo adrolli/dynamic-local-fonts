@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Trirong';
+    font-style: 'italic';
+    font-weight: 800;
+    src: local('Trirong ExtraBold Italic'), local('Trirong-ExtraBoldItalic'),
+         url('trirong-latin-800italic.woff2') format('woff2'),
+         url('trirong-latin-800italic.woff') format('woff');
+}

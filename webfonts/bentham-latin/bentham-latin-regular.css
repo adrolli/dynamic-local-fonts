@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bentham';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bentham Regular'), local('Bentham-Regular'),
+         url('bentham-latin-regular.woff2') format('woff2'),
+         url('bentham-latin-regular.woff') format('woff');
+}

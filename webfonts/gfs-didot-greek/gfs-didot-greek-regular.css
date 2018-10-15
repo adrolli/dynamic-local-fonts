@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'GFS Didot';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('GFS Didot Regular'), local('GFSDidot-Regular'),
+         url('gfs-didot-greek-regular.woff2') format('woff2'),
+         url('gfs-didot-greek-regular.woff') format('woff');
+}

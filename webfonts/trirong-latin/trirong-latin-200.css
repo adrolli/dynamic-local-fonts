@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Trirong';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Trirong ExtraLight'), local('Trirong-ExtraLight'),
+         url('trirong-latin-200.woff2') format('woff2'),
+         url('trirong-latin-200.woff') format('woff');
+}

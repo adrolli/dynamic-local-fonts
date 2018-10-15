@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sarpanch';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Sarpanch ExtraBold'), local('Sarpanch-ExtraBold'),
+         url('sarpanch-latin-800.woff2') format('woff2'),
+         url('sarpanch-latin-800.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rubik Mono One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rubik Mono One Regular'), local('RubikMonoOne-Regular'),
+         url('rubik-mono-one-latin-regular.woff2') format('woff2'),
+         url('rubik-mono-one-latin-regular.woff') format('woff');
+}

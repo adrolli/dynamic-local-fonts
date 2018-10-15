@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bitter';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Bitter Black Italic'), local('Bitter-BlackItalic'),
+         url('bitter-latin-italic.woff2') format('woff2'),
+         url('bitter-latin-italic.woff') format('woff');
+}

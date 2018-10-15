@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kodchasan';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Kodchasan Black Italic'), local('Kodchasan-BlackItalic'),
+         url('kodchasan-latin-italic.woff2') format('woff2'),
+         url('kodchasan-latin-italic.woff') format('woff');
+}

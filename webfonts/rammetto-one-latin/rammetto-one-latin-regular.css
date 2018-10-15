@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rammetto One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rammetto One Regular'), local('RammettoOne-Regular'),
+         url('rammetto-one-latin-regular.woff2') format('woff2'),
+         url('rammetto-one-latin-regular.woff') format('woff');
+}

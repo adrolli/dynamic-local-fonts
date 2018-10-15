@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Smythe';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Smythe Regular'), local('Smythe-Regular'),
+         url('smythe-latin-regular.woff2') format('woff2'),
+         url('smythe-latin-regular.woff') format('woff');
+}

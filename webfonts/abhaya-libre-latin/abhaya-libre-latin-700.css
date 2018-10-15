@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Abhaya Libre';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Abhaya Libre Bold'), local('AbhayaLibre-Bold'),
+         url('abhaya-libre-latin-700.woff2') format('woff2'),
+         url('abhaya-libre-latin-700.woff') format('woff');
+}

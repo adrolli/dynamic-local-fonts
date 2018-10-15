@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PT Serif Caption';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('PT Serif Caption Regular'), local('PTSerifCaption-Regular'),
+         url('pt-serif-caption-latin-regular.woff2') format('woff2'),
+         url('pt-serif-caption-latin-regular.woff') format('woff');
+}

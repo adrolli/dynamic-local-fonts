@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IM Fell DW Pica';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('IM Fell DW Pica Regular'), local('IMFellDWPica-Regular'),
+         url('im-fell-dw-pica-latin-regular.woff2') format('woff2'),
+         url('im-fell-dw-pica-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bigelow Rules';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bigelow Rules Regular'), local('BigelowRules-Regular'),
+         url('bigelow-rules-latin-regular.woff2') format('woff2'),
+         url('bigelow-rules-latin-regular.woff') format('woff');
+}

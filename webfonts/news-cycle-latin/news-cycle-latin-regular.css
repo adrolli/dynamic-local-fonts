@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'News Cycle';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('News Cycle Regular'), local('NewsCycle-Regular'),
+         url('news-cycle-latin-regular.woff2') format('woff2'),
+         url('news-cycle-latin-regular.woff') format('woff');
+}

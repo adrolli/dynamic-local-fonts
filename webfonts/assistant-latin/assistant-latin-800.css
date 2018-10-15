@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Assistant';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Assistant ExtraBold'), local('Assistant-ExtraBold'),
+         url('assistant-latin-800.woff2') format('woff2'),
+         url('assistant-latin-800.woff') format('woff');
+}

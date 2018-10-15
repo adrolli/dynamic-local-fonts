@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sue Ellen Francisco';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sue Ellen Francisco Regular'), local('SueEllenFrancisco-Regular'),
+         url('sue-ellen-francisco-latin-regular.woff2') format('woff2'),
+         url('sue-ellen-francisco-latin-regular.woff') format('woff');
+}

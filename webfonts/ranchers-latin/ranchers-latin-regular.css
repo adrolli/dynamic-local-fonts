@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ranchers';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ranchers Regular'), local('Ranchers-Regular'),
+         url('ranchers-latin-regular.woff2') format('woff2'),
+         url('ranchers-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rye';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rye Regular'), local('Rye-Regular'),
+         url('rye-latin-regular.woff2') format('woff2'),
+         url('rye-latin-regular.woff') format('woff');
+}

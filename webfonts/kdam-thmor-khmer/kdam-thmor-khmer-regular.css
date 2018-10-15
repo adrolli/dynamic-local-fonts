@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kdam Thmor';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kdam Thmor Regular'), local('KdamThmor-Regular'),
+         url('kdam-thmor-khmer-regular.woff2') format('woff2'),
+         url('kdam-thmor-khmer-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Crete Round';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Crete Round Black Italic'), local('CreteRound-BlackItalic'),
+         url('crete-round-latin-italic.woff2') format('woff2'),
+         url('crete-round-latin-italic.woff') format('woff');
+}

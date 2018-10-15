@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Moulpali';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Moulpali Regular'), local('Moulpali-Regular'),
+         url('moulpali-khmer-regular.woff2') format('woff2'),
+         url('moulpali-khmer-regular.woff') format('woff');
+}

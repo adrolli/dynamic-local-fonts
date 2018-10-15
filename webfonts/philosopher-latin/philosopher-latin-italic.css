@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Philosopher';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Philosopher Black Italic'), local('Philosopher-BlackItalic'),
+         url('philosopher-latin-italic.woff2') format('woff2'),
+         url('philosopher-latin-italic.woff') format('woff');
+}

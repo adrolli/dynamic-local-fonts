@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'M PLUS Rounded 1c';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('M PLUS Rounded 1c Bold'), local('MPLUSRounded1c-Bold'),
+         url('m-plus-rounded-1c-latin-700.woff2') format('woff2'),
+         url('m-plus-rounded-1c-latin-700.woff') format('woff');
+}

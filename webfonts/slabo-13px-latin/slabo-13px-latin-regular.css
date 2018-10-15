@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Slabo 13px';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Slabo 13px Regular'), local('Slabo13px-Regular'),
+         url('slabo-13px-latin-regular.woff2') format('woff2'),
+         url('slabo-13px-latin-regular.woff') format('woff');
+}

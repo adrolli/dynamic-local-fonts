@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'KoHo';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('KoHo Bold'), local('KoHo-Bold'),
+         url('koho-latin-700.woff2') format('woff2'),
+         url('koho-latin-700.woff') format('woff');
+}

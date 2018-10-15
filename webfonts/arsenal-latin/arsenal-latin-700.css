@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arsenal';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Arsenal Bold'), local('Arsenal-Bold'),
+         url('arsenal-latin-700.woff2') format('woff2'),
+         url('arsenal-latin-700.woff') format('woff');
+}

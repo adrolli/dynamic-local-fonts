@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Spectral SC';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Spectral SC SemiBold'), local('SpectralSC-SemiBold'),
+         url('spectral-sc-latin-600.woff2') format('woff2'),
+         url('spectral-sc-latin-600.woff') format('woff');
+}

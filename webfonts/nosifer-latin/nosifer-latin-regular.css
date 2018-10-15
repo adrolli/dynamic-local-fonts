@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nosifer';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Nosifer Regular'), local('Nosifer-Regular'),
+         url('nosifer-latin-regular.woff2') format('woff2'),
+         url('nosifer-latin-regular.woff') format('woff');
+}

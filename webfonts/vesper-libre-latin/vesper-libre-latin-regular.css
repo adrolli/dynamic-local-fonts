@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Vesper Libre';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Vesper Libre Regular'), local('VesperLibre-Regular'),
+         url('vesper-libre-latin-regular.woff2') format('woff2'),
+         url('vesper-libre-latin-regular.woff') format('woff');
+}

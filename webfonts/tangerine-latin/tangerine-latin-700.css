@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Tangerine';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Tangerine Bold'), local('Tangerine-Bold'),
+         url('tangerine-latin-700.woff2') format('woff2'),
+         url('tangerine-latin-700.woff') format('woff');
+}

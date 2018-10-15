@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Saira Extra Condensed';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Saira Extra Condensed Bold'), local('SairaExtraCondensed-Bold'),
+         url('saira-extra-condensed-latin-700.woff2') format('woff2'),
+         url('saira-extra-condensed-latin-700.woff') format('woff');
+}

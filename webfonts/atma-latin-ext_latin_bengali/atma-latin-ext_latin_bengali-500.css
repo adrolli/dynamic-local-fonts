@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Atma';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Atma Medium'), local('Atma-Medium'),
+         url('atma-latin-ext_latin_bengali-500.woff2') format('woff2'),
+         url('atma-latin-ext_latin_bengali-500.woff') format('woff');
+}

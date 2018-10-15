@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kumar One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kumar One Regular'), local('KumarOne-Regular'),
+         url('kumar-one-latin-regular.woff2') format('woff2'),
+         url('kumar-one-latin-regular.woff') format('woff');
+}

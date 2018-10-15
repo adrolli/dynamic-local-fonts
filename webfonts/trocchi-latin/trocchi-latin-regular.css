@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Trocchi';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Trocchi Regular'), local('Trocchi-Regular'),
+         url('trocchi-latin-regular.woff2') format('woff2'),
+         url('trocchi-latin-regular.woff') format('woff');
+}

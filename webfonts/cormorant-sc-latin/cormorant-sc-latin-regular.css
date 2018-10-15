@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cormorant SC';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Cormorant SC Regular'), local('CormorantSC-Regular'),
+         url('cormorant-sc-latin-regular.woff2') format('woff2'),
+         url('cormorant-sc-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IM Fell French Canon SC';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('IM Fell French Canon SC Regular'), local('IMFellFrenchCanonSC-Regular'),
+         url('im-fell-french-canon-sc-latin-regular.woff2') format('woff2'),
+         url('im-fell-french-canon-sc-latin-regular.woff') format('woff');
+}

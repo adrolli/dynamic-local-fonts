@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Encode Sans Condensed ExtraBold'), local('EncodeSansCondensed-ExtraBold'),
+         url('encode-sans-condensed-latin-800.woff2') format('woff2'),
+         url('encode-sans-condensed-latin-800.woff') format('woff');
+}

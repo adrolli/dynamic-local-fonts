@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hanuman';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Hanuman Regular'), local('Hanuman-Regular'),
+         url('hanuman-khmer-regular.woff2') format('woff2'),
+         url('hanuman-khmer-regular.woff') format('woff');
+}

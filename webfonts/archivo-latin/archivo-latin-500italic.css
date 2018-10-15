@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Archivo';
+    font-style: 'italic';
+    font-weight: 500;
+    src: local('Archivo Medium Italic'), local('Archivo-MediumItalic'),
+         url('archivo-latin-500italic.woff2') format('woff2'),
+         url('archivo-latin-500italic.woff') format('woff');
+}

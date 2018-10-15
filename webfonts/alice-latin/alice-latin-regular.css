@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Alice';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Alice Regular'), local('Alice-Regular'),
+         url('alice-latin-regular.woff2') format('woff2'),
+         url('alice-latin-regular.woff') format('woff');
+}

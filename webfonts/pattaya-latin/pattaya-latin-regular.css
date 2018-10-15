@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Pattaya';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Pattaya Regular'), local('Pattaya-Regular'),
+         url('pattaya-latin-regular.woff2') format('woff2'),
+         url('pattaya-latin-regular.woff') format('woff');
+}

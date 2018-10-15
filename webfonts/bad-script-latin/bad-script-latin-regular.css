@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bad Script';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bad Script Regular'), local('BadScript-Regular'),
+         url('bad-script-latin-regular.woff2') format('woff2'),
+         url('bad-script-latin-regular.woff') format('woff');
+}

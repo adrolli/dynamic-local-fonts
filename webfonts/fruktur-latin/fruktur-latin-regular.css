@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fruktur';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fruktur Regular'), local('Fruktur-Regular'),
+         url('fruktur-latin-regular.woff2') format('woff2'),
+         url('fruktur-latin-regular.woff') format('woff');
+}

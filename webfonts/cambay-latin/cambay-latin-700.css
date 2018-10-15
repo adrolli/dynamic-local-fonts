@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cambay';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Cambay Bold'), local('Cambay-Bold'),
+         url('cambay-latin-700.woff2') format('woff2'),
+         url('cambay-latin-700.woff') format('woff');
+}

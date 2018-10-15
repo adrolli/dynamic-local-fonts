@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Tajawal';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Tajawal ExtraLight'), local('Tajawal-ExtraLight'),
+         url('tajawal-latin-200.woff2') format('woff2'),
+         url('tajawal-latin-200.woff') format('woff');
+}

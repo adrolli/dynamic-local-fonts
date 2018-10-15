@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Monofett';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Monofett Regular'), local('Monofett-Regular'),
+         url('monofett-latin-regular.woff2') format('woff2'),
+         url('monofett-latin-regular.woff') format('woff');
+}

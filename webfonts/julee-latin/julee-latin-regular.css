@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Julee';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Julee Regular'), local('Julee-Regular'),
+         url('julee-latin-regular.woff2') format('woff2'),
+         url('julee-latin-regular.woff') format('woff');
+}

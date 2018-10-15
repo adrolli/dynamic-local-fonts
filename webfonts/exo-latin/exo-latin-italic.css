@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Exo';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Exo Black Italic'), local('Exo-BlackItalic'),
+         url('exo-latin-italic.woff2') format('woff2'),
+         url('exo-latin-italic.woff') format('woff');
+}

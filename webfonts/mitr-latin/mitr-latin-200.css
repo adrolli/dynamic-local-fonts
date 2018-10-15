@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mitr';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Mitr ExtraLight'), local('Mitr-ExtraLight'),
+         url('mitr-latin-200.woff2') format('woff2'),
+         url('mitr-latin-200.woff') format('woff');
+}

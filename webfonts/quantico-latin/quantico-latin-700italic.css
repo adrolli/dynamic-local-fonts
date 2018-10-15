@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Quantico';
+    font-style: 'italic';
+    font-weight: 700;
+    src: local('Quantico Bold Italic'), local('Quantico-BoldItalic'),
+         url('quantico-latin-700italic.woff2') format('woff2'),
+         url('quantico-latin-700italic.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Advent Pro';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Advent Pro Bold'), local('AdventPro-Bold'),
+         url('advent-pro-latin-700.woff2') format('woff2'),
+         url('advent-pro-latin-700.woff') format('woff');
+}

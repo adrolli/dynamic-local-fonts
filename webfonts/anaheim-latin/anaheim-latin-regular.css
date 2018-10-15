@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Anaheim';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Anaheim Regular'), local('Anaheim-Regular'),
+         url('anaheim-latin-regular.woff2') format('woff2'),
+         url('anaheim-latin-regular.woff') format('woff');
+}

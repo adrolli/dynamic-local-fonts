@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Racing Sans One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Racing Sans One Regular'), local('RacingSansOne-Regular'),
+         url('racing-sans-one-latin-regular.woff2') format('woff2'),
+         url('racing-sans-one-latin-regular.woff') format('woff');
+}

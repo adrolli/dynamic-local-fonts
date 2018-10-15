@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Suranna';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Suranna Regular'), local('Suranna-Regular'),
+         url('suranna-latin-regular.woff2') format('woff2'),
+         url('suranna-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mystery Quest';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mystery Quest Regular'), local('MysteryQuest-Regular'),
+         url('mystery-quest-latin-regular.woff2') format('woff2'),
+         url('mystery-quest-latin-regular.woff') format('woff');
+}

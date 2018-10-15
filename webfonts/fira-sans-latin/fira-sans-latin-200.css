@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fira Sans';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Fira Sans ExtraLight'), local('FiraSans-ExtraLight'),
+         url('fira-sans-latin-200.woff2') format('woff2'),
+         url('fira-sans-latin-200.woff') format('woff');
+}

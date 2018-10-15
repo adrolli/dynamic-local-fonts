@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Andika';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Andika Regular'), local('Andika-Regular'),
+         url('andika-latin-regular.woff2') format('woff2'),
+         url('andika-latin-regular.woff') format('woff');
+}

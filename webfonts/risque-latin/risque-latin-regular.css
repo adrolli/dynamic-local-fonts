@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Risque';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Risque Regular'), local('Risque-Regular'),
+         url('risque-latin-regular.woff2') format('woff2'),
+         url('risque-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Jura';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Jura SemiBold'), local('Jura-SemiBold'),
+         url('jura-latin-600.woff2') format('woff2'),
+         url('jura-latin-600.woff') format('woff');
+}

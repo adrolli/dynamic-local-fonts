@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Geostar Fill';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Geostar Fill Regular'), local('GeostarFill-Regular'),
+         url('geostar-fill-latin-regular.woff2') format('woff2'),
+         url('geostar-fill-latin-regular.woff') format('woff');
+}

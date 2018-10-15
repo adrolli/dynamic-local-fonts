@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cherry Swash';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Cherry Swash Bold'), local('CherrySwash-Bold'),
+         url('cherry-swash-latin-700.woff2') format('woff2'),
+         url('cherry-swash-latin-700.woff') format('woff');
+}

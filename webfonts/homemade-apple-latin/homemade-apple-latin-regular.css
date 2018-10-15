@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Homemade Apple';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Homemade Apple Regular'), local('HomemadeApple-Regular'),
+         url('homemade-apple-latin-regular.woff2') format('woff2'),
+         url('homemade-apple-latin-regular.woff') format('woff');
+}

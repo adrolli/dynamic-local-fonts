@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Maven Pro';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Maven Pro Bold'), local('MavenPro-Bold'),
+         url('maven-pro-latin-700.woff2') format('woff2'),
+         url('maven-pro-latin-700.woff') format('woff');
+}

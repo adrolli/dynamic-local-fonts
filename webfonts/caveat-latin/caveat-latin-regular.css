@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Caveat';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Caveat Regular'), local('Caveat-Regular'),
+         url('caveat-latin-regular.woff2') format('woff2'),
+         url('caveat-latin-regular.woff') format('woff');
+}

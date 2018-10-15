@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Denk One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Denk One Regular'), local('DenkOne-Regular'),
+         url('denk-one-latin-regular.woff2') format('woff2'),
+         url('denk-one-latin-regular.woff') format('woff');
+}

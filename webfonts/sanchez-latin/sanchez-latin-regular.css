@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sanchez';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sanchez Regular'), local('Sanchez-Regular'),
+         url('sanchez-latin-regular.woff2') format('woff2'),
+         url('sanchez-latin-regular.woff') format('woff');
+}

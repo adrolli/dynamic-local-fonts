@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Black Han Sans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Black Han Sans Regular'), local('BlackHanSans-Regular'),
+         url('black-han-sans-latin-regular.woff2') format('woff2'),
+         url('black-han-sans-latin-regular.woff') format('woff');
+}

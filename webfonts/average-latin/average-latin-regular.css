@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Average';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Average Regular'), local('Average-Regular'),
+         url('average-latin-regular.woff2') format('woff2'),
+         url('average-latin-regular.woff') format('woff');
+}

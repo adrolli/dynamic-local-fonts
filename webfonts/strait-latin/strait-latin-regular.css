@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Strait';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Strait Regular'), local('Strait-Regular'),
+         url('strait-latin-regular.woff2') format('woff2'),
+         url('strait-latin-regular.woff') format('woff');
+}

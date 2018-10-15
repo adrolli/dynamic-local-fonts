@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Pompiere';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Pompiere Regular'), local('Pompiere-Regular'),
+         url('pompiere-latin-regular.woff2') format('woff2'),
+         url('pompiere-latin-regular.woff') format('woff');
+}

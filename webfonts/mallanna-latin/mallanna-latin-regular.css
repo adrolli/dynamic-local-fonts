@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mallanna';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mallanna Regular'), local('Mallanna-Regular'),
+         url('mallanna-latin-regular.woff2') format('woff2'),
+         url('mallanna-latin-regular.woff') format('woff');
+}

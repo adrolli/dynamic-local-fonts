@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Laila';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Laila Light'), local('Laila-Light'),
+         url('laila-latin-300.woff2') format('woff2'),
+         url('laila-latin-300.woff') format('woff');
+}

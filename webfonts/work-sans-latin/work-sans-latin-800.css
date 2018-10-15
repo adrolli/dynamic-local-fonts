@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Work Sans';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Work Sans ExtraBold'), local('WorkSans-ExtraBold'),
+         url('work-sans-latin-800.woff2') format('woff2'),
+         url('work-sans-latin-800.woff') format('woff');
+}

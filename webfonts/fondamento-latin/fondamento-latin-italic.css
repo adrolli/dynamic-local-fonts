@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fondamento';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Fondamento Black Italic'), local('Fondamento-BlackItalic'),
+         url('fondamento-latin-italic.woff2') format('woff2'),
+         url('fondamento-latin-italic.woff') format('woff');
+}

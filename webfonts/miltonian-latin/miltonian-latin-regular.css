@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Miltonian';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Miltonian Regular'), local('Miltonian-Regular'),
+         url('miltonian-latin-regular.woff2') format('woff2'),
+         url('miltonian-latin-regular.woff') format('woff');
+}

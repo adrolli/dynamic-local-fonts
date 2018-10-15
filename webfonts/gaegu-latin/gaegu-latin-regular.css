@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gaegu';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gaegu Regular'), local('Gaegu-Regular'),
+         url('gaegu-latin-regular.woff2') format('woff2'),
+         url('gaegu-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Domine';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Domine Regular'), local('Domine-Regular'),
+         url('domine-latin-regular.woff2') format('woff2'),
+         url('domine-latin-regular.woff') format('woff');
+}

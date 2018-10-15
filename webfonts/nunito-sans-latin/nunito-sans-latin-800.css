@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Nunito Sans ExtraBold'), local('NunitoSans-ExtraBold'),
+         url('nunito-sans-latin-800.woff2') format('woff2'),
+         url('nunito-sans-latin-800.woff') format('woff');
+}

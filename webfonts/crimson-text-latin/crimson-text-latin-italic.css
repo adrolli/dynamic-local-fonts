@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Crimson Text Black Italic'), local('CrimsonText-BlackItalic'),
+         url('crimson-text-latin-italic.woff2') format('woff2'),
+         url('crimson-text-latin-italic.woff') format('woff');
+}

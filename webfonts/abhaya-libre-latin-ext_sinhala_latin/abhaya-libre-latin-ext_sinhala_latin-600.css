@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Abhaya Libre';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Abhaya Libre SemiBold'), local('AbhayaLibre-SemiBold'),
+         url('abhaya-libre-latin-ext_sinhala_latin-600.woff2') format('woff2'),
+         url('abhaya-libre-latin-ext_sinhala_latin-600.woff') format('woff');
+}

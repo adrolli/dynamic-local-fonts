@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Trykker';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Trykker Regular'), local('Trykker-Regular'),
+         url('trykker-latin-regular.woff2') format('woff2'),
+         url('trykker-latin-regular.woff') format('woff');
+}

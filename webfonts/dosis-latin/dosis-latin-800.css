@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dosis';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Dosis ExtraBold'), local('Dosis-ExtraBold'),
+         url('dosis-latin-800.woff2') format('woff2'),
+         url('dosis-latin-800.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Khmer';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Khmer Regular'), local('Khmer-Regular'),
+         url('khmer-khmer-regular.woff2') format('woff2'),
+         url('khmer-khmer-regular.woff') format('woff');
+}

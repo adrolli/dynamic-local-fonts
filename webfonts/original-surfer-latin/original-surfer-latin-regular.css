@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Original Surfer';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Original Surfer Regular'), local('OriginalSurfer-Regular'),
+         url('original-surfer-latin-regular.woff2') format('woff2'),
+         url('original-surfer-latin-regular.woff') format('woff');
+}

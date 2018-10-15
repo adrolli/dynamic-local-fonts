@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Warnes';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Warnes Regular'), local('Warnes-Regular'),
+         url('warnes-latin-regular.woff2') format('woff2'),
+         url('warnes-latin-regular.woff') format('woff');
+}

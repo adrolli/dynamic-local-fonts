@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Orbitron';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Orbitron Medium'), local('Orbitron-Medium'),
+         url('orbitron-latin-500.woff2') format('woff2'),
+         url('orbitron-latin-500.woff') format('woff');
+}

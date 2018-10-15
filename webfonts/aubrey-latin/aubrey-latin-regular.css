@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Aubrey';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Aubrey Regular'), local('Aubrey-Regular'),
+         url('aubrey-latin-regular.woff2') format('woff2'),
+         url('aubrey-latin-regular.woff') format('woff');
+}

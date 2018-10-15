@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Griffy';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Griffy Regular'), local('Griffy-Regular'),
+         url('griffy-latin-regular.woff2') format('woff2'),
+         url('griffy-latin-regular.woff') format('woff');
+}

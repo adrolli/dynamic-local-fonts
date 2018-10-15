@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sail';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sail Regular'), local('Sail-Regular'),
+         url('sail-latin-regular.woff2') format('woff2'),
+         url('sail-latin-regular.woff') format('woff');
+}

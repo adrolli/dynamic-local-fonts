@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Quicksand';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Quicksand Regular'), local('Quicksand-Regular'),
+         url('quicksand-latin-regular.woff2') format('woff2'),
+         url('quicksand-latin-regular.woff') format('woff');
+}

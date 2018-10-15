@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Esteban';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Esteban Regular'), local('Esteban-Regular'),
+         url('esteban-latin-regular.woff2') format('woff2'),
+         url('esteban-latin-regular.woff') format('woff');
+}

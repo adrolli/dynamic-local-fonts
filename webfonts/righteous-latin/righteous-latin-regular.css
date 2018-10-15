@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Righteous';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Righteous Regular'), local('Righteous-Regular'),
+         url('righteous-latin-regular.woff2') format('woff2'),
+         url('righteous-latin-regular.woff') format('woff');
+}

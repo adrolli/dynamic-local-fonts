@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arimo';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Arimo Bold'), local('Arimo-Bold'),
+         url('arimo-greek_latin_hebrew_cyrillic_vietnamese-700.woff2') format('woff2'),
+         url('arimo-greek_latin_hebrew_cyrillic_vietnamese-700.woff') format('woff');
+}

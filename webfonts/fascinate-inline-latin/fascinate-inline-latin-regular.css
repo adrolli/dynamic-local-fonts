@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fascinate Inline';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fascinate Inline Regular'), local('FascinateInline-Regular'),
+         url('fascinate-inline-latin-regular.woff2') format('woff2'),
+         url('fascinate-inline-latin-regular.woff') format('woff');
+}

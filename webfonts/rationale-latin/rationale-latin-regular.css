@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rationale';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rationale Regular'), local('Rationale-Regular'),
+         url('rationale-latin-regular.woff2') format('woff2'),
+         url('rationale-latin-regular.woff') format('woff');
+}

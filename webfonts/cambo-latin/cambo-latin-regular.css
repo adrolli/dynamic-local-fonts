@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cambo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Cambo Regular'), local('Cambo-Regular'),
+         url('cambo-latin-regular.woff2') format('woff2'),
+         url('cambo-latin-regular.woff') format('woff');
+}

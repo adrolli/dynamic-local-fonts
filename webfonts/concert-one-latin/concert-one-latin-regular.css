@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Concert One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Concert One Regular'), local('ConcertOne-Regular'),
+         url('concert-one-latin-regular.woff2') format('woff2'),
+         url('concert-one-latin-regular.woff') format('woff');
+}

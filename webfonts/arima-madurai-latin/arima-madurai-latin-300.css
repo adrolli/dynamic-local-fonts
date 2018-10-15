@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arima Madurai';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Arima Madurai Light'), local('ArimaMadurai-Light'),
+         url('arima-madurai-latin-300.woff2') format('woff2'),
+         url('arima-madurai-latin-300.woff') format('woff');
+}

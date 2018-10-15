@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BioRhyme';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('BioRhyme Light'), local('BioRhyme-Light'),
+         url('biorhyme-latin-300.woff2') format('woff2'),
+         url('biorhyme-latin-300.woff') format('woff');
+}

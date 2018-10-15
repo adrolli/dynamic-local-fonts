@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Atomic Age';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Atomic Age Regular'), local('AtomicAge-Regular'),
+         url('atomic-age-latin-regular.woff2') format('woff2'),
+         url('atomic-age-latin-regular.woff') format('woff');
+}

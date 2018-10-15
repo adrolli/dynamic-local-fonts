@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hind Madurai';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Hind Madurai SemiBold'), local('HindMadurai-SemiBold'),
+         url('hind-madurai-latin-ext_tamil_latin-600.woff2') format('woff2'),
+         url('hind-madurai-latin-ext_tamil_latin-600.woff') format('woff');
+}

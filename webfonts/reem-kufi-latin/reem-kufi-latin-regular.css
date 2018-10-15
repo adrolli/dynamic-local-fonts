@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Reem Kufi';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Reem Kufi Regular'), local('ReemKufi-Regular'),
+         url('reem-kufi-latin-regular.woff2') format('woff2'),
+         url('reem-kufi-latin-regular.woff') format('woff');
+}

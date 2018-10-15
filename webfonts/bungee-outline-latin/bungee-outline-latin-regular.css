@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bungee Outline';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bungee Outline Regular'), local('BungeeOutline-Regular'),
+         url('bungee-outline-latin-regular.woff2') format('woff2'),
+         url('bungee-outline-latin-regular.woff') format('woff');
+}

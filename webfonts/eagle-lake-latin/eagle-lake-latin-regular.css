@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Eagle Lake';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Eagle Lake Regular'), local('EagleLake-Regular'),
+         url('eagle-lake-latin-regular.woff2') format('woff2'),
+         url('eagle-lake-latin-regular.woff') format('woff');
+}

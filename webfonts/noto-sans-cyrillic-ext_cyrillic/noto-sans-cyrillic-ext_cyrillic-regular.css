@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Noto Sans Regular'), local('NotoSans-Regular'),
+         url('noto-sans-cyrillic-ext_cyrillic-regular.woff2') format('woff2'),
+         url('noto-sans-cyrillic-ext_cyrillic-regular.woff') format('woff');
+}

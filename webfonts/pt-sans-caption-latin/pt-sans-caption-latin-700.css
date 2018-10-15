@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PT Sans Caption';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('PT Sans Caption Bold'), local('PTSansCaption-Bold'),
+         url('pt-sans-caption-latin-700.woff2') format('woff2'),
+         url('pt-sans-caption-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Akronim';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Akronim Regular'), local('Akronim-Regular'),
+         url('akronim-latin-regular.woff2') format('woff2'),
+         url('akronim-latin-regular.woff') format('woff');
+}

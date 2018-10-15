@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Amita';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Amita Regular'), local('Amita-Regular'),
+         url('amita-latin-regular.woff2') format('woff2'),
+         url('amita-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Swanky and Moo Moo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Swanky and Moo Moo Regular'), local('SwankyandMooMoo-Regular'),
+         url('swanky-and-moo-moo-latin-regular.woff2') format('woff2'),
+         url('swanky-and-moo-moo-latin-regular.woff') format('woff');
+}

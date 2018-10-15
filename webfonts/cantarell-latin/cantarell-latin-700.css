@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cantarell';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Cantarell Bold'), local('Cantarell-Bold'),
+         url('cantarell-latin-700.woff2') format('woff2'),
+         url('cantarell-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Asap';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Asap SemiBold'), local('Asap-SemiBold'),
+         url('asap-latin-600.woff2') format('woff2'),
+         url('asap-latin-600.woff') format('woff');
+}

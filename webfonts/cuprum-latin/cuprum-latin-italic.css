@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cuprum';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Cuprum Black Italic'), local('Cuprum-BlackItalic'),
+         url('cuprum-latin-italic.woff2') format('woff2'),
+         url('cuprum-latin-italic.woff') format('woff');
+}

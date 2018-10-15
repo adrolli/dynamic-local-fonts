@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bungee';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bungee Regular'), local('Bungee-Regular'),
+         url('bungee-latin-regular.woff2') format('woff2'),
+         url('bungee-latin-regular.woff') format('woff');
+}

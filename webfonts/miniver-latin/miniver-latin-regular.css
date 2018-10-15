@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Miniver';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Miniver Regular'), local('Miniver-Regular'),
+         url('miniver-latin-regular.woff2') format('woff2'),
+         url('miniver-latin-regular.woff') format('woff');
+}

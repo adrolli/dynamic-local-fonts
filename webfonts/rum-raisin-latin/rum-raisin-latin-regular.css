@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rum Raisin';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rum Raisin Regular'), local('RumRaisin-Regular'),
+         url('rum-raisin-latin-regular.woff2') format('woff2'),
+         url('rum-raisin-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Trade Winds';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Trade Winds Regular'), local('TradeWinds-Regular'),
+         url('trade-winds-latin-regular.woff2') format('woff2'),
+         url('trade-winds-latin-regular.woff') format('woff');
+}

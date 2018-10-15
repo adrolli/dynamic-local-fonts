@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Merriweather Sans';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Merriweather Sans ExtraBold'), local('MerriweatherSans-ExtraBold'),
+         url('merriweather-sans-latin-800.woff2') format('woff2'),
+         url('merriweather-sans-latin-800.woff') format('woff');
+}

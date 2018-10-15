@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bungee Shade';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bungee Shade Regular'), local('BungeeShade-Regular'),
+         url('bungee-shade-latin-regular.woff2') format('woff2'),
+         url('bungee-shade-latin-regular.woff') format('woff');
+}

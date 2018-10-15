@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Yantramanav';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Yantramanav Regular'), local('Yantramanav-Regular'),
+         url('yantramanav-latin-regular.woff2') format('woff2'),
+         url('yantramanav-latin-regular.woff') format('woff');
+}

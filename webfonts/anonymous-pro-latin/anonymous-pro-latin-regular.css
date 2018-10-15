@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Anonymous Pro';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Anonymous Pro Regular'), local('AnonymousPro-Regular'),
+         url('anonymous-pro-latin-regular.woff2') format('woff2'),
+         url('anonymous-pro-latin-regular.woff') format('woff');
+}

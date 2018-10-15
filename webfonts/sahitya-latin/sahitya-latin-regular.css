@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sahitya';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sahitya Regular'), local('Sahitya-Regular'),
+         url('sahitya-latin-regular.woff2') format('woff2'),
+         url('sahitya-latin-regular.woff') format('woff');
+}

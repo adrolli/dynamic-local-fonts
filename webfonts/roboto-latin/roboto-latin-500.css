@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'),
+         url('roboto-latin-500.woff2') format('woff2'),
+         url('roboto-latin-500.woff') format('woff');
+}

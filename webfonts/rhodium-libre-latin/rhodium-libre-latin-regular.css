@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rhodium Libre';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rhodium Libre Regular'), local('RhodiumLibre-Regular'),
+         url('rhodium-libre-latin-regular.woff2') format('woff2'),
+         url('rhodium-libre-latin-regular.woff') format('woff');
+}

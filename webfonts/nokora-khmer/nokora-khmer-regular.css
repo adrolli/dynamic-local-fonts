@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nokora';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Nokora Regular'), local('Nokora-Regular'),
+         url('nokora-khmer-regular.woff2') format('woff2'),
+         url('nokora-khmer-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kaushan Script';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kaushan Script Regular'), local('KaushanScript-Regular'),
+         url('kaushan-script-latin-regular.woff2') format('woff2'),
+         url('kaushan-script-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'The Girl Next Door';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('The Girl Next Door Regular'), local('TheGirlNextDoor-Regular'),
+         url('the-girl-next-door-latin-regular.woff2') format('woff2'),
+         url('the-girl-next-door-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Suwannaphum';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Suwannaphum Regular'), local('Suwannaphum-Regular'),
+         url('suwannaphum-khmer-regular.woff2') format('woff2'),
+         url('suwannaphum-khmer-regular.woff') format('woff');
+}

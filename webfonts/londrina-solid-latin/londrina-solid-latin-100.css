@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Londrina Solid';
+    font-style: 'normal';
+    font-weight: 100;
+    src: local('Londrina Solid Thin'), local('LondrinaSolid-Thin'),
+         url('londrina-solid-latin-100.woff2') format('woff2'),
+         url('londrina-solid-latin-100.woff') format('woff');
+}

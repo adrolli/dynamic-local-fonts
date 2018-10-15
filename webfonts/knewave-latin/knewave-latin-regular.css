@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Knewave';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Knewave Regular'), local('Knewave-Regular'),
+         url('knewave-latin-regular.woff2') format('woff2'),
+         url('knewave-latin-regular.woff') format('woff');
+}

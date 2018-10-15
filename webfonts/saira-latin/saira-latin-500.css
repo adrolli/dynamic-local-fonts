@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Saira';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Saira Medium'), local('Saira-Medium'),
+         url('saira-latin-500.woff2') format('woff2'),
+         url('saira-latin-500.woff') format('woff');
+}

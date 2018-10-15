@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Eczar';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Eczar Medium'), local('Eczar-Medium'),
+         url('eczar-latin-500.woff2') format('woff2'),
+         url('eczar-latin-500.woff') format('woff');
+}

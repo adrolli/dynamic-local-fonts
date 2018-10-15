@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fjalla One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fjalla One Regular'), local('FjallaOne-Regular'),
+         url('fjalla-one-latin-regular.woff2') format('woff2'),
+         url('fjalla-one-latin-regular.woff') format('woff');
+}

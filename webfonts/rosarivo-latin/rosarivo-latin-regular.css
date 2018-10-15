@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rosarivo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rosarivo Regular'), local('Rosarivo-Regular'),
+         url('rosarivo-latin-regular.woff2') format('woff2'),
+         url('rosarivo-latin-regular.woff') format('woff');
+}

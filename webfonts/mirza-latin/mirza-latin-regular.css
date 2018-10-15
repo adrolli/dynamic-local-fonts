@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mirza';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mirza Regular'), local('Mirza-Regular'),
+         url('mirza-latin-regular.woff2') format('woff2'),
+         url('mirza-latin-regular.woff') format('woff');
+}

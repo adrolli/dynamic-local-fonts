@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Ubuntu Light'), local('Ubuntu-Light'),
+         url('ubuntu-latin-300.woff2') format('woff2'),
+         url('ubuntu-latin-300.woff') format('woff');
+}

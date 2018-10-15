@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sawarabi Mincho';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sawarabi Mincho Regular'), local('SawarabiMincho-Regular'),
+         url('sawarabi-mincho-latin-regular.woff2') format('woff2'),
+         url('sawarabi-mincho-latin-regular.woff') format('woff');
+}

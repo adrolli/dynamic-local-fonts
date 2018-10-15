@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Share';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Share Regular'), local('Share-Regular'),
+         url('share-latin-regular.woff2') format('woff2'),
+         url('share-latin-regular.woff') format('woff');
+}

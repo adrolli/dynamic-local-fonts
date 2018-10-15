@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rufina';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Rufina Bold'), local('Rufina-Bold'),
+         url('rufina-latin-700.woff2') format('woff2'),
+         url('rufina-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Josefin Sans Black Italic'), local('JosefinSans-BlackItalic'),
+         url('josefin-sans-latin-italic.woff2') format('woff2'),
+         url('josefin-sans-latin-italic.woff') format('woff');
+}

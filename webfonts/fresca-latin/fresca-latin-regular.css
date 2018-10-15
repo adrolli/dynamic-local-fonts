@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fresca';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fresca Regular'), local('Fresca-Regular'),
+         url('fresca-latin-regular.woff2') format('woff2'),
+         url('fresca-latin-regular.woff') format('woff');
+}

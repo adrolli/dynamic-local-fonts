@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rouge Script';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rouge Script Regular'), local('RougeScript-Regular'),
+         url('rouge-script-latin-regular.woff2') format('woff2'),
+         url('rouge-script-latin-regular.woff') format('woff');
+}

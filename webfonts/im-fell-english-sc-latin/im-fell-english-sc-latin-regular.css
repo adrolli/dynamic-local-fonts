@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IM Fell English SC';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('IM Fell English SC Regular'), local('IMFellEnglishSC-Regular'),
+         url('im-fell-english-sc-latin-regular.woff2') format('woff2'),
+         url('im-fell-english-sc-latin-regular.woff') format('woff');
+}

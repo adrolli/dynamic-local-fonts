@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Yrsa';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Yrsa Regular'), local('Yrsa-Regular'),
+         url('yrsa-latin-regular.woff2') format('woff2'),
+         url('yrsa-latin-regular.woff') format('woff');
+}

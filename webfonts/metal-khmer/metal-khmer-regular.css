@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Metal';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Metal Regular'), local('Metal-Regular'),
+         url('metal-khmer-regular.woff2') format('woff2'),
+         url('metal-khmer-regular.woff') format('woff');
+}

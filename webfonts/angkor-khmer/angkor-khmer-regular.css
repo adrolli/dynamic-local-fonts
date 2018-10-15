@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Angkor';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Angkor Regular'), local('Angkor-Regular'),
+         url('angkor-khmer-regular.woff2') format('woff2'),
+         url('angkor-khmer-regular.woff') format('woff');
+}

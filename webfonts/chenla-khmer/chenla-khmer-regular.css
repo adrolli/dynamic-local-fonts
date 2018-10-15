@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chenla';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Chenla Regular'), local('Chenla-Regular'),
+         url('chenla-khmer-regular.woff2') format('woff2'),
+         url('chenla-khmer-regular.woff') format('woff');
+}

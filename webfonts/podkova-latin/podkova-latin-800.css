@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Podkova';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Podkova ExtraBold'), local('Podkova-ExtraBold'),
+         url('podkova-latin-800.woff2') format('woff2'),
+         url('podkova-latin-800.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Shojumaru';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Shojumaru Regular'), local('Shojumaru-Regular'),
+         url('shojumaru-latin-regular.woff2') format('woff2'),
+         url('shojumaru-latin-regular.woff') format('woff');
+}

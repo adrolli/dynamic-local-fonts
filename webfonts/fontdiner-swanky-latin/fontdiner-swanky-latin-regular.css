@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fontdiner Swanky';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fontdiner Swanky Regular'), local('FontdinerSwanky-Regular'),
+         url('fontdiner-swanky-latin-regular.woff2') format('woff2'),
+         url('fontdiner-swanky-latin-regular.woff') format('woff');
+}

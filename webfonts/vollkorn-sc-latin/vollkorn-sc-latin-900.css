@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Vollkorn SC';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Vollkorn SC Black'), local('VollkornSC-Black'),
+         url('vollkorn-sc-latin-900.woff2') format('woff2'),
+         url('vollkorn-sc-latin-900.woff') format('woff');
+}

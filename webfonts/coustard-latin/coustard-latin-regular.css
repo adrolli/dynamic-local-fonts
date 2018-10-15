@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Coustard';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Coustard Regular'), local('Coustard-Regular'),
+         url('coustard-latin-regular.woff2') format('woff2'),
+         url('coustard-latin-regular.woff') format('woff');
+}

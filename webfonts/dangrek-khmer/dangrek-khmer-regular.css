@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dangrek';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Dangrek Regular'), local('Dangrek-Regular'),
+         url('dangrek-khmer-regular.woff2') format('woff2'),
+         url('dangrek-khmer-regular.woff') format('woff');
+}

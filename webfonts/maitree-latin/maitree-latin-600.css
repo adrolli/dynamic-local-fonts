@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Maitree';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Maitree SemiBold'), local('Maitree-SemiBold'),
+         url('maitree-latin-600.woff2') format('woff2'),
+         url('maitree-latin-600.woff') format('woff');
+}

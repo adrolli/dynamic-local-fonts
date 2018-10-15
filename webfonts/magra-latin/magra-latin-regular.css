@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Magra';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Magra Regular'), local('Magra-Regular'),
+         url('magra-latin-regular.woff2') format('woff2'),
+         url('magra-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cabin Condensed';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Cabin Condensed SemiBold'), local('CabinCondensed-SemiBold'),
+         url('cabin-condensed-latin-600.woff2') format('woff2'),
+         url('cabin-condensed-latin-600.woff') format('woff');
+}

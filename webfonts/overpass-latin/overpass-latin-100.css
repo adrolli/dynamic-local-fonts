@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Overpass';
+    font-style: 'normal';
+    font-weight: 100;
+    src: local('Overpass Thin'), local('Overpass-Thin'),
+         url('overpass-latin-100.woff2') format('woff2'),
+         url('overpass-latin-100.woff') format('woff');
+}

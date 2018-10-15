@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Megrim';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Megrim Regular'), local('Megrim-Regular'),
+         url('megrim-latin-regular.woff2') format('woff2'),
+         url('megrim-latin-regular.woff') format('woff');
+}

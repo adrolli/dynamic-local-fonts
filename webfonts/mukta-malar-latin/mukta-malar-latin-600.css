@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mukta Malar';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Mukta Malar SemiBold'), local('MuktaMalar-SemiBold'),
+         url('mukta-malar-latin-600.woff2') format('woff2'),
+         url('mukta-malar-latin-600.woff') format('woff');
+}

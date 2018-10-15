@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fondamento';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fondamento Regular'), local('Fondamento-Regular'),
+         url('fondamento-latin-regular.woff2') format('woff2'),
+         url('fondamento-latin-regular.woff') format('woff');
+}

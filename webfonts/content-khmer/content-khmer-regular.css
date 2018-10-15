@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Content';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Content Regular'), local('Content-Regular'),
+         url('content-khmer-regular.woff2') format('woff2'),
+         url('content-khmer-regular.woff') format('woff');
+}

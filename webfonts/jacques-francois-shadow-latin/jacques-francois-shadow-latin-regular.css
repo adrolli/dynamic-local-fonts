@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Jacques Francois Shadow';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Jacques Francois Shadow Regular'), local('JacquesFrancoisShadow-Regular'),
+         url('jacques-francois-shadow-latin-regular.woff2') format('woff2'),
+         url('jacques-francois-shadow-latin-regular.woff') format('woff');
+}

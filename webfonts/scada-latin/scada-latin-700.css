@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Scada';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Scada Bold'), local('Scada-Bold'),
+         url('scada-latin-700.woff2') format('woff2'),
+         url('scada-latin-700.woff') format('woff');
+}

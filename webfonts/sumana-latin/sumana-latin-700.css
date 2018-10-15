@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sumana';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Sumana Bold'), local('Sumana-Bold'),
+         url('sumana-latin-700.woff2') format('woff2'),
+         url('sumana-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nova Cut';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Nova Cut Regular'), local('NovaCut-Regular'),
+         url('nova-cut-latin-regular.woff2') format('woff2'),
+         url('nova-cut-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Londrina Outline';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Londrina Outline Regular'), local('LondrinaOutline-Regular'),
+         url('londrina-outline-latin-regular.woff2') format('woff2'),
+         url('londrina-outline-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Muli';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Muli Bold'), local('Muli-Bold'),
+         url('muli-latin-700.woff2') format('woff2'),
+         url('muli-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mukta Malar';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Mukta Malar ExtraBold'), local('MuktaMalar-ExtraBold'),
+         url('mukta-malar-latin-800.woff2') format('woff2'),
+         url('mukta-malar-latin-800.woff') format('woff');
+}

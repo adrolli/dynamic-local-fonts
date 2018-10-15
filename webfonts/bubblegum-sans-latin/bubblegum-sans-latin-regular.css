@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bubblegum Sans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bubblegum Sans Regular'), local('BubblegumSans-Regular'),
+         url('bubblegum-sans-latin-regular.woff2') format('woff2'),
+         url('bubblegum-sans-latin-regular.woff') format('woff');
+}

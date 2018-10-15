@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chivo';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Chivo Light'), local('Chivo-Light'),
+         url('chivo-latin-300.woff2') format('woff2'),
+         url('chivo-latin-300.woff') format('woff');
+}

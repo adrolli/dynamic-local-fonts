@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Convergence';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Convergence Regular'), local('Convergence-Regular'),
+         url('convergence-latin-regular.woff2') format('woff2'),
+         url('convergence-latin-regular.woff') format('woff');
+}

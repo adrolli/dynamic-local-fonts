@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Syncopate';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Syncopate Bold'), local('Syncopate-Bold'),
+         url('syncopate-latin-700.woff2') format('woff2'),
+         url('syncopate-latin-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kantumruy';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Kantumruy Bold'), local('Kantumruy-Bold'),
+         url('kantumruy-khmer-700.woff2') format('woff2'),
+         url('kantumruy-khmer-700.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Istok Web';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Istok Web Black Italic'), local('IstokWeb-BlackItalic'),
+         url('istok-web-latin-italic.woff2') format('woff2'),
+         url('istok-web-latin-italic.woff') format('woff');
+}

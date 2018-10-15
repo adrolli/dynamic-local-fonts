@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Port Lligat Sans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Port Lligat Sans Regular'), local('PortLligatSans-Regular'),
+         url('port-lligat-sans-latin-regular.woff2') format('woff2'),
+         url('port-lligat-sans-latin-regular.woff') format('woff');
+}

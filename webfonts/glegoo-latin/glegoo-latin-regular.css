@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Glegoo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Glegoo Regular'), local('Glegoo-Regular'),
+         url('glegoo-latin-regular.woff2') format('woff2'),
+         url('glegoo-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Carter One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Carter One Regular'), local('CarterOne-Regular'),
+         url('carter-one-latin-regular.woff2') format('woff2'),
+         url('carter-one-latin-regular.woff') format('woff');
+}

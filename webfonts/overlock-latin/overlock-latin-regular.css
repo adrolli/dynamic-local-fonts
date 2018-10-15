@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Overlock';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Overlock Regular'), local('Overlock-Regular'),
+         url('overlock-latin-regular.woff2') format('woff2'),
+         url('overlock-latin-regular.woff') format('woff');
+}

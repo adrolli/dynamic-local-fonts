@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lovers Quarrel';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Lovers Quarrel Regular'), local('LoversQuarrel-Regular'),
+         url('lovers-quarrel-latin-regular.woff2') format('woff2'),
+         url('lovers-quarrel-latin-regular.woff') format('woff');
+}

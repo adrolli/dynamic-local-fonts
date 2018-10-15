@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Homenaje';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Homenaje Regular'), local('Homenaje-Regular'),
+         url('homenaje-latin-regular.woff2') format('woff2'),
+         url('homenaje-latin-regular.woff') format('woff');
+}

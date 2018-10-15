@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Oleo Script Swash Caps';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Oleo Script Swash Caps Regular'), local('OleoScriptSwashCaps-Regular'),
+         url('oleo-script-swash-caps-latin-regular.woff2') format('woff2'),
+         url('oleo-script-swash-caps-latin-regular.woff') format('woff');
+}

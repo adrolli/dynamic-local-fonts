@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Allan';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Allan Regular'), local('Allan-Regular'),
+         url('allan-latin-regular.woff2') format('woff2'),
+         url('allan-latin-regular.woff') format('woff');
+}

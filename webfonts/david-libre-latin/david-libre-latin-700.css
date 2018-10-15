@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'David Libre';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('David Libre Bold'), local('DavidLibre-Bold'),
+         url('david-libre-latin-700.woff2') format('woff2'),
+         url('david-libre-latin-700.woff') format('woff');
+}

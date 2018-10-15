@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Martel';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Martel Black'), local('Martel-Black'),
+         url('martel-latin-900.woff2') format('woff2'),
+         url('martel-latin-900.woff') format('woff');
+}

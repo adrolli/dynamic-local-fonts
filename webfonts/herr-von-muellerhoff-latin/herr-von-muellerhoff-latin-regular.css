@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Herr Von Muellerhoff';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Herr Von Muellerhoff Regular'), local('HerrVonMuellerhoff-Regular'),
+         url('herr-von-muellerhoff-latin-regular.woff2') format('woff2'),
+         url('herr-von-muellerhoff-latin-regular.woff') format('woff');
+}

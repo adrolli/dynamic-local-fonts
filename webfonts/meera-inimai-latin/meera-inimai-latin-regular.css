@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Meera Inimai';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Meera Inimai Regular'), local('MeeraInimai-Regular'),
+         url('meera-inimai-latin-regular.woff2') format('woff2'),
+         url('meera-inimai-latin-regular.woff') format('woff');
+}

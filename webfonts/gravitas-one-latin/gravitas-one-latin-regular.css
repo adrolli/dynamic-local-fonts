@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gravitas One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gravitas One Regular'), local('GravitasOne-Regular'),
+         url('gravitas-one-latin-regular.woff2') format('woff2'),
+         url('gravitas-one-latin-regular.woff') format('woff');
+}

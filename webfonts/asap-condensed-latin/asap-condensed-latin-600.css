@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Asap Condensed';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Asap Condensed SemiBold'), local('AsapCondensed-SemiBold'),
+         url('asap-condensed-latin-600.woff2') format('woff2'),
+         url('asap-condensed-latin-600.woff') format('woff');
+}

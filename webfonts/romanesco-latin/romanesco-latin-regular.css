@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Romanesco';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Romanesco Regular'), local('Romanesco-Regular'),
+         url('romanesco-latin-regular.woff2') format('woff2'),
+         url('romanesco-latin-regular.woff') format('woff');
+}

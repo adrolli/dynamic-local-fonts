@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Crushed';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Crushed Regular'), local('Crushed-Regular'),
+         url('crushed-latin-regular.woff2') format('woff2'),
+         url('crushed-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Balthazar';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Balthazar Regular'), local('Balthazar-Regular'),
+         url('balthazar-latin-regular.woff2') format('woff2'),
+         url('balthazar-latin-regular.woff') format('woff');
+}

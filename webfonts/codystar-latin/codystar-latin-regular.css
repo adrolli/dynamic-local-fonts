@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Codystar';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Codystar Regular'), local('Codystar-Regular'),
+         url('codystar-latin-regular.woff2') format('woff2'),
+         url('codystar-latin-regular.woff') format('woff');
+}

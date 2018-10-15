@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Philosopher';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Philosopher Bold'), local('Philosopher-Bold'),
+         url('philosopher-latin-700.woff2') format('woff2'),
+         url('philosopher-latin-700.woff') format('woff');
+}

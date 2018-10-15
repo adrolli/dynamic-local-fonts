@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Crimson Text SemiBold'), local('CrimsonText-SemiBold'),
+         url('crimson-text-latin-600.woff2') format('woff2'),
+         url('crimson-text-latin-600.woff') format('woff');
+}

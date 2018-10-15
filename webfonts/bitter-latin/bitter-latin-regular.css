@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bitter';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bitter Regular'), local('Bitter-Regular'),
+         url('bitter-latin-regular.woff2') format('woff2'),
+         url('bitter-latin-regular.woff') format('woff');
+}

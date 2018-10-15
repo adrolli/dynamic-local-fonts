@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Numans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Numans Regular'), local('Numans-Regular'),
+         url('numans-latin-regular.woff2') format('woff2'),
+         url('numans-latin-regular.woff') format('woff');
+}

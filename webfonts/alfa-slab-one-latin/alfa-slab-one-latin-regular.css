@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Alfa Slab One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Alfa Slab One Regular'), local('AlfaSlabOne-Regular'),
+         url('alfa-slab-one-latin-regular.woff2') format('woff2'),
+         url('alfa-slab-one-latin-regular.woff') format('woff');
+}

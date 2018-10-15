@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chicle';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Chicle Regular'), local('Chicle-Regular'),
+         url('chicle-latin-regular.woff2') format('woff2'),
+         url('chicle-latin-regular.woff') format('woff');
+}

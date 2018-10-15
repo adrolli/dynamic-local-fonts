@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gamja Flower';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gamja Flower Regular'), local('GamjaFlower-Regular'),
+         url('gamja-flower-latin-regular.woff2') format('woff2'),
+         url('gamja-flower-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rajdhani';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Rajdhani Light'), local('Rajdhani-Light'),
+         url('rajdhani-latin-300.woff2') format('woff2'),
+         url('rajdhani-latin-300.woff') format('woff');
+}

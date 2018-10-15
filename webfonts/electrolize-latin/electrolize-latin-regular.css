@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Electrolize';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Electrolize Regular'), local('Electrolize-Regular'),
+         url('electrolize-latin-regular.woff2') format('woff2'),
+         url('electrolize-latin-regular.woff') format('woff');
+}

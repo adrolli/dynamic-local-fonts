@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ruge Boogie';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ruge Boogie Regular'), local('RugeBoogie-Regular'),
+         url('ruge-boogie-latin-regular.woff2') format('woff2'),
+         url('ruge-boogie-latin-regular.woff') format('woff');
+}

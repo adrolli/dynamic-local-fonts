@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Piedra';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Piedra Regular'), local('Piedra-Regular'),
+         url('piedra-latin-regular.woff2') format('woff2'),
+         url('piedra-latin-regular.woff') format('woff');
+}

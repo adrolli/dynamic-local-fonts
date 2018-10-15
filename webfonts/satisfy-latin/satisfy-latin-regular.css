@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Satisfy';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Satisfy Regular'), local('Satisfy-Regular'),
+         url('satisfy-latin-regular.woff2') format('woff2'),
+         url('satisfy-latin-regular.woff') format('woff');
+}

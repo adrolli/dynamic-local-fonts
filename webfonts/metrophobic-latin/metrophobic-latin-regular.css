@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Metrophobic';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Metrophobic Regular'), local('Metrophobic-Regular'),
+         url('metrophobic-latin-regular.woff2') format('woff2'),
+         url('metrophobic-latin-regular.woff') format('woff');
+}

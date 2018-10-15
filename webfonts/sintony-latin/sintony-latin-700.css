@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sintony';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Sintony Bold'), local('Sintony-Bold'),
+         url('sintony-latin-700.woff2') format('woff2'),
+         url('sintony-latin-700.woff') format('woff');
+}

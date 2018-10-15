@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Henny Penny';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Henny Penny Regular'), local('HennyPenny-Regular'),
+         url('henny-penny-latin-regular.woff2') format('woff2'),
+         url('henny-penny-latin-regular.woff') format('woff');
+}

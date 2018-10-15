@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Krub';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Krub Regular'), local('Krub-Regular'),
+         url('krub-latin-regular.woff2') format('woff2'),
+         url('krub-latin-regular.woff') format('woff');
+}

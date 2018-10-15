@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Squada One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Squada One Regular'), local('SquadaOne-Regular'),
+         url('squada-one-latin-regular.woff2') format('woff2'),
+         url('squada-one-latin-regular.woff') format('woff');
+}

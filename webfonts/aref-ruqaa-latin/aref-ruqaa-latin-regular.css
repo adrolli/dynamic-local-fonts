@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Aref Ruqaa';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Aref Ruqaa Regular'), local('ArefRuqaa-Regular'),
+         url('aref-ruqaa-latin-regular.woff2') format('woff2'),
+         url('aref-ruqaa-latin-regular.woff') format('woff');
+}

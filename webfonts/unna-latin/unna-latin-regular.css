@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Unna';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Unna Regular'), local('Unna-Regular'),
+         url('unna-latin-regular.woff2') format('woff2'),
+         url('unna-latin-regular.woff') format('woff');
+}

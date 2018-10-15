@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Inder';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Inder Regular'), local('Inder-Regular'),
+         url('inder-latin-regular.woff2') format('woff2'),
+         url('inder-latin-regular.woff') format('woff');
+}

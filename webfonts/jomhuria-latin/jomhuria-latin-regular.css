@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Jomhuria';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Jomhuria Regular'), local('Jomhuria-Regular'),
+         url('jomhuria-latin-regular.woff2') format('woff2'),
+         url('jomhuria-latin-regular.woff') format('woff');
+}

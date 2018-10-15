@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Trochut';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Trochut Bold'), local('Trochut-Bold'),
+         url('trochut-latin-700.woff2') format('woff2'),
+         url('trochut-latin-700.woff') format('woff');
+}

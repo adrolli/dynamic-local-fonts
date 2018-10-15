@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cairo';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Cairo Black'), local('Cairo-Black'),
+         url('cairo-latin-900.woff2') format('woff2'),
+         url('cairo-latin-900.woff') format('woff');
+}

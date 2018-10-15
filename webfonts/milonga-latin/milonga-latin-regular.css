@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Milonga';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Milonga Regular'), local('Milonga-Regular'),
+         url('milonga-latin-regular.woff2') format('woff2'),
+         url('milonga-latin-regular.woff') format('woff');
+}

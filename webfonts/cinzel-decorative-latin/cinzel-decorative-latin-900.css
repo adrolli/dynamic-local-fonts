@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cinzel Decorative';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Cinzel Decorative Black'), local('CinzelDecorative-Black'),
+         url('cinzel-decorative-latin-900.woff2') format('woff2'),
+         url('cinzel-decorative-latin-900.woff') format('woff');
+}

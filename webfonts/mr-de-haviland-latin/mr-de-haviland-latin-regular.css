@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mr De Haviland';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mr De Haviland Regular'), local('MrDeHaviland-Regular'),
+         url('mr-de-haviland-latin-regular.woff2') format('woff2'),
+         url('mr-de-haviland-latin-regular.woff') format('woff');
+}

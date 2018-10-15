@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lily Script One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Lily Script One Regular'), local('LilyScriptOne-Regular'),
+         url('lily-script-one-latin-regular.woff2') format('woff2'),
+         url('lily-script-one-latin-regular.woff') format('woff');
+}

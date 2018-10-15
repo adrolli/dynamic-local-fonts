@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Poly';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Poly Regular'), local('Poly-Regular'),
+         url('poly-latin-regular.woff2') format('woff2'),
+         url('poly-latin-regular.woff') format('woff');
+}

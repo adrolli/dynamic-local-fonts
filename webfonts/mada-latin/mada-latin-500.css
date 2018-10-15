@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mada';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Mada Medium'), local('Mada-Medium'),
+         url('mada-latin-500.woff2') format('woff2'),
+         url('mada-latin-500.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Stint Ultra Expanded';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Stint Ultra Expanded Regular'), local('StintUltraExpanded-Regular'),
+         url('stint-ultra-expanded-latin-regular.woff2') format('woff2'),
+         url('stint-ultra-expanded-latin-regular.woff') format('woff');
+}

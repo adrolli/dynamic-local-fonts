@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Francois One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Francois One Regular'), local('FrancoisOne-Regular'),
+         url('francois-one-latin-regular.woff2') format('woff2'),
+         url('francois-one-latin-regular.woff') format('woff');
+}

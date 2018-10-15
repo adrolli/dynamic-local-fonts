@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Simonetta';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Simonetta Regular'), local('Simonetta-Regular'),
+         url('simonetta-latin-regular.woff2') format('woff2'),
+         url('simonetta-latin-regular.woff') format('woff');
+}

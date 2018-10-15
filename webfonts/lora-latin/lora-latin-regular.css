@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lora';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Lora Regular'), local('Lora-Regular'),
+         url('lora-latin-regular.woff2') format('woff2'),
+         url('lora-latin-regular.woff') format('woff');
+}

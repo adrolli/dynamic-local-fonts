@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Modern Antiqua';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Modern Antiqua Regular'), local('ModernAntiqua-Regular'),
+         url('modern-antiqua-latin-regular.woff2') format('woff2'),
+         url('modern-antiqua-latin-regular.woff') format('woff');
+}

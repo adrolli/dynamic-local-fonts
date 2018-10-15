@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mako';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mako Regular'), local('Mako-Regular'),
+         url('mako-latin-regular.woff2') format('woff2'),
+         url('mako-latin-regular.woff') format('woff');
+}

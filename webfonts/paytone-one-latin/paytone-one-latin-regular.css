@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Paytone One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Paytone One Regular'), local('PaytoneOne-Regular'),
+         url('paytone-one-latin-regular.woff2') format('woff2'),
+         url('paytone-one-latin-regular.woff') format('woff');
+}

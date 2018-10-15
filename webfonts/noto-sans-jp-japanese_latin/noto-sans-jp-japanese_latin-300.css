@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Noto Sans JP';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Noto Sans JP Light'), local('NotoSansJP-Light'),
+         url('noto-sans-jp-japanese_latin-300.woff2') format('woff2'),
+         url('noto-sans-jp-japanese_latin-300.woff') format('woff');
+}

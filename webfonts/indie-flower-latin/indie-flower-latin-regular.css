@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Indie Flower';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Indie Flower Regular'), local('IndieFlower-Regular'),
+         url('indie-flower-latin-regular.woff2') format('woff2'),
+         url('indie-flower-latin-regular.woff') format('woff');
+}

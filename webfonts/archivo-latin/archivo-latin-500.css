@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Archivo';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Archivo Medium'), local('Archivo-Medium'),
+         url('archivo-latin-500.woff2') format('woff2'),
+         url('archivo-latin-500.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hind Madurai';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Hind Madurai Light'), local('HindMadurai-Light'),
+         url('hind-madurai-latin-ext_tamil_latin-300.woff2') format('woff2'),
+         url('hind-madurai-latin-ext_tamil_latin-300.woff') format('woff');
+}

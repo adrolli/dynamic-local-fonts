@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Padauk';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Padauk Regular'), local('Padauk-Regular'),
+         url('padauk-latin_myanmar-regular.woff2') format('woff2'),
+         url('padauk-latin_myanmar-regular.woff') format('woff');
+}

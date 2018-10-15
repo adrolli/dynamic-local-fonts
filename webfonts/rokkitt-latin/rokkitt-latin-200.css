@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rokkitt';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Rokkitt ExtraLight'), local('Rokkitt-ExtraLight'),
+         url('rokkitt-latin-200.woff2') format('woff2'),
+         url('rokkitt-latin-200.woff') format('woff');
+}

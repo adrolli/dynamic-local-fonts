@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bai Jamjuree';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Bai Jamjuree SemiBold'), local('BaiJamjuree-SemiBold'),
+         url('bai-jamjuree-latin-600.woff2') format('woff2'),
+         url('bai-jamjuree-latin-600.woff') format('woff');
+}

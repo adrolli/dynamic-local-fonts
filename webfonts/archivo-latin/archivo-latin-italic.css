@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Archivo';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Archivo Black Italic'), local('Archivo-BlackItalic'),
+         url('archivo-latin-italic.woff2') format('woff2'),
+         url('archivo-latin-italic.woff') format('woff');
+}

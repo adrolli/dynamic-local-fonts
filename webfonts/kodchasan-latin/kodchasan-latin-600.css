@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kodchasan';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Kodchasan SemiBold'), local('Kodchasan-SemiBold'),
+         url('kodchasan-latin-600.woff2') format('woff2'),
+         url('kodchasan-latin-600.woff') format('woff');
+}

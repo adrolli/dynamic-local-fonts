@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Noto Sans Bold'), local('NotoSans-Bold'),
+         url('noto-sans-devanagari-700.woff2') format('woff2'),
+         url('noto-sans-devanagari-700.woff') format('woff');
+}

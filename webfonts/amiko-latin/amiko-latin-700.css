@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Amiko';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Amiko Bold'), local('Amiko-Bold'),
+         url('amiko-latin-700.woff2') format('woff2'),
+         url('amiko-latin-700.woff') format('woff');
+}

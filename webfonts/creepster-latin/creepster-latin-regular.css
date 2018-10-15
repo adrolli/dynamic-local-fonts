@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Creepster';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Creepster Regular'), local('Creepster-Regular'),
+         url('creepster-latin-regular.woff2') format('woff2'),
+         url('creepster-latin-regular.woff') format('woff');
+}

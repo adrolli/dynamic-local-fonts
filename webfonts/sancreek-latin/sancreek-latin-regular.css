@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sancreek';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sancreek Regular'), local('Sancreek-Regular'),
+         url('sancreek-latin-regular.woff2') format('woff2'),
+         url('sancreek-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: 'italic';
+    font-weight: 700;
+    src: local('Noto Serif Bold Italic'), local('NotoSerif-BoldItalic'),
+         url('noto-serif-latin-700italic.woff2') format('woff2'),
+         url('noto-serif-latin-700italic.woff') format('woff');
+}

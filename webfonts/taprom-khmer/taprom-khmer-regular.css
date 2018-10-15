@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Taprom';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Taprom Regular'), local('Taprom-Regular'),
+         url('taprom-khmer-regular.woff2') format('woff2'),
+         url('taprom-khmer-regular.woff') format('woff');
+}

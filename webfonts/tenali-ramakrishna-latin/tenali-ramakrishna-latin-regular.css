@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Tenali Ramakrishna';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Tenali Ramakrishna Regular'), local('TenaliRamakrishna-Regular'),
+         url('tenali-ramakrishna-latin-regular.woff2') format('woff2'),
+         url('tenali-ramakrishna-latin-regular.woff') format('woff');
+}

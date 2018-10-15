@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Zeyada';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Zeyada Regular'), local('Zeyada-Regular'),
+         url('zeyada-latin-regular.woff2') format('woff2'),
+         url('zeyada-latin-regular.woff') format('woff');
+}

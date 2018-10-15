@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Holtwood One SC';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Holtwood One SC Regular'), local('HoltwoodOneSC-Regular'),
+         url('holtwood-one-sc-latin-regular.woff2') format('woff2'),
+         url('holtwood-one-sc-latin-regular.woff') format('woff');
+}

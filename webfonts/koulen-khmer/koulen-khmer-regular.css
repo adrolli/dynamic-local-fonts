@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Koulen';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Koulen Regular'), local('Koulen-Regular'),
+         url('koulen-khmer-regular.woff2') format('woff2'),
+         url('koulen-khmer-regular.woff') format('woff');
+}

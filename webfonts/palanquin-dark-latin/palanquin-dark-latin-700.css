@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Palanquin Dark';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Palanquin Dark Bold'), local('PalanquinDark-Bold'),
+         url('palanquin-dark-latin-700.woff2') format('woff2'),
+         url('palanquin-dark-latin-700.woff') format('woff');
+}

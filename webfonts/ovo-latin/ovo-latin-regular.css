@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ovo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ovo Regular'), local('Ovo-Regular'),
+         url('ovo-latin-regular.woff2') format('woff2'),
+         url('ovo-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Biryani';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Biryani Black'), local('Biryani-Black'),
+         url('biryani-latin-900.woff2') format('woff2'),
+         url('biryani-latin-900.woff') format('woff');
+}

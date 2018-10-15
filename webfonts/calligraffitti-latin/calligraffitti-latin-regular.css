@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Calligraffitti';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Calligraffitti Regular'), local('Calligraffitti-Regular'),
+         url('calligraffitti-latin-regular.woff2') format('woff2'),
+         url('calligraffitti-latin-regular.woff') format('woff');
+}

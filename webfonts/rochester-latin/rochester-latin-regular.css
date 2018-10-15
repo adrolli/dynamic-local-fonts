@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rochester';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rochester Regular'), local('Rochester-Regular'),
+         url('rochester-latin-regular.woff2') format('woff2'),
+         url('rochester-latin-regular.woff') format('woff');
+}

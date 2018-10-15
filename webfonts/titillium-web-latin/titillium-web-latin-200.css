@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Titillium Web';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Titillium Web ExtraLight'), local('TitilliumWeb-ExtraLight'),
+         url('titillium-web-latin-200.woff2') format('woff2'),
+         url('titillium-web-latin-200.woff') format('woff');
+}

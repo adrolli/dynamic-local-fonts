@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cedarville Cursive';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Cedarville Cursive Regular'), local('CedarvilleCursive-Regular'),
+         url('cedarville-cursive-latin-regular.woff2') format('woff2'),
+         url('cedarville-cursive-latin-regular.woff') format('woff');
+}

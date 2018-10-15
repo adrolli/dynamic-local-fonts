@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Imprima';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Imprima Regular'), local('Imprima-Regular'),
+         url('imprima-latin-regular.woff2') format('woff2'),
+         url('imprima-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hi Melody';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Hi Melody Regular'), local('HiMelody-Regular'),
+         url('hi-melody-latin-regular.woff2') format('woff2'),
+         url('hi-melody-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gafata';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gafata Regular'), local('Gafata-Regular'),
+         url('gafata-latin-regular.woff2') format('woff2'),
+         url('gafata-latin-regular.woff') format('woff');
+}

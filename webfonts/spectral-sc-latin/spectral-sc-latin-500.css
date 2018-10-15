@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Spectral SC';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Spectral SC Medium'), local('SpectralSC-Medium'),
+         url('spectral-sc-latin-500.woff2') format('woff2'),
+         url('spectral-sc-latin-500.woff') format('woff');
+}

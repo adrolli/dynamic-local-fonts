@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Goudy Bookletter 1911';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Goudy Bookletter 1911 Regular'), local('GoudyBookletter1911-Regular'),
+         url('goudy-bookletter-1911-latin-regular.woff2') format('woff2'),
+         url('goudy-bookletter-1911-latin-regular.woff') format('woff');
+}

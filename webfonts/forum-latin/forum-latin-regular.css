@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Forum';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Forum Regular'), local('Forum-Regular'),
+         url('forum-latin-regular.woff2') format('woff2'),
+         url('forum-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Enriqueta';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Enriqueta Regular'), local('Enriqueta-Regular'),
+         url('enriqueta-latin-regular.woff2') format('woff2'),
+         url('enriqueta-latin-regular.woff') format('woff');
+}

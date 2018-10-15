@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Courgette';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Courgette Regular'), local('Courgette-Regular'),
+         url('courgette-latin-regular.woff2') format('woff2'),
+         url('courgette-latin-regular.woff') format('woff');
+}

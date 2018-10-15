@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bilbo Swash Caps';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bilbo Swash Caps Regular'), local('BilboSwashCaps-Regular'),
+         url('bilbo-swash-caps-latin-regular.woff2') format('woff2'),
+         url('bilbo-swash-caps-latin-regular.woff') format('woff');
+}

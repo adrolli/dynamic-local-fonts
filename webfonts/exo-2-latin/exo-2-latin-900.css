@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Exo 2';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Exo 2 Black'), local('Exo2-Black'),
+         url('exo-2-latin-900.woff2') format('woff2'),
+         url('exo-2-latin-900.woff') format('woff');
+}

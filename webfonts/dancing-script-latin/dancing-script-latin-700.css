@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dancing Script';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Dancing Script Bold'), local('DancingScript-Bold'),
+         url('dancing-script-latin-700.woff2') format('woff2'),
+         url('dancing-script-latin-700.woff') format('woff');
+}

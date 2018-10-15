@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Radley';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Radley Regular'), local('Radley-Regular'),
+         url('radley-latin-regular.woff2') format('woff2'),
+         url('radley-latin-regular.woff') format('woff');
+}

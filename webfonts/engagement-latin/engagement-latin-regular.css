@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Engagement';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Engagement Regular'), local('Engagement-Regular'),
+         url('engagement-latin-regular.woff2') format('woff2'),
+         url('engagement-latin-regular.woff') format('woff');
+}

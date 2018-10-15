@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Karla';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Karla Black Italic'), local('Karla-BlackItalic'),
+         url('karla-latin-italic.woff2') format('woff2'),
+         url('karla-latin-italic.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Unica One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Unica One Regular'), local('UnicaOne-Regular'),
+         url('unica-one-latin-regular.woff2') format('woff2'),
+         url('unica-one-latin-regular.woff') format('woff');
+}

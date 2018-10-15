@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Antic';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Antic Regular'), local('Antic-Regular'),
+         url('antic-latin-regular.woff2') format('woff2'),
+         url('antic-latin-regular.woff') format('woff');
+}

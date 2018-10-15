@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Princess Sofia';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Princess Sofia Regular'), local('PrincessSofia-Regular'),
+         url('princess-sofia-latin-regular.woff2') format('woff2'),
+         url('princess-sofia-latin-regular.woff') format('woff');
+}

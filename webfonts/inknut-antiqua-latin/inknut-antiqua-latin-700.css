@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Inknut Antiqua';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Inknut Antiqua Bold'), local('InknutAntiqua-Bold'),
+         url('inknut-antiqua-latin-700.woff2') format('woff2'),
+         url('inknut-antiqua-latin-700.woff') format('woff');
+}

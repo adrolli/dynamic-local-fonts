@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Annie Use Your Telescope';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Annie Use Your Telescope Regular'), local('AnnieUseYourTelescope-Regular'),
+         url('annie-use-your-telescope-latin-regular.woff2') format('woff2'),
+         url('annie-use-your-telescope-latin-regular.woff') format('woff');
+}

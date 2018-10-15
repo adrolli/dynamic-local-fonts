@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hanalei';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Hanalei Regular'), local('Hanalei-Regular'),
+         url('hanalei-latin-regular.woff2') format('woff2'),
+         url('hanalei-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hind';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Hind Medium'), local('Hind-Medium'),
+         url('hind-latin-ext_latin_devanagari-500.woff2') format('woff2'),
+         url('hind-latin-ext_latin_devanagari-500.woff') format('woff');
+}

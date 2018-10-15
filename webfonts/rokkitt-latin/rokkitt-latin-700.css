@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rokkitt';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Rokkitt Bold'), local('Rokkitt-Bold'),
+         url('rokkitt-latin-700.woff2') format('woff2'),
+         url('rokkitt-latin-700.woff') format('woff');
+}

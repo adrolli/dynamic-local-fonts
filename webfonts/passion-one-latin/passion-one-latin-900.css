@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Passion One';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Passion One Black'), local('PassionOne-Black'),
+         url('passion-one-latin-900.woff2') format('woff2'),
+         url('passion-one-latin-900.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lemonada';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Lemonada SemiBold'), local('Lemonada-SemiBold'),
+         url('lemonada-latin-600.woff2') format('woff2'),
+         url('lemonada-latin-600.woff') format('woff');
+}

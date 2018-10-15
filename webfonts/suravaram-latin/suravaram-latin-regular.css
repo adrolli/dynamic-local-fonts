@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Suravaram';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Suravaram Regular'), local('Suravaram-Regular'),
+         url('suravaram-latin-regular.woff2') format('woff2'),
+         url('suravaram-latin-regular.woff') format('woff');
+}

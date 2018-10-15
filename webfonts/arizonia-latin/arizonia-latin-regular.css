@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arizonia';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Arizonia Regular'), local('Arizonia-Regular'),
+         url('arizonia-latin-regular.woff2') format('woff2'),
+         url('arizonia-latin-regular.woff') format('woff');
+}

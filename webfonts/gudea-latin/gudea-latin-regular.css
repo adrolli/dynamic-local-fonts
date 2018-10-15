@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gudea';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gudea Regular'), local('Gudea-Regular'),
+         url('gudea-latin-regular.woff2') format('woff2'),
+         url('gudea-latin-regular.woff') format('woff');
+}

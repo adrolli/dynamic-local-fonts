@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Seaweed Script';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Seaweed Script Regular'), local('SeaweedScript-Regular'),
+         url('seaweed-script-latin-regular.woff2') format('woff2'),
+         url('seaweed-script-latin-regular.woff') format('woff');
+}

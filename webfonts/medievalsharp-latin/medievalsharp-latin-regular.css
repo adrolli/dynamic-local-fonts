@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MedievalSharp';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('MedievalSharp Regular'), local('MedievalSharp-Regular'),
+         url('medievalsharp-latin-regular.woff2') format('woff2'),
+         url('medievalsharp-latin-regular.woff') format('woff');
+}

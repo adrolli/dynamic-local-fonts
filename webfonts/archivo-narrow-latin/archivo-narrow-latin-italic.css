@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Archivo Narrow';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Archivo Narrow Black Italic'), local('ArchivoNarrow-BlackItalic'),
+         url('archivo-narrow-latin-italic.woff2') format('woff2'),
+         url('archivo-narrow-latin-italic.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sansita';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Sansita ExtraBold'), local('Sansita-ExtraBold'),
+         url('sansita-latin-800.woff2') format('woff2'),
+         url('sansita-latin-800.woff') format('woff');
+}

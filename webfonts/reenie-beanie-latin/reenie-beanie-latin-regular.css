@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Reenie Beanie';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Reenie Beanie Regular'), local('ReenieBeanie-Regular'),
+         url('reenie-beanie-latin-regular.woff2') format('woff2'),
+         url('reenie-beanie-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arya';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Arya Regular'), local('Arya-Regular'),
+         url('arya-latin-regular.woff2') format('woff2'),
+         url('arya-latin-regular.woff') format('woff');
+}

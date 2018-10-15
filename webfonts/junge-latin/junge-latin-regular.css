@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Junge';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Junge Regular'), local('Junge-Regular'),
+         url('junge-latin-regular.woff2') format('woff2'),
+         url('junge-latin-regular.woff') format('woff');
+}

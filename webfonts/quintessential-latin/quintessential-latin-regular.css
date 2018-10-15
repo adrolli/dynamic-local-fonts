@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Quintessential';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Quintessential Regular'), local('Quintessential-Regular'),
+         url('quintessential-latin-regular.woff2') format('woff2'),
+         url('quintessential-latin-regular.woff') format('woff');
+}

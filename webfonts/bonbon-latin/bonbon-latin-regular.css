@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bonbon';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bonbon Regular'), local('Bonbon-Regular'),
+         url('bonbon-latin-regular.woff2') format('woff2'),
+         url('bonbon-latin-regular.woff') format('woff');
+}

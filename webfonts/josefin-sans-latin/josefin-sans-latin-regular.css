@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Josefin Sans';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Josefin Sans Regular'), local('JosefinSans-Regular'),
+         url('josefin-sans-latin-regular.woff2') format('woff2'),
+         url('josefin-sans-latin-regular.woff') format('woff');
+}

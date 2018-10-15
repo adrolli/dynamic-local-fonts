@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BenchNine';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('BenchNine Bold'), local('BenchNine-Bold'),
+         url('benchnine-latin-700.woff2') format('woff2'),
+         url('benchnine-latin-700.woff') format('woff');
+}

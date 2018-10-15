@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rancho';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rancho Regular'), local('Rancho-Regular'),
+         url('rancho-latin-regular.woff2') format('woff2'),
+         url('rancho-latin-regular.woff') format('woff');
+}

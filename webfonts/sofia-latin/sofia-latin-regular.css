@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sofia';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sofia Regular'), local('Sofia-Regular'),
+         url('sofia-latin-regular.woff2') format('woff2'),
+         url('sofia-latin-regular.woff') format('woff');
+}

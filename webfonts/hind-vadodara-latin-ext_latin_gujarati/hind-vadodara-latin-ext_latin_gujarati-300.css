@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hind Vadodara';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Hind Vadodara Light'), local('HindVadodara-Light'),
+         url('hind-vadodara-latin-ext_latin_gujarati-300.woff2') format('woff2'),
+         url('hind-vadodara-latin-ext_latin_gujarati-300.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bilbo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bilbo Regular'), local('Bilbo-Regular'),
+         url('bilbo-latin-regular.woff2') format('woff2'),
+         url('bilbo-latin-regular.woff') format('woff');
+}

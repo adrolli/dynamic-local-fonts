@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Allerta Stencil';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Allerta Stencil Regular'), local('AllertaStencil-Regular'),
+         url('allerta-stencil-latin-regular.woff2') format('woff2'),
+         url('allerta-stencil-latin-regular.woff') format('woff');
+}

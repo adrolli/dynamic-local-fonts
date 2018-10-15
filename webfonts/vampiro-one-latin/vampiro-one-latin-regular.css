@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Vampiro One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Vampiro One Regular'), local('VampiroOne-Regular'),
+         url('vampiro-one-latin-regular.woff2') format('woff2'),
+         url('vampiro-one-latin-regular.woff') format('woff');
+}

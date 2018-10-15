@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'La Belle Aurore';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('La Belle Aurore Regular'), local('LaBelleAurore-Regular'),
+         url('la-belle-aurore-latin-regular.woff2') format('woff2'),
+         url('la-belle-aurore-latin-regular.woff') format('woff');
+}

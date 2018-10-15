@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cousine';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Cousine Regular'), local('Cousine-Regular'),
+         url('cousine-latin-regular.woff2') format('woff2'),
+         url('cousine-latin-regular.woff') format('woff');
+}

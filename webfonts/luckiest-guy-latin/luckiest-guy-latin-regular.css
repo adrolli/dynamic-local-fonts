@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Luckiest Guy';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Luckiest Guy Regular'), local('LuckiestGuy-Regular'),
+         url('luckiest-guy-latin-regular.woff2') format('woff2'),
+         url('luckiest-guy-latin-regular.woff') format('woff');
+}

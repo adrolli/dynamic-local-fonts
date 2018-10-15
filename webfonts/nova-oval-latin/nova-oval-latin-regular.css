@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nova Oval';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Nova Oval Regular'), local('NovaOval-Regular'),
+         url('nova-oval-latin-regular.woff2') format('woff2'),
+         url('nova-oval-latin-regular.woff') format('woff');
+}

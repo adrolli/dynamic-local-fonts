@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mukta Vaani';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Mukta Vaani Light'), local('MuktaVaani-Light'),
+         url('mukta-vaani-latin-300.woff2') format('woff2'),
+         url('mukta-vaani-latin-300.woff') format('woff');
+}

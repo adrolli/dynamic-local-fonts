@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Emilys Candy';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Emilys Candy Regular'), local('EmilysCandy-Regular'),
+         url('emilys-candy-latin-regular.woff2') format('woff2'),
+         url('emilys-candy-latin-regular.woff') format('woff');
+}

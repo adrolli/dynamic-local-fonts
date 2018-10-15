@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'New Rocker';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('New Rocker Regular'), local('NewRocker-Regular'),
+         url('new-rocker-latin-regular.woff2') format('woff2'),
+         url('new-rocker-latin-regular.woff') format('woff');
+}

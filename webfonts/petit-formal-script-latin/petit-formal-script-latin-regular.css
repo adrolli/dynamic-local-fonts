@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Petit Formal Script';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Petit Formal Script Regular'), local('PetitFormalScript-Regular'),
+         url('petit-formal-script-latin-regular.woff2') format('woff2'),
+         url('petit-formal-script-latin-regular.woff') format('woff');
+}

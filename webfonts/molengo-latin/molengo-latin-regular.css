@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Molengo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Molengo Regular'), local('Molengo-Regular'),
+         url('molengo-latin-regular.woff2') format('woff2'),
+         url('molengo-latin-regular.woff') format('woff');
+}

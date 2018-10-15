@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Alegreya';
+    font-style: 'italic';
+    font-weight: 500;
+    src: local('Alegreya Medium Italic'), local('Alegreya-MediumItalic'),
+         url('alegreya-latin-500italic.woff2') format('woff2'),
+         url('alegreya-latin-500italic.woff') format('woff');
+}

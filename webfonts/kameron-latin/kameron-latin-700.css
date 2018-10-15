@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kameron';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Kameron Bold'), local('Kameron-Bold'),
+         url('kameron-latin-700.woff2') format('woff2'),
+         url('kameron-latin-700.woff') format('woff');
+}

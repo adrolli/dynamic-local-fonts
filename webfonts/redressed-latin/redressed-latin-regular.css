@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Redressed';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Redressed Regular'), local('Redressed-Regular'),
+         url('redressed-latin-regular.woff2') format('woff2'),
+         url('redressed-latin-regular.woff') format('woff');
+}

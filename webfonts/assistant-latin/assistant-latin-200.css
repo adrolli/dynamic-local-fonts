@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Assistant';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Assistant ExtraLight'), local('Assistant-ExtraLight'),
+         url('assistant-latin-200.woff2') format('woff2'),
+         url('assistant-latin-200.woff') format('woff');
+}

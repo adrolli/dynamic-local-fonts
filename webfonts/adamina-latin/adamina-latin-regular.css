@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Adamina';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Adamina Regular'), local('Adamina-Regular'),
+         url('adamina-latin-regular.woff2') format('woff2'),
+         url('adamina-latin-regular.woff') format('woff');
+}

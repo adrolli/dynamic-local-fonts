@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Schoolbell';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Schoolbell Regular'), local('Schoolbell-Regular'),
+         url('schoolbell-latin-regular.woff2') format('woff2'),
+         url('schoolbell-latin-regular.woff') format('woff');
+}

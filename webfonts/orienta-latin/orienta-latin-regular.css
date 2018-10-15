@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Orienta';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Orienta Regular'), local('Orienta-Regular'),
+         url('orienta-latin-regular.woff2') format('woff2'),
+         url('orienta-latin-regular.woff') format('woff');
+}

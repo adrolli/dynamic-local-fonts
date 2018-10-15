@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nova Mono';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Nova Mono Regular'), local('NovaMono-Regular'),
+         url('nova-mono-latin-regular.woff2') format('woff2'),
+         url('nova-mono-latin-regular.woff') format('woff');
+}

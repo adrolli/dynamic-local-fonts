@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cabin Condensed';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Cabin Condensed Regular'), local('CabinCondensed-Regular'),
+         url('cabin-condensed-latin-regular.woff2') format('woff2'),
+         url('cabin-condensed-latin-regular.woff') format('woff');
+}

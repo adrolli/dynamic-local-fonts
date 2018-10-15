@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Oldenburg';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Oldenburg Regular'), local('Oldenburg-Regular'),
+         url('oldenburg-latin-regular.woff2') format('woff2'),
+         url('oldenburg-latin-regular.woff') format('woff');
+}

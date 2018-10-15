@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ribeye';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ribeye Regular'), local('Ribeye-Regular'),
+         url('ribeye-latin-regular.woff2') format('woff2'),
+         url('ribeye-latin-regular.woff') format('woff');
+}

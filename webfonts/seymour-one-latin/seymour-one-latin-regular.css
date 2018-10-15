@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Seymour One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Seymour One Regular'), local('SeymourOne-Regular'),
+         url('seymour-one-latin-regular.woff2') format('woff2'),
+         url('seymour-one-latin-regular.woff') format('woff');
+}

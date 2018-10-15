@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Macondo Swash Caps';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Macondo Swash Caps Regular'), local('MacondoSwashCaps-Regular'),
+         url('macondo-swash-caps-latin-regular.woff2') format('woff2'),
+         url('macondo-swash-caps-latin-regular.woff') format('woff');
+}

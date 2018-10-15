@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fenix';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fenix Regular'), local('Fenix-Regular'),
+         url('fenix-latin-regular.woff2') format('woff2'),
+         url('fenix-latin-regular.woff') format('woff');
+}

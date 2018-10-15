@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Work Sans';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Work Sans Medium'), local('WorkSans-Medium'),
+         url('work-sans-latin-500.woff2') format('woff2'),
+         url('work-sans-latin-500.woff') format('woff');
+}

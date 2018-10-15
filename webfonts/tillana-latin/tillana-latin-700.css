@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Tillana';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Tillana Bold'), local('Tillana-Bold'),
+         url('tillana-latin-700.woff2') format('woff2'),
+         url('tillana-latin-700.woff') format('woff');
+}

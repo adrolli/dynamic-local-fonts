@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ribeye Marrow';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ribeye Marrow Regular'), local('RibeyeMarrow-Regular'),
+         url('ribeye-marrow-latin-regular.woff2') format('woff2'),
+         url('ribeye-marrow-latin-regular.woff') format('woff');
+}

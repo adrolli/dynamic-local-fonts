@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lekton';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Lekton Black Italic'), local('Lekton-BlackItalic'),
+         url('lekton-latin-italic.woff2') format('woff2'),
+         url('lekton-latin-italic.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Muli';
+    font-style: 'italic';
+    font-weight: 200;
+    src: local('Muli ExtraLight Italic'), local('Muli-ExtraLightItalic'),
+         url('muli-latin-200italic.woff2') format('woff2'),
+         url('muli-latin-200italic.woff') format('woff');
+}

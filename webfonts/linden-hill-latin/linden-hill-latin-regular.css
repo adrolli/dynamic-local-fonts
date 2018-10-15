@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Linden Hill';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Linden Hill Regular'), local('LindenHill-Regular'),
+         url('linden-hill-latin-regular.woff2') format('woff2'),
+         url('linden-hill-latin-regular.woff') format('woff');
+}

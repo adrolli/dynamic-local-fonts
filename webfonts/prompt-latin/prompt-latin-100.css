@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Prompt';
+    font-style: 'normal';
+    font-weight: 100;
+    src: local('Prompt Thin'), local('Prompt-Thin'),
+         url('prompt-latin-100.woff2') format('woff2'),
+         url('prompt-latin-100.woff') format('woff');
+}

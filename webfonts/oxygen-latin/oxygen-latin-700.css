@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Oxygen';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Oxygen Bold'), local('Oxygen-Bold'),
+         url('oxygen-latin-700.woff2') format('woff2'),
+         url('oxygen-latin-700.woff') format('woff');
+}

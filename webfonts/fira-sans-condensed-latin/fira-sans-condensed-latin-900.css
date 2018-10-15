@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fira Sans Condensed';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Fira Sans Condensed Black'), local('FiraSansCondensed-Black'),
+         url('fira-sans-condensed-latin-900.woff2') format('woff2'),
+         url('fira-sans-condensed-latin-900.woff') format('woff');
+}

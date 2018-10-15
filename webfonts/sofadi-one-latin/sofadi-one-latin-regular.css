@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sofadi One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Sofadi One Regular'), local('SofadiOne-Regular'),
+         url('sofadi-one-latin-regular.woff2') format('woff2'),
+         url('sofadi-one-latin-regular.woff') format('woff');
+}

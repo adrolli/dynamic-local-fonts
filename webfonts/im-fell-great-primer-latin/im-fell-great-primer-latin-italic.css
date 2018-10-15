@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IM Fell Great Primer';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('IM Fell Great Primer Black Italic'), local('IMFellGreatPrimer-BlackItalic'),
+         url('im-fell-great-primer-latin-italic.woff2') format('woff2'),
+         url('im-fell-great-primer-latin-italic.woff') format('woff');
+}

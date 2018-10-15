@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Spectral';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Spectral Bold'), local('Spectral-Bold'),
+         url('spectral-latin-700.woff2') format('woff2'),
+         url('spectral-latin-700.woff') format('woff');
+}

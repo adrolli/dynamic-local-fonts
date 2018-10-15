@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Elsie';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Elsie Regular'), local('Elsie-Regular'),
+         url('elsie-latin-regular.woff2') format('woff2'),
+         url('elsie-latin-regular.woff') format('woff');
+}

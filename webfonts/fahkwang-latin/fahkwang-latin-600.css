@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fahkwang';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Fahkwang SemiBold'), local('Fahkwang-SemiBold'),
+         url('fahkwang-latin-600.woff2') format('woff2'),
+         url('fahkwang-latin-600.woff') format('woff');
+}

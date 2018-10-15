@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ultra';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ultra Regular'), local('Ultra-Regular'),
+         url('ultra-latin-regular.woff2') format('woff2'),
+         url('ultra-latin-regular.woff') format('woff');
+}

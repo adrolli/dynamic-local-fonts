@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Brawler';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Brawler Regular'), local('Brawler-Regular'),
+         url('brawler-latin-regular.woff2') format('woff2'),
+         url('brawler-latin-regular.woff') format('woff');
+}

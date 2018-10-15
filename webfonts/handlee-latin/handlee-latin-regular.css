@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Handlee';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Handlee Regular'), local('Handlee-Regular'),
+         url('handlee-latin-regular.woff2') format('woff2'),
+         url('handlee-latin-regular.woff') format('woff');
+}

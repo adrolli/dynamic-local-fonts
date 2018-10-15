@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Montaga';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Montaga Regular'), local('Montaga-Regular'),
+         url('montaga-latin-regular.woff2') format('woff2'),
+         url('montaga-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Faster One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Faster One Regular'), local('FasterOne-Regular'),
+         url('faster-one-latin-regular.woff2') format('woff2'),
+         url('faster-one-latin-regular.woff') format('woff');
+}

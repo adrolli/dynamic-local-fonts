@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Amiri';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Amiri Bold'), local('Amiri-Bold'),
+         url('amiri-arabic_latin-700.woff2') format('woff2'),
+         url('amiri-arabic_latin-700.woff') format('woff');
+}

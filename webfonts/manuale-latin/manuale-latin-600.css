@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Manuale';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Manuale SemiBold'), local('Manuale-SemiBold'),
+         url('manuale-latin-600.woff2') format('woff2'),
+         url('manuale-latin-600.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arbutus';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Arbutus Regular'), local('Arbutus-Regular'),
+         url('arbutus-latin-regular.woff2') format('woff2'),
+         url('arbutus-latin-regular.woff') format('woff');
+}

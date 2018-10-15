@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ranga';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Ranga Regular'), local('Ranga-Regular'),
+         url('ranga-latin-regular.woff2') format('woff2'),
+         url('ranga-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Waiting for the Sunrise';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Waiting for the Sunrise Regular'), local('WaitingfortheSunrise-Regular'),
+         url('waiting-for-the-sunrise-latin-regular.woff2') format('woff2'),
+         url('waiting-for-the-sunrise-latin-regular.woff') format('woff');
+}

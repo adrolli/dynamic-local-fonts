@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Libre Barcode 39 Extended';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Libre Barcode 39 Extended Regular'), local('LibreBarcode39Extended-Regular'),
+         url('libre-barcode-39-extended-latin-regular.woff2') format('woff2'),
+         url('libre-barcode-39-extended-latin-regular.woff') format('woff');
+}

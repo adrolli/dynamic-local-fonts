@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Wellfleet';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Wellfleet Regular'), local('Wellfleet-Regular'),
+         url('wellfleet-latin-regular.woff2') format('woff2'),
+         url('wellfleet-latin-regular.woff') format('woff');
+}

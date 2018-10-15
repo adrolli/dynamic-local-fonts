@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Source Sans Pro ExtraLight'), local('SourceSansPro-ExtraLight'),
+         url('source-sans-pro-latin-200.woff2') format('woff2'),
+         url('source-sans-pro-latin-200.woff') format('woff');
+}

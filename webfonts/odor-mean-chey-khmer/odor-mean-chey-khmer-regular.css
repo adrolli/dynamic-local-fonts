@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Odor Mean Chey';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Odor Mean Chey Regular'), local('OdorMeanChey-Regular'),
+         url('odor-mean-chey-khmer-regular.woff2') format('woff2'),
+         url('odor-mean-chey-khmer-regular.woff') format('woff');
+}

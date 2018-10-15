@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Covered By Your Grace';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Covered By Your Grace Regular'), local('CoveredByYourGrace-Regular'),
+         url('covered-by-your-grace-latin-regular.woff2') format('woff2'),
+         url('covered-by-your-grace-latin-regular.woff') format('woff');
+}

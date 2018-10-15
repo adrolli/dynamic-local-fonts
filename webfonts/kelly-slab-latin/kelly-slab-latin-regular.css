@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kelly Slab';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kelly Slab Regular'), local('KellySlab-Regular'),
+         url('kelly-slab-latin-regular.woff2') format('woff2'),
+         url('kelly-slab-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Shanti';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Shanti Regular'), local('Shanti-Regular'),
+         url('shanti-latin-regular.woff2') format('woff2'),
+         url('shanti-latin-regular.woff') format('woff');
+}

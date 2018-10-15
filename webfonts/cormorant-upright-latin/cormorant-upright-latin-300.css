@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cormorant Upright';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Cormorant Upright Light'), local('CormorantUpright-Light'),
+         url('cormorant-upright-latin-300.woff2') format('woff2'),
+         url('cormorant-upright-latin-300.woff') format('woff');
+}

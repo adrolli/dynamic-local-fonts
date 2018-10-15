@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Petrona';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Petrona Regular'), local('Petrona-Regular'),
+         url('petrona-latin-regular.woff2') format('woff2'),
+         url('petrona-latin-regular.woff') format('woff');
+}

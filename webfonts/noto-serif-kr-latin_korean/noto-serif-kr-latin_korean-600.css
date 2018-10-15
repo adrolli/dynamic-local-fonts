@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Noto Serif KR';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Noto Serif KR SemiBold'), local('NotoSerifKR-SemiBold'),
+         url('noto-serif-kr-latin_korean-600.woff2') format('woff2'),
+         url('noto-serif-kr-latin_korean-600.woff') format('woff');
+}

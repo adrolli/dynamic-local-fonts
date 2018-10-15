@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Lakki Reddy';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Lakki Reddy Regular'), local('LakkiReddy-Regular'),
+         url('lakki-reddy-latin-regular.woff2') format('woff2'),
+         url('lakki-reddy-latin-regular.woff') format('woff');
+}

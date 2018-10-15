@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ruda';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Ruda Black'), local('Ruda-Black'),
+         url('ruda-latin-900.woff2') format('woff2'),
+         url('ruda-latin-900.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Stalemate';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Stalemate Regular'), local('Stalemate-Regular'),
+         url('stalemate-latin-regular.woff2') format('woff2'),
+         url('stalemate-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Days One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Days One Regular'), local('DaysOne-Regular'),
+         url('days-one-latin-regular.woff2') format('woff2'),
+         url('days-one-latin-regular.woff') format('woff');
+}

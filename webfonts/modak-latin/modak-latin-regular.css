@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Modak';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Modak Regular'), local('Modak-Regular'),
+         url('modak-latin-regular.woff2') format('woff2'),
+         url('modak-latin-regular.woff') format('woff');
+}

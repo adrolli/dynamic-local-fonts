@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Alegreya SC';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Alegreya SC Regular'), local('AlegreyaSC-Regular'),
+         url('alegreya-sc-latin-regular.woff2') format('woff2'),
+         url('alegreya-sc-latin-regular.woff') format('woff');
+}

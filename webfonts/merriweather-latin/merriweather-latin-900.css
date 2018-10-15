@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Merriweather';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Merriweather Black'), local('Merriweather-Black'),
+         url('merriweather-latin-900.woff2') format('woff2'),
+         url('merriweather-latin-900.woff') format('woff');
+}

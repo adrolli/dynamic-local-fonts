@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Beon';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Beon Regular'), local('Beon-Regular'),
+         url('beon-latin-regular.woff2') format('woff2'),
+         url('beon-latin-regular.woff') format('woff');
+}

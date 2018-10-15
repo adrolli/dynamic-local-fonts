@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gruppo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gruppo Regular'), local('Gruppo-Regular'),
+         url('gruppo-latin-regular.woff2') format('woff2'),
+         url('gruppo-latin-regular.woff') format('woff');
+}

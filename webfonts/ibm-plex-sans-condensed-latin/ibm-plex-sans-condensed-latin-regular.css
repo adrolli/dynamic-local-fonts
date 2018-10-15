@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'IBM Plex Sans Condensed';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('IBM Plex Sans Condensed Regular'), local('IBMPlexSansCondensed-Regular'),
+         url('ibm-plex-sans-condensed-latin-regular.woff2') format('woff2'),
+         url('ibm-plex-sans-condensed-latin-regular.woff') format('woff');
+}

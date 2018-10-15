@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Baloo Thambi';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Baloo Thambi Regular'), local('BalooThambi-Regular'),
+         url('baloo-thambi-latin-regular.woff2') format('woff2'),
+         url('baloo-thambi-latin-regular.woff') format('woff');
+}

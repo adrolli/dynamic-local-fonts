@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Oleo Script';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Oleo Script Bold'), local('OleoScript-Bold'),
+         url('oleo-script-latin-700.woff2') format('woff2'),
+         url('oleo-script-latin-700.woff') format('woff');
+}

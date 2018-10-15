@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Chau Philomene One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Chau Philomene One Regular'), local('ChauPhilomeneOne-Regular'),
+         url('chau-philomene-one-latin-regular.woff2') format('woff2'),
+         url('chau-philomene-one-latin-regular.woff') format('woff');
+}

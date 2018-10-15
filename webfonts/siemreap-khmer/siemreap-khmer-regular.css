@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Siemreap';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Siemreap Regular'), local('Siemreap-Regular'),
+         url('siemreap-khmer-regular.woff2') format('woff2'),
+         url('siemreap-khmer-regular.woff') format('woff');
+}

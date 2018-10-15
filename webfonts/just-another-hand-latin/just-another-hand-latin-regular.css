@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Just Another Hand';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Just Another Hand Regular'), local('JustAnotherHand-Regular'),
+         url('just-another-hand-latin-regular.woff2') format('woff2'),
+         url('just-another-hand-latin-regular.woff') format('woff');
+}

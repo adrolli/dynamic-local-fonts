@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Merienda';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Merienda Bold'), local('Merienda-Bold'),
+         url('merienda-latin-700.woff2') format('woff2'),
+         url('merienda-latin-700.woff') format('woff');
+}

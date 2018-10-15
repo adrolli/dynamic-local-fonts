@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Libre Franklin';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Libre Franklin ExtraLight'), local('LibreFranklin-ExtraLight'),
+         url('libre-franklin-latin-200.woff2') format('woff2'),
+         url('libre-franklin-latin-200.woff') format('woff');
+}

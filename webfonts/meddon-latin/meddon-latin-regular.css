@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Meddon';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Meddon Regular'), local('Meddon-Regular'),
+         url('meddon-latin-regular.woff2') format('woff2'),
+         url('meddon-latin-regular.woff') format('woff');
+}

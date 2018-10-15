@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cousine';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('Cousine Black Italic'), local('Cousine-BlackItalic'),
+         url('cousine-latin-italic.woff2') format('woff2'),
+         url('cousine-latin-italic.woff') format('woff');
+}

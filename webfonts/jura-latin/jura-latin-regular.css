@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Jura';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Jura Regular'), local('Jura-Regular'),
+         url('jura-latin-regular.woff2') format('woff2'),
+         url('jura-latin-regular.woff') format('woff');
+}

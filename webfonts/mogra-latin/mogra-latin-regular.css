@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mogra';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mogra Regular'), local('Mogra-Regular'),
+         url('mogra-latin-regular.woff2') format('woff2'),
+         url('mogra-latin-regular.woff') format('woff');
+}

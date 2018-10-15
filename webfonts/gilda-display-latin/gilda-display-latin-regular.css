@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gilda Display';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gilda Display Regular'), local('GildaDisplay-Regular'),
+         url('gilda-display-latin-regular.woff2') format('woff2'),
+         url('gilda-display-latin-regular.woff') format('woff');
+}

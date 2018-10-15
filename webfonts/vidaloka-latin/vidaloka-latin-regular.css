@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Vidaloka';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Vidaloka Regular'), local('Vidaloka-Regular'),
+         url('vidaloka-latin-regular.woff2') format('woff2'),
+         url('vidaloka-latin-regular.woff') format('woff');
+}

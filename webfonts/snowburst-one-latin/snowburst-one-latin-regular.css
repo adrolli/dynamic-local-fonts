@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Snowburst One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Snowburst One Regular'), local('SnowburstOne-Regular'),
+         url('snowburst-one-latin-regular.woff2') format('woff2'),
+         url('snowburst-one-latin-regular.woff') format('woff');
+}

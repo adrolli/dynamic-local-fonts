@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mali';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Mali Medium'), local('Mali-Medium'),
+         url('mali-latin-500.woff2') format('woff2'),
+         url('mali-latin-500.woff') format('woff');
+}

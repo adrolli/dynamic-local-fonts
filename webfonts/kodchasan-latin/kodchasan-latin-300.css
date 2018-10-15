@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kodchasan';
+    font-style: 'normal';
+    font-weight: 300;
+    src: local('Kodchasan Light'), local('Kodchasan-Light'),
+         url('kodchasan-latin-300.woff2') format('woff2'),
+         url('kodchasan-latin-300.woff') format('woff');
+}

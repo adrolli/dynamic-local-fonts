@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gloria Hallelujah';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Gloria Hallelujah Regular'), local('GloriaHallelujah-Regular'),
+         url('gloria-hallelujah-latin-regular.woff2') format('woff2'),
+         url('gloria-hallelujah-latin-regular.woff') format('woff');
+}

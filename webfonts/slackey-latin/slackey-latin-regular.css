@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Slackey';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Slackey Regular'), local('Slackey-Regular'),
+         url('slackey-latin-regular.woff2') format('woff2'),
+         url('slackey-latin-regular.woff') format('woff');
+}

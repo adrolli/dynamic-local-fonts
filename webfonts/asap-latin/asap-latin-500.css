@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Asap';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Asap Medium'), local('Asap-Medium'),
+         url('asap-latin-500.woff2') format('woff2'),
+         url('asap-latin-500.woff') format('woff');
+}

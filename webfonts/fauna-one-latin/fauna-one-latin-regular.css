@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fauna One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Fauna One Regular'), local('FaunaOne-Regular'),
+         url('fauna-one-latin-regular.woff2') format('woff2'),
+         url('fauna-one-latin-regular.woff') format('woff');
+}

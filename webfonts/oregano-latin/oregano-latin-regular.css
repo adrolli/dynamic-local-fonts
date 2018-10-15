@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Oregano';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Oregano Regular'), local('Oregano-Regular'),
+         url('oregano-latin-regular.woff2') format('woff2'),
+         url('oregano-latin-regular.woff') format('woff');
+}

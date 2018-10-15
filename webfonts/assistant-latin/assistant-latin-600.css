@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Assistant';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Assistant SemiBold'), local('Assistant-SemiBold'),
+         url('assistant-latin-600.woff2') format('woff2'),
+         url('assistant-latin-600.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mandali';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mandali Regular'), local('Mandali-Regular'),
+         url('mandali-latin-regular.woff2') format('woff2'),
+         url('mandali-latin-regular.woff') format('woff');
+}

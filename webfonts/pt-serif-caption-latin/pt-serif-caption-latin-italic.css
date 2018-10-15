@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PT Serif Caption';
+    font-style: 'italic';
+    font-weight: 900;
+    src: local('PT Serif Caption Black Italic'), local('PTSerifCaption-BlackItalic'),
+         url('pt-serif-caption-latin-italic.woff2') format('woff2'),
+         url('pt-serif-caption-latin-italic.woff') format('woff');
+}

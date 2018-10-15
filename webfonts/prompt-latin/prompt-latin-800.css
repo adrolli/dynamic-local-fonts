@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Prompt';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Prompt ExtraBold'), local('Prompt-ExtraBold'),
+         url('prompt-latin-800.woff2') format('woff2'),
+         url('prompt-latin-800.woff') format('woff');
+}

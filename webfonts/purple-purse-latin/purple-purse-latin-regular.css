@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Purple Purse';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Purple Purse Regular'), local('PurplePurse-Regular'),
+         url('purple-purse-latin-regular.woff2') format('woff2'),
+         url('purple-purse-latin-regular.woff') format('woff');
+}

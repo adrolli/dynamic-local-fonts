@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Nanum Gothic Regular'), local('NanumGothic-Regular'),
+         url('nanum-gothic-latin_korean-regular.woff2') format('woff2'),
+         url('nanum-gothic-latin_korean-regular.woff') format('woff');
+}

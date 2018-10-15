@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Faustina';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Faustina SemiBold'), local('Faustina-SemiBold'),
+         url('faustina-latin-600.woff2') format('woff2'),
+         url('faustina-latin-600.woff') format('woff');
+}

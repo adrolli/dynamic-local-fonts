@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arvo';
+    font-style: 'italic';
+    font-weight: 700;
+    src: local('Arvo Bold Italic'), local('Arvo-BoldItalic'),
+         url('arvo-latin-700italic.woff2') format('woff2'),
+         url('arvo-latin-700italic.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Heebo';
+    font-style: 'normal';
+    font-weight: 100;
+    src: local('Heebo Thin'), local('Heebo-Thin'),
+         url('heebo-latin-100.woff2') format('woff2'),
+         url('heebo-latin-100.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Prociono';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Prociono Regular'), local('Prociono-Regular'),
+         url('prociono-latin-regular.woff2') format('woff2'),
+         url('prociono-latin-regular.woff') format('woff');
+}

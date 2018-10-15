@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Headland One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Headland One Regular'), local('HeadlandOne-Regular'),
+         url('headland-one-latin-regular.woff2') format('woff2'),
+         url('headland-one-latin-regular.woff') format('woff');
+}

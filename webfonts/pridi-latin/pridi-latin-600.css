@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Pridi';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Pridi SemiBold'), local('Pridi-SemiBold'),
+         url('pridi-latin-600.woff2') format('woff2'),
+         url('pridi-latin-600.woff') format('woff');
+}

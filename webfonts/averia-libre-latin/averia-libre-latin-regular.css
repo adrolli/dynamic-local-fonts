@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Averia Libre';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Averia Libre Regular'), local('AveriaLibre-Regular'),
+         url('averia-libre-latin-regular.woff2') format('woff2'),
+         url('averia-libre-latin-regular.woff') format('woff');
+}

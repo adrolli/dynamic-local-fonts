@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cute Font';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Cute Font Regular'), local('CuteFont-Regular'),
+         url('cute-font-latin-regular.woff2') format('woff2'),
+         url('cute-font-latin-regular.woff') format('woff');
+}

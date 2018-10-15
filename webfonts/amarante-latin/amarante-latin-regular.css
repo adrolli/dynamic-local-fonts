@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Amarante';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Amarante Regular'), local('Amarante-Regular'),
+         url('amarante-latin-regular.woff2') format('woff2'),
+         url('amarante-latin-regular.woff') format('woff');
+}

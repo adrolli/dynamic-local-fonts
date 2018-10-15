@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Delius Unicase';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Delius Unicase Regular'), local('DeliusUnicase-Regular'),
+         url('delius-unicase-latin-regular.woff2') format('woff2'),
+         url('delius-unicase-latin-regular.woff') format('woff');
+}

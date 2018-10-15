@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Alegreya Sans SC';
+    font-style: 'normal';
+    font-weight: 800;
+    src: local('Alegreya Sans SC ExtraBold'), local('AlegreyaSansSC-ExtraBold'),
+         url('alegreya-sans-sc-latin-800.woff2') format('woff2'),
+         url('alegreya-sans-sc-latin-800.woff') format('woff');
+}

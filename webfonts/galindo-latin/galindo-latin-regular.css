@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Galindo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Galindo Regular'), local('Galindo-Regular'),
+         url('galindo-latin-regular.woff2') format('woff2'),
+         url('galindo-latin-regular.woff') format('woff');
+}

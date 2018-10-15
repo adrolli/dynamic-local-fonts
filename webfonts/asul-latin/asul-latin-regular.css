@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Asul';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Asul Regular'), local('Asul-Regular'),
+         url('asul-latin-regular.woff2') format('woff2'),
+         url('asul-latin-regular.woff') format('woff');
+}

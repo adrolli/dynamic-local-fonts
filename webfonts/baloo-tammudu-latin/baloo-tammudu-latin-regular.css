@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Baloo Tammudu';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Baloo Tammudu Regular'), local('BalooTammudu-Regular'),
+         url('baloo-tammudu-latin-regular.woff2') format('woff2'),
+         url('baloo-tammudu-latin-regular.woff') format('woff');
+}

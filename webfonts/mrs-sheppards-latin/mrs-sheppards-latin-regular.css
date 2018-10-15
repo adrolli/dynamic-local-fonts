@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mrs Sheppards';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Mrs Sheppards Regular'), local('MrsSheppards-Regular'),
+         url('mrs-sheppards-latin-regular.woff2') format('woff2'),
+         url('mrs-sheppards-latin-regular.woff') format('woff');
+}

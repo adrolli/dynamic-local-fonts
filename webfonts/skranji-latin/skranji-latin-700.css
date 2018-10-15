@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Skranji';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Skranji Bold'), local('Skranji-Bold'),
+         url('skranji-latin-700.woff2') format('woff2'),
+         url('skranji-latin-700.woff') format('woff');
+}

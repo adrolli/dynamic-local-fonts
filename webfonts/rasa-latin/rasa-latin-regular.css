@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rasa';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Rasa Regular'), local('Rasa-Regular'),
+         url('rasa-latin-regular.woff2') format('woff2'),
+         url('rasa-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Playfair Display SC';
+    font-style: 'normal';
+    font-weight: 900;
+    src: local('Playfair Display SC Black'), local('PlayfairDisplaySC-Black'),
+         url('playfair-display-sc-latin-900.woff2') format('woff2'),
+         url('playfair-display-sc-latin-900.woff') format('woff');
+}

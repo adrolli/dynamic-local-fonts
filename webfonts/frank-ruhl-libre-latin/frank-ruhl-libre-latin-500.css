@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Frank Ruhl Libre';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('Frank Ruhl Libre Medium'), local('FrankRuhlLibre-Medium'),
+         url('frank-ruhl-libre-latin-500.woff2') format('woff2'),
+         url('frank-ruhl-libre-latin-500.woff') format('woff');
+}

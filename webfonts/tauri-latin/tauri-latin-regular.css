@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Tauri';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Tauri Regular'), local('Tauri-Regular'),
+         url('tauri-latin-regular.woff2') format('woff2'),
+         url('tauri-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Belgrano';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Belgrano Regular'), local('Belgrano-Regular'),
+         url('belgrano-latin-regular.woff2') format('woff2'),
+         url('belgrano-latin-regular.woff') format('woff');
+}

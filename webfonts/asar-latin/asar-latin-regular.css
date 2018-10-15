@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Asar';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Asar Regular'), local('Asar-Regular'),
+         url('asar-latin-regular.woff2') format('woff2'),
+         url('asar-latin-regular.woff') format('woff');
+}

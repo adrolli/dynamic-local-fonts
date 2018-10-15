@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nova Slim';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Nova Slim Regular'), local('NovaSlim-Regular'),
+         url('nova-slim-latin-regular.woff2') format('woff2'),
+         url('nova-slim-latin-regular.woff') format('woff');
+}

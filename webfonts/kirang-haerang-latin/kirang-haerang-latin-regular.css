@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Kirang Haerang';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Kirang Haerang Regular'), local('KirangHaerang-Regular'),
+         url('kirang-haerang-latin-regular.woff2') format('woff2'),
+         url('kirang-haerang-latin-regular.woff') format('woff');
+}

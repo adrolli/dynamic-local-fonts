@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Alike Angular';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Alike Angular Regular'), local('AlikeAngular-Regular'),
+         url('alike-angular-latin-regular.woff2') format('woff2'),
+         url('alike-angular-latin-regular.woff') format('woff');
+}

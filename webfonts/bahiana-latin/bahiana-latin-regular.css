@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bahiana';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Bahiana Regular'), local('Bahiana-Regular'),
+         url('bahiana-latin-regular.woff2') format('woff2'),
+         url('bahiana-latin-regular.woff') format('woff');
+}

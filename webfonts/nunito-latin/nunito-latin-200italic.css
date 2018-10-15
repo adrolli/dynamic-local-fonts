@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Nunito';
+    font-style: 'italic';
+    font-weight: 200;
+    src: local('Nunito ExtraLight Italic'), local('Nunito-ExtraLightItalic'),
+         url('nunito-latin-200italic.woff2') format('woff2'),
+         url('nunito-latin-200italic.woff') format('woff');
+}

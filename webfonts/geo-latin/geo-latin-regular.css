@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Geo';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Geo Regular'), local('Geo-Regular'),
+         url('geo-latin-regular.woff2') format('woff2'),
+         url('geo-latin-regular.woff') format('woff');
+}

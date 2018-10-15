@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'K2D';
+    font-style: 'italic';
+    font-weight: 800;
+    src: local('K2D ExtraBold Italic'), local('K2D-ExtraBoldItalic'),
+         url('k2d-latin-800italic.woff2') format('woff2'),
+         url('k2d-latin-800italic.woff') format('woff');
+}

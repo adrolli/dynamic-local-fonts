@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Overpass';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Overpass ExtraLight'), local('Overpass-ExtraLight'),
+         url('overpass-latin-200.woff2') format('woff2'),
+         url('overpass-latin-200.woff') format('woff');
+}

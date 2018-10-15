@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'El Messiri';
+    font-style: 'normal';
+    font-weight: 500;
+    src: local('El Messiri Medium'), local('ElMessiri-Medium'),
+         url('el-messiri-latin-500.woff2') format('woff2'),
+         url('el-messiri-latin-500.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Baloo Tamma';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Baloo Tamma Regular'), local('BalooTamma-Regular'),
+         url('baloo-tamma-kannada_latin-ext_latin_vietnamese-regular.woff2') format('woff2'),
+         url('baloo-tamma-kannada_latin-ext_latin_vietnamese-regular.woff') format('woff');
+}

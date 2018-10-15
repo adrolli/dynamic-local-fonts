@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Changa';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Changa Bold'), local('Changa-Bold'),
+         url('changa-latin-700.woff2') format('woff2'),
+         url('changa-latin-700.woff') format('woff');
+}

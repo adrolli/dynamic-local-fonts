@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Unkempt';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Unkempt Regular'), local('Unkempt-Regular'),
+         url('unkempt-latin-regular.woff2') format('woff2'),
+         url('unkempt-latin-regular.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Josefin Slab';
+    font-style: 'normal';
+    font-weight: 100;
+    src: local('Josefin Slab Thin'), local('JosefinSlab-Thin'),
+         url('josefin-slab-latin-100.woff2') format('woff2'),
+         url('josefin-slab-latin-100.woff') format('woff');
+}

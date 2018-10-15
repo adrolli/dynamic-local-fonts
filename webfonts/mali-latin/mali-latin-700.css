@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mali';
+    font-style: 'normal';
+    font-weight: 700;
+    src: local('Mali Bold'), local('Mali-Bold'),
+         url('mali-latin-700.woff2') format('woff2'),
+         url('mali-latin-700.woff') format('woff');
+}

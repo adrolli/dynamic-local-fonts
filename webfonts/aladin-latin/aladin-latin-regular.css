@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Aladin';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Aladin Regular'), local('Aladin-Regular'),
+         url('aladin-latin-regular.woff2') format('woff2'),
+         url('aladin-latin-regular.woff') format('woff');
+}

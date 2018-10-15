@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Vollkorn';
+    font-style: 'normal';
+    font-weight: 600;
+    src: local('Vollkorn SemiBold'), local('Vollkorn-SemiBold'),
+         url('vollkorn-latin-600.woff2') format('woff2'),
+         url('vollkorn-latin-600.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Shrikhand';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Shrikhand Regular'), local('Shrikhand-Regular'),
+         url('shrikhand-latin-regular.woff2') format('woff2'),
+         url('shrikhand-latin-regular.woff') format('woff');
+}

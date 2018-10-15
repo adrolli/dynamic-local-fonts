@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Dawning of a New Day';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Dawning of a New Day Regular'), local('DawningofaNewDay-Regular'),
+         url('dawning-of-a-new-day-latin-regular.woff2') format('woff2'),
+         url('dawning-of-a-new-day-latin-regular.woff') format('woff');
+}

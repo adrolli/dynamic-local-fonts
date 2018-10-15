@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Mada';
+    font-style: 'normal';
+    font-weight: 200;
+    src: local('Mada ExtraLight'), local('Mada-ExtraLight'),
+         url('mada-latin-200.woff2') format('woff2'),
+         url('mada-latin-200.woff') format('woff');
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Give You Glory';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Give You Glory Regular'), local('GiveYouGlory-Regular'),
+         url('give-you-glory-latin-regular.woff2') format('woff2'),
+         url('give-you-glory-latin-regular.woff') format('woff');
+}

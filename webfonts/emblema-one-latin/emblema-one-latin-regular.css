@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Emblema One';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Emblema One Regular'), local('EmblemaOne-Regular'),
+         url('emblema-one-latin-regular.woff2') format('woff2'),
+         url('emblema-one-latin-regular.woff') format('woff');
+}

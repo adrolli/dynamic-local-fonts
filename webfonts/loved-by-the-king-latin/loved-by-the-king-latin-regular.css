@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Loved by the King';
+    font-style: 'normal';
+    font-weight: 400;
+    src: local('Loved by the King Regular'), local('LovedbytheKing-Regular'),
+         url('loved-by-the-king-latin-regular.woff2') format('woff2'),
+         url('loved-by-the-king-latin-regular.woff') format('woff');
+}
