@@ -10,7 +10,7 @@ I love fonts. For my own project I wanted to use Google Fonts as well as some ic
 
 ### Use my WordPress Child Theme
 
-You may use my child theme (coming soon) as starting point or develop your own thing. WORK IN PROGRESS.
+You may use my child theme (coming soon) as starting point or develop your own thing.
 
 ### With a WordPress Plugin, Starter Theme or other Websoftware
 
@@ -19,9 +19,9 @@ Use it in your WordPress Plugin, Dyna or any other Starter Theme or in other CMS
 #### Get started
 
 1) Use the file [font-list-copy.txt](font-list-copy.txt) to build your font-selector dropdown. You can use an ACF-field for that.
-2) Copy the code from [functions.php](functions.php) into your functions.php (only WordPress of course). - UNFINISHED WORK!
+2) Copy the code from [functions.php](functions.php) into your functions.php (only WordPress of course).
 3) Copy one or more fonts or even the complete webfonts-folder into your theme, plugin or web-project.
-4) Use the static code example [static.css](static.css) to use the fonts within your website or application. - UNFINISHED WORK!
+4) Use the static code example [static.css](static.css) to use the fonts within your website or application.
 
 ## Licence
 
@@ -49,11 +49,10 @@ Questions, ideas, need Composer or NPM? Want to add a font or features? No probl
 
 ## Todo
 
-- Create the static CSS version(S)
-- Create the dynamic CSS version
-- Create the full-dynamic ...???
-- Test (incl. font-weights)
-- What about CDN support?
-- Make the dyna child-theme available
+- Some Demo HTML and docs
+- Create dynamic CSS
+- Dyna child-theme
+- Font CDN Builder
 - Write a blogpost about it
 - Work with it & Showcase
+- Make a beatiful font demo
