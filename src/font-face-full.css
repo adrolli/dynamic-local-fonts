@@ -1,4 +1,4 @@
-/* exo-100 - latin */
+/* This is an example CSS-file with a full set of font-loadings and example usage */
 @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -7,7 +7,7 @@
          url('../fonts/exo-v7-latin-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-100italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -16,7 +16,7 @@
          url('../fonts/exo-v7-latin-100italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-100italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-200 - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -25,7 +25,7 @@
          url('../fonts/exo-v7-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-200italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -34,7 +34,7 @@
          url('../fonts/exo-v7-latin-200italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-200italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-300 - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -43,7 +43,7 @@
          url('../fonts/exo-v7-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-300italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -52,7 +52,7 @@
          url('../fonts/exo-v7-latin-300italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-300italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-regular - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -61,7 +61,7 @@
          url('../fonts/exo-v7-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -70,7 +70,7 @@
          url('../fonts/exo-v7-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-500 - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -79,7 +79,7 @@
          url('../fonts/exo-v7-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-500italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -88,7 +88,7 @@
          url('../fonts/exo-v7-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-600 - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -97,7 +97,7 @@
          url('../fonts/exo-v7-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-600italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -106,7 +106,7 @@
          url('../fonts/exo-v7-latin-600italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-600italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-700 - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -115,7 +115,7 @@
          url('../fonts/exo-v7-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-700italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -124,7 +124,7 @@
          url('../fonts/exo-v7-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-800 - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -133,7 +133,7 @@
          url('../fonts/exo-v7-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-800italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -142,7 +142,7 @@
          url('../fonts/exo-v7-latin-800italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-800italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-900 - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: normal;
@@ -151,7 +151,7 @@
          url('../fonts/exo-v7-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
-  /* exo-900italic - latin */
+
   @font-face {
     font-family: 'Exo';
     font-style: italic;
@@ -159,4 +159,20 @@
     src: local('Exo Black Italic'), local('Exo-BlackItalic'),
          url('../fonts/exo-v7-latin-900italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('../fonts/exo-v7-latin-900italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+  /* Using the font - example */
+  h1 {
+      font-family: 'Exo Black';
+      font-size: 28px;
+  }
+
+  h2 {
+    font-family: 'Exo Bold Italic';
+    font-size: 16px;
+  }
+  
+  p {
+    font-family: 'Exo Regular';
+    font-size: 13px;
   }
