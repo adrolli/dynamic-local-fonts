@@ -17,7 +17,7 @@ I use dynamic local fonts with my child-theme (will publish the code as soon as 
 3) Copy the code from [functions.php](functions.php) into the functions.php of your child-theme.
 4) Copy the code from [header.php](header.php) into the header.php of your child theme.
 
-If you don't know how to create a dropdown within your posts, pages, custom post types, categories, tags or other taxonomies you may use Advanced Custom Fields. It is very easy to create a field named "font" and to use it as the above mentioned font-selector where ever you want to make fontastic things.
+If you don't know how to create a dropdown within your posts, pages, custom post types, categories, tags or other taxonomies you may use [Custom Fields](custom-fields.php) or [Advanced Custom Fields](acf-example.json). It is very easy to create a field named "font" and to use it as the above mentioned font-selector where ever you want to make fontastic things.
 
 ### Get started using $whatever
 
