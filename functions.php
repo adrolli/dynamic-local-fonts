@@ -11,15 +11,15 @@
 function load_google_fonts() {
 
 	// get current font from ACF field
-	$fontload = get_field( 'font', get_queried_object() );
+	$fontload = get_field( 'webfont', get_queried_object() );
 	$fontpath = substr($fontload, -0, strrpos($fontload, "-"));
 
 	// load dynamic font
-	if ( ! empty( $fontload ) ) {
-		wp_enqueue_style( 'fonts-css', get_stylesheet_directory_uri() . '/webfonts/' . $fontpath . '/' . $fontload . '.css' );	
+	if ( !empty($fontload) && $fontload != "no-font-selected" ) {
+		wp_enqueue_style( 'dynamic-font', get_stylesheet_directory_uri() . '/webfonts/' . $fontpath . '/' . $fontload . '.css' );	
 	}
 
 	// load default font
-	wp_enqueue_style( 'fonts-css', get_stylesheet_directory_uri() . '/webfonts/nunito-latin/nunito-latin-regular.css' );
+	wp_enqueue_style( 'static-font', get_stylesheet_directory_uri() . '/webfonts/nunito-latin/nunito-latin-regular.css' );
 }
 add_action( 'wp_enqueue_scripts', 'load_google_fonts' );

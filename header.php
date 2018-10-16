@@ -15,15 +15,21 @@
          */ 
 
         // Just copy this part
-		$fontarray = explode("-", get_field( 'font', get_queried_object()));
-		$fontinfo = array_pop($fontarray);
-		$fontsubset = array_pop($fontarray);
-		$fontfamily = ucwords(implode(" ", $fontarray));
+		$webfont = get_field( 'webfont', get_queried_object());
+		
+		if ( $webfont == "no-font-selected") {
+			$fontset = '"Nunito", Helvetica, Arial, Lucida, sans-serif';
+		} else {
+			$fontarray = explode("-", $webfont);
+			$fontinfo = array_pop($fontarray);
+			$fontsubset = array_pop($fontarray);
+			$fontfamily = ucwords(implode(" ", $fontarray));
+			$fontset = '"' . $fontfamily . '", "Nunito", Helvetica, Arial, Lucida, sans-serif'; 
+		}
 
 		echo '<style>
 			h1, h2, h3, h4, h5, h6 {
-				font-family: "' . $fontfamily . '";
-
+				font-family: ' . $fontset . ';
 			}
         </style>';
         // End of copy
