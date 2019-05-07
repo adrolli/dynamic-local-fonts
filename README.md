@@ -2,6 +2,9 @@
 
 Using free fonts (Google Fonts and others) locally and dynamically. I use them directly in my WordPress Theme but you may do other fonty things.
 
+## Under development!!!
+Google added new fonts and as I missed some of them I currently develop the part to automate updates. Please stand by.
+
 ## Why?
 
 I love fonts. For my own project I wanted to use Google Fonts as well as some icon fonts without using the Google Fonts CDN. There are good plugins and code snippets for WordPress and hosting Google Fonts locally became very popular because of this GDPR / DSGVO thing. But I wanted to be able to use the fonts dynamically per page, post or archive. So I started to develop my own solution selecting one of the 900 available Google Fonts in WordPress and loading only this Font (plus my default font) for this single page.
